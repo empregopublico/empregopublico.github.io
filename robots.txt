@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://emprego-publico-dados-abertos.github.io/sitemap.xml
+Sitemap: https://empregopublico.github.io/sitemap.xml
