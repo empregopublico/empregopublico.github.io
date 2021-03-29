@@ -2,6 +2,20 @@
 <html lang="en">
   {% include head.html %}
 	<body>
-            {{ content }}
+
+	<h1>{{ page.Trabalho }}</h1>
+	<h2>{{ page.Empregador }} - {{ page.Concelho }}</h2>
+	<h3>Funções:</h3>
+	<p>{{ page.Descricao }}</p>
+	<h3>Data de abertura do concurso:</h3>
+	<p>{{ page.DataAbertura}}</p>
+	<h3>Data de fecho do concurso:</h3>
+	<p>{{ page.DataFecho}}</p>
+	<h3>Como pode candidatar-se a esta oferta de emprego? Informação oficial completa sobre o concurso:</h3>
+	<p><a target="_blank" href="https://www.bep.gov.pt/pages/oferta/Oferta_Detalhes.aspx?CodOferta={{ page.Id }}">https://www.bep.gov.pt/pages/oferta/Oferta_Detalhes.aspx?CodOferta={{ page.Id }}</a></p>
+	<p><br/><br/><br/></p>
+	<p>Informação extraída para <a href="https://empregopublico.github.io/">projecto/iniciativa</a> experimental de dados abertos (open-data).</p>
+		
+        {{ content }}
 	</body>
 </html>
