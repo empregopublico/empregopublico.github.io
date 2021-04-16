@@ -53,5 +53,28 @@ gtag('config', 'G-LVKN1ZRD4E');
 } 
 } 
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+	"@type": "ListItem",
+	"position": 1,
+	"name": "Home",
+	"item": "https://empregopublico.github.io/"
+  },{
+	"@type": "ListItem",
+	"position": 2,
+	"name": "Empregos",
+	"item": "https://empregopublico.github.io/empregos/"
+  },{
+	"@type": "ListItem",
+	"position": 3,
+	"name": "Emprego Ref: {{ page.Id }}",
+	"item": "https://empregopublico.github.io/empregos/j{{ page.Id }}.html"
+  }]
+}
+</script>
   
 </head>
