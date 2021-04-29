@@ -3,92 +3,100 @@
 	{% include head.html %}
 	
 	<body>
-	<p><a href="https://empregopublico.github.io/">Home</a> > <a href="https://empregopublico.github.io/empregos/">Lista Empregos</a> > Oferta  {{ page.Id }}</p>
-	<h1>{{ page.Trabalho }}</h1>
-	<h2>{{ page.Empregador }} - {{ page.Concelho }}</h2>
-	<h3>Funções:</h3>
-	<p>{{ page.Descricao }}</p>
-	<h3>Data de abertura do concurso:</h3>
-	<p>{{ page.DataAbertura}}</p>
-	<h3>Data de fecho do concurso:</h3>
-	<p>{{ page.DataFecho}}</p>
-	<h3>Como poderá candidatar-se a esta oferta de emprego?</h3>
-	<p>Informação completa disponível no site oficial:</p>
-	<p><a target="_blank" href="https://www.bep.gov.pt/pages/oferta/Oferta_Detalhes.aspx?CodOferta={{ page.Id }}">https://www.bep.gov.pt/pages/oferta/Oferta_Detalhes.aspx?CodOferta={{ page.Id }}</a></p>
-	<p><br/></p>
-	<p><br/></p>
-	<p><br/></p>
-	<p><br/></p>
-	<p><br/></p>
-	<p><br/></p>	
-	<p><br/></p>
-	<p><br/></p>
-	<p><br/></p>
-	<p><br/></p>
-	<p><br/></p>
-	<p><br/></p>		
-	<p><a href="https://empregopublico.github.io/">Projecto/iniciativa</a> experimental de dados abertos (open-data).</p>
+	</div>
+		<p><a href="https://empregopublico.github.io/">Home</a> > <a href="https://empregopublico.github.io/empregos/">Lista Empregos</a> > Oferta  {{ page.Id }}</p>
+		<h1>{{ page.Trabalho }}</h1>
+		<h2>{{ page.Empregador }} - {{ page.Concelho }}</h2>
+		<h3>Funções:</h3>
+		<p>{{ page.Descricao }}</p>
+		<h3>Data de abertura do concurso:</h3>
+		<p>{{ page.DataAbertura}}</p>
+		<h3>Data de fecho do concurso:</h3>
+		<p>{{ page.DataFecho}}</p>
+		<h3>Como poderá candidatar-se a esta oferta de emprego?</h3>
+		<p>Informação completa disponível no site oficial:</p>
+		<p><a target="_blank" href="https://www.bep.gov.pt/pages/oferta/Oferta_Detalhes.aspx?CodOferta={{ page.Id }}">https://www.bep.gov.pt/pages/oferta/Oferta_Detalhes.aspx?CodOferta={{ page.Id }}</a></p>
+		<p><br/></p>
+		<p><br/></p>
+		<p><br/></p>
+		<p><br/></p>
+		<p><br/></p>
+		<p><br/></p>	
+		<p><br/></p>
+		<p><br/></p>
+		<p><br/></p>
+		<p><br/></p>
+		<p><br/></p>
+		<p><br/></p>		
+		<p><a href="https://empregopublico.github.io/">Projecto/iniciativa</a> experimental de dados abertos (open-data).</p>
+		</div>
 	
 
 
+	<div>
+		<script type="application/ld+json"> 
+		{ 
+		"@context" : "https://schema.org/", 
+		"@type" : "JobPosting",
+		"title" : "{{ page.Trabalho }}", 
+		"description" : "<p>{{ page.Descricao }}</p>", 
+		"datePosted" : "{{ page.DataAbertura }}", 
+		"validThrough" : "{{ page.DataFecho }}", 
+		"employmentType" : "full_time", 
+		"hiringOrganization" : { 
+		"@type" : "Organization", 
+		"name" : "{{ page.Empregador }}" 
+		}, 
+		"jobLocation": { 
+		"@type": "Place", 
+		"address": {    
+		"@type": "PostalAddress",    
+		"streetAddress": "{{ page.Empregador }}",    
+		"addressLocality": "{{ page.Concelho }}",    
+		"addressRegion": "{{ page.Distrito }}",    
+		"postalCode": "{{ page.CodigoPostal }}",    
+		"addressCountry": "PT"    
+		}    
+		} 
+		} 
+		</script>
+	</div>
 
-	<script type="application/ld+json"> 
-	{ 
-	"@context" : "https://schema.org/", 
-	"@type" : "JobPosting",
-	"title" : "{{ page.Trabalho }}", 
-	"description" : "<p>{{ page.Descricao }}</p>", 
-	"datePosted" : "{{ page.DataAbertura }}", 
-	"validThrough" : "{{ page.DataFecho }}", 
-	"employmentType" : "full_time", 
-	"hiringOrganization" : { 
-	"@type" : "Organization", 
-	"name" : "{{ page.Empregador }}" 
-	}, 
-	"jobLocation": { 
-	"@type": "Place", 
-	"address": {    
-	"@type": "PostalAddress",    
-	"streetAddress": "{{ page.Empregador }}",    
-	"addressLocality": "{{ page.Concelho }}",    
-	"addressRegion": "{{ page.Distrito }}",    
-	"postalCode": "{{ page.CodigoPostal }}",    
-	"addressCountry": "PT"    
-	}    
-	} 
-	} 
-	</script>
-
-	<script type="application/ld+json">
-	{
-	  "@context": "https://schema.org",
-	  "@type": "BreadcrumbList",
-	  "itemListElement": [{
-		"@type": "ListItem",
-		"position": 1,
-		"name": "Home",
-		"item": "https://empregopublico.github.io/"
-	  },{
-		"@type": "ListItem",
-		"position": 2,
-		"name": "Empregos",
-		"item": "https://empregopublico.github.io/empregos/"
-	  },{
-		"@type": "ListItem",
-		"position": 3,
-		"name": "Emprego Ref: {{ page.Id }}",
-		"item": "https://empregopublico.github.io/empregos/j{{ page.Id }}.html"
-	  }]
-	}
-	</script>
+	<div>
+		<script type="application/ld+json">
+		{
+		  "@context": "https://schema.org",
+		  "@type": "BreadcrumbList",
+		  "itemListElement": [{
+			"@type": "ListItem",
+			"position": 1,
+			"name": "Home",
+			"item": "https://empregopublico.github.io/"
+		  },{
+			"@type": "ListItem",
+			"position": 2,
+			"name": "Empregos",
+			"item": "https://empregopublico.github.io/empregos/"
+		  },{
+			"@type": "ListItem",
+			"position": 3,
+			"name": "Emprego Ref: {{ page.Id }}",
+			"item": "https://empregopublico.github.io/empregos/j{{ page.Id }}.html"
+		  }]
+		}
+		</script>
+	</div>	
 	
-	<!-- Global site tag (gtag.js) - Google Analytics -->   
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-LVKN1ZRD4E"></script> 
-	<script>  
-	window.dataLayer = window.dataLayer || [];  
-	function gtag(){dataLayer.push(arguments);}  
-	gtag('js', new Date());   
-	gtag('config', 'G-LVKN1ZRD4E');  
-	</script>  	
+	<div>
+		<!-- Global site tag (gtag.js) - Google Analytics -->   
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-LVKN1ZRD4E"></script> 
+		<script>  
+		window.dataLayer = window.dataLayer || [];  
+		function gtag(){dataLayer.push(arguments);}  
+		gtag('js', new Date());   
+		gtag('config', 'G-LVKN1ZRD4E');  
+		</script>
+	</div>
+  	
 	</body>
 </html>
