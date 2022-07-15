@@ -2,7 +2,7 @@
 
 <meta charset="UTF-8">
 <meta name="HandheldFriendly" content="true" />
-<meta name="description" content="{{ page.Trabalho}}  , {{ page.Concelho }} , concurso, oferta, emprego, dados abertos, open-data">
+<meta name="description" content="{{ page.Trabalho}}  , {{ page.Concelho }} , concurso, oferta, emprego, trabalho, dados abertos, open-data">
 <meta name="author" content="Emprego público dados abertos">
 <meta name="robots" content="follow, index" />
 <link rel="icon" href="/icon.png">
