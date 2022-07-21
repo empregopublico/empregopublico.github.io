@@ -9,14 +9,19 @@
 <link rel="canonical" href="https://empregopublico.github.io/empregos/j{{ page.Id }}.html" />
 <link rel="alternate" type="application/rss+xml"  title="RSS Feed"   href="/rss.xml" />
 <meta property="og:image" content="/logo.png" />
-<meta name="thumbnail" content="/logo.png" />
-<meta name="twitter:image" content="/logo.png" />
-<meta name="twitter:site" content="@publicoemprego" />   
+<meta name="thumbnail" content="/logo.png" /> 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="geo.region" content="PT" />
 <meta name="geo.placename" content="{{ page.Concelho }}" />
 
-<title>{{ page.Trabalho }} | {{ page.Concelho }} | Emprego Público</title>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@publicoemprego" />  
+<meta name="twitter:title" content="Emprego {{ page.Concelho }}" />
+<meta name="twitter:description" content="Oferta de emprego, {{ page.Trabalho}} {{ page.Empregador}} {{ page.Concelho }}" />
+<meta name="twitter:image" content="/logo.png" />
+
+
+<title>{{ page.Trabalho }} | {{ page.Empregador}} |{{ page.Concelho }} | Emprego Público</title>
 
  
       
