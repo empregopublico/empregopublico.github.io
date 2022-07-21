@@ -17,7 +17,7 @@
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@publicoemprego" />  
 <meta name="twitter:title" content="Emprego {{ page.Concelho }}" />
-<meta name="twitter:description" content="Oferta de emprego: {{ page.Trabalho}} {{ page.Empregador}} {{ page.Concelho }}" />
+<meta name="twitter:description" content="Oferta de emprego: {{ page.Trabalho}}, {{ page.Empregador}}, {{ page.Concelho }}" />
 <meta name="twitter:image" content="/logo.png" />
 
 
