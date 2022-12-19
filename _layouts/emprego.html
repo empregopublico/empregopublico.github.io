@@ -35,34 +35,6 @@
 	
 
 
-	<div>
-		<script type="application/ld+json"> 
-		{ 
-		"@context" : "https://schema.org/", 
-		"@type" : "JobPosting",
-		"title" : "{{ page.Trabalho }}", 
-		"description" : "<p>{{ page.Descricao }}</p>", 
-		"datePosted" : "{{ page.DataAbertura }}", 
-		"validThrough" : "{{ page.DataFecho }}", 
-		"employmentType" : "full_time", 
-		"hiringOrganization" : { 
-		"@type" : "Organization", 
-		"name" : "{{ page.Empregador }}" 
-		}, 
-		"jobLocation": { 
-		"@type": "Place", 
-		"address": {    
-		"@type": "PostalAddress",    
-		"streetAddress": "{{ page.Empregador }}",    
-		"addressLocality": "{{ page.Concelho }}",    
-		"addressRegion": "{{ page.Distrito }}",    
-		"postalCode": "{{ page.CodigoPostal }}",    
-		"addressCountry": "PT"    
-		}    
-		} 
-		} 
-		</script>
-	</div>
 
 	<div>
 		<script type="application/ld+json">
