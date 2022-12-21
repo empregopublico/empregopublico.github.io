@@ -42,7 +42,7 @@
 "currency": "EUR",
 "minValue": {
 "@type": "QuantitativeValue",
-"value": "{{ page.Pagamento }}",
+"value": 760,
 "unitText": "MONTH"
 }
 }, 
