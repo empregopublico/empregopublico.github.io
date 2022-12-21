@@ -36,6 +36,15 @@
 "hiringOrganization" : { 
 "@type" : "Organization", 
 "name" : "{{ page.Empregador }}" 
+},
+"baseSalary": {
+"@type": "MonetaryAmount",
+"currency": "EUR",
+"value": {
+"@type": "QuantitativeValue",
+"value": "{{ page.Pagamento }}",
+"unitText": "MONTH"
+}
 }, 
 "jobLocation": { 
 "@type": "Place", 
