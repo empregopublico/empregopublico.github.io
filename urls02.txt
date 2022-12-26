@@ -1,5 +1,11 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+Técnico Superior - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104254.html 
+Assistente Técnico - Região de Turismo do Algarve - Faro: https://empregopublico.github.io/empregos/j104252.html 
+Professor auxiliar - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104251.html 
+Gestor Tributário e Aduaneiro - Autoridade Tributária e Aduaneira - Lisboa: https://empregopublico.github.io/empregos/j104250.html 
+Bombeiro Sapador - Câmara Municipal de Braga - Braga: https://empregopublico.github.io/empregos/j104248.html 
+Assistente Técnico - Serviços Municipalizados de Transportes Coletivos do Barreiro - Barreiro: https://empregopublico.github.io/empregos/j104246.html 
 Assistente Operacional - Câmara Municipal de Ribeira Grande - Ribeira Grande: https://empregopublico.github.io/empregos/j104244.html 
 Técnico Superior - Secretaria-Geral do Ministério do Ambiente  - Lisboa: https://empregopublico.github.io/empregos/j104242.html 
 Assistente Operacional - Escola de Hotelaria e Turismo-Viana do Castelo  - Viana do Castelo: https://empregopublico.github.io/empregos/j104240.html 
@@ -995,9 +1001,3 @@ Técnico Superior - Instituto dos Mercados Públicos, do Imobiliário e da Const
 Assistente Técnico - Comando Distrital de Polícia de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j102973.html 
 Assistente Operacional - Câmara Municipal de Viseu - Viseu: https://empregopublico.github.io/empregos/j102972.html 
 Técnico Superior - Instituto dos Mercados Públicos, do Imobiliário e da Construção, I.P. - Lisboa: https://empregopublico.github.io/empregos/j102971.html 
-Tecnico de Informática Grau 2 Nível 1 - Direção Regional de Agricultura e Pescas do Alentejo - Évora: https://empregopublico.github.io/empregos/j102970.html 
-Assistente Técnico - Comando Distrital de Polícia de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j102969.html 
-Assistente Técnico - Instituto dos Mercados Públicos, do Imobiliário e da Construção, I.P. - Lisboa: https://empregopublico.github.io/empregos/j102968.html 
-Assistente Técnico - Comando Distrital de Polícia de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j102967.html 
-Professor Catedratico - Faculdade de Arquitetura da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j102966.html 
-Assistente Técnico - Polícia de Segurança Pública - Lisboa: https://empregopublico.github.io/empregos/j102965.html 
