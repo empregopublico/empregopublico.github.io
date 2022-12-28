@@ -1,5 +1,16 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+Técnico Superior - Faculdade de Ciências da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104317.html 
+Técnico Superior - Escola Superior de Enfermagem de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104316.html 
+Técnico Superior - Conselho Nacional do Ambiente e do Desenvolvimento Sustentável - Lisboa: https://empregopublico.github.io/empregos/j104315.html 
+Assistente Técnico - Agência para a Modernização Administrativa, I.P. - Loja do Cidadão de Vila Nova de Gaia - Vila Nova de Gaia: https://empregopublico.github.io/empregos/j104314.html 
+Investigador Principal - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104312.html 
+Investigador - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104310.html 
+Assistente graduado sénior - Centro Hospitalar e Universitário de Coimbra, E.P.E. - Coimbra: https://empregopublico.github.io/empregos/j104309.html 
+Investigador - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104307.html 
+Assistente graduado sénior - Centro Hospitalar e Universitário de Coimbra, E.P.E. - Coimbra: https://empregopublico.github.io/empregos/j104306.html 
+Investigador - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104304.html 
+Professor associado - Universidade Nova de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104301.html 
 Professor adjunto - Escola Superior de Música de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104300.html 
 Professor adjunto - Escola Superior de Saúde de Leiria - Leiria: https://empregopublico.github.io/empregos/j104299.html 
 Assistente Operacional - Câmara Municipal de Braga - Braga: https://empregopublico.github.io/empregos/j104298.html 
@@ -990,14 +1001,3 @@ Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.
 Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103033.html 
 Professor auxiliar - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j103031.html 
 Professor associado - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103030.html 
-Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional do Alentejo - Évora: https://empregopublico.github.io/empregos/j103029.html 
-Professor auxiliar - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j103028.html 
-Assistente Técnico - Instituto dos Registos e do Notariado, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103025.html 
-Professor adjunto - Escola Superior de Educação do Porto - Porto: https://empregopublico.github.io/empregos/j103023.html 
-Técnico Superior - Câmara Municipal de Idanha-a-Nova - Idanha-a-Nova: https://empregopublico.github.io/empregos/j103021.html 
-Assistente Técnico - Conservatória dos Registos Predial-Comercial-Automóvel - Évora - Évora: https://empregopublico.github.io/empregos/j103020.html 
-Técnico Superior - Direção-Geral do Orçamento  - Lisboa: https://empregopublico.github.io/empregos/j103019.html 
-Assistente Técnico - Conservatória do Registo Civil-Predial-Comercial - Cantanhede - Cantanhede: https://empregopublico.github.io/empregos/j103017.html 
-Assistente Técnico - Serviço de Estrangeiros e Fronteiras - Oeiras: https://empregopublico.github.io/empregos/j103016.html 
-Técnico Superior - Câmara Municipal de Miranda do Corvo - Miranda do Corvo: https://empregopublico.github.io/empregos/j103011.html 
-Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional do Alentejo - Évora: https://empregopublico.github.io/empregos/j103010.html 
