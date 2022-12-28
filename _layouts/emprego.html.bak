@@ -5,64 +5,29 @@
 	<body>
 	<div>
 		<p><a href="https://empregopublico.github.io/">Home</a> > <a href="https://empregopublico.github.io/empregos/">Lista Empregos</a> > Oferta  {{ page.Id }}</p>
-		<h1>{{ page.Trabalho }}</h1>
+		<h1>{{ page.Trabalho }} - emprego</h1>
 		<h2>{{ page.Empregador }} - {{ page.Concelho }}</h2>
-		<h3>Funções:</h3>
+		<h3>Funções do emprego:</h3>
 		<p>{{ page.Descricao }}</p>
-		<h3>Data de abertura do concurso:</h3>
+		<h3>Data de abertura do concurso de emprego:</h3>
 		<p>{{ page.DataAbertura}}</p>
-		<h3>Data de fecho do concurso:</h3>
+		<h3>Data de fecho do concurso de emprego:</h3>
 		<p>{{ page.DataFecho}}</p>
 		<h3>Como poderá candidatar-se a esta oferta de emprego?</h3>
-		<p>Informação completa disponível no site oficial:</p>
+		<p>Informação completa disponível no site oficial da oferta de emprego:</p>
 		<p><a target="_blank" href="https://www.bep.gov.pt/pages/oferta/Oferta_Detalhes.aspx?CodOferta={{ page.Id }}">https://www.bep.gov.pt/pages/oferta/Oferta_Detalhes.aspx?CodOferta={{ page.Id }}</a></p>
 		<h3>English version?</h3>
 		<p><a target="_blank" href="https://translate.google.com/translate?js=n&sl=pt&tl=en&u=https://empregopublico.github.io/empregos/j{{ page.Id }}.html">You can find an English version in this link.</a>.</p>
 		<p><br/></p>
-		<p><br/></p>
-		<p><br/></p>
-		<p><br/></p>
-		<p><br/></p>
-		<p><br/></p>	
-		<p><br/></p>
-		<p><br/></p>
-		<p><br/></p>
-		<p><br/></p>
+		<p><br/></p>			
+		<p><a href="https://empregopublico.github.io/">Projecto/iniciativa</a> experimental de dados abertos (open-data).</p>
+		<p>Segue este projecto no <a href="https://twitter.com/publicoemprego">Twitter</a> ou no <a href="https://www.linkedin.com/company/emprego-publico-dados-abertos/posts/">LinkedIn</a>.</p>
 		<p><br/></p>
 		<p><br/></p>		
-		<p><a href="https://empregopublico.github.io/">Projecto/iniciativa</a> experimental de dados abertos (open-data).</p>
 	</div>
 	
 
 
-	<div>
-		<script type="application/ld+json"> 
-		{ 
-		"@context" : "https://schema.org/", 
-		"@type" : "JobPosting",
-		"title" : "{{ page.Trabalho }}", 
-		"description" : "<p>{{ page.Descricao }}</p>", 
-		"datePosted" : "{{ page.DataAbertura }}", 
-		"validThrough" : "{{ page.DataFecho }}", 
-		"employmentType" : "full_time", 
-		"hiringOrganization" : { 
-		"@type" : "Organization", 
-		"name" : "{{ page.Empregador }}" 
-		}, 
-		"jobLocation": { 
-		"@type": "Place", 
-		"address": {    
-		"@type": "PostalAddress",    
-		"streetAddress": "{{ page.Empregador }}",    
-		"addressLocality": "{{ page.Concelho }}",    
-		"addressRegion": "{{ page.Distrito }}",    
-		"postalCode": "{{ page.CodigoPostal }}",    
-		"addressCountry": "PT"    
-		}    
-		} 
-		} 
-		</script>
-	</div>
 
 	<div>
 		<script type="application/ld+json">
