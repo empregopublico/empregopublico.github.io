@@ -1,5 +1,17 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+Professor adjunto - Escola Superior de Música de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104300.html 
+Professor adjunto - Escola Superior de Saúde de Leiria - Leiria: https://empregopublico.github.io/empregos/j104299.html 
+Assistente Operacional - Câmara Municipal de Braga - Braga: https://empregopublico.github.io/empregos/j104298.html 
+Doutorado/a de nível inicial - Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j104297.html 
+Assistente Operacional - Câmara Municipal de Braga - Braga: https://empregopublico.github.io/empregos/j104296.html 
+Assistente Operacional - Câmara Municipal de Braga - Braga: https://empregopublico.github.io/empregos/j104294.html 
+Técnico Superior - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104293.html 
+Assistente Operacional - Câmara Municipal de Braga - Braga: https://empregopublico.github.io/empregos/j104292.html 
+Doutorado/a de nível inicial - Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j104291.html 
+Técnico Superior - Câmara Municipal de Braga - Braga: https://empregopublico.github.io/empregos/j104289.html 
+Assistente Operacional - Junta de Freguesia de Viseu - Viseu: https://empregopublico.github.io/empregos/j104282.html 
+Técnico Superior - Secretaria-Geral do Ministério dos Negócios Estrangeiros - Lisboa: https://empregopublico.github.io/empregos/j104281.html 
 Técnico Superior - Câmara Municipal de Braga - Braga: https://empregopublico.github.io/empregos/j104280.html 
 Assistente Operacional - Junta de Freguesia de Souto da Casa - Fundão: https://empregopublico.github.io/empregos/j104279.html 
 Assistente Operacional - Exército - Portugal Continental - Lisboa: https://empregopublico.github.io/empregos/j104278.html 
@@ -989,15 +1001,3 @@ Assistente Técnico - Conservatória do Registo Civil-Predial-Comercial - Cantan
 Assistente Técnico - Serviço de Estrangeiros e Fronteiras - Oeiras: https://empregopublico.github.io/empregos/j103016.html 
 Técnico Superior - Câmara Municipal de Miranda do Corvo - Miranda do Corvo: https://empregopublico.github.io/empregos/j103011.html 
 Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional do Alentejo - Évora: https://empregopublico.github.io/empregos/j103010.html 
-Técnico Superior - Serviços de Ação Social da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103008.html 
-Assistente Técnico - Serviço de Estrangeiros e Fronteiras - Oeiras: https://empregopublico.github.io/empregos/j103007.html 
-Assistente Operacional - Junta de Freguesia de São Bento - Porto de Mós: https://empregopublico.github.io/empregos/j103006.html 
-Assistente Técnico - Comando Regional de Emergência e Proteção Civil do Algarve - Loulé: https://empregopublico.github.io/empregos/j103005.html 
-Assistente Técnico - Comando Regional de Emergência e Proteção Civil do Alentejo - Évora: https://empregopublico.github.io/empregos/j103004.html 
-Assistente Técnico - Comando Regional de Emergência e Proteção Civil de Lisboa e Vale do Tejo - Almeirim: https://empregopublico.github.io/empregos/j103003.html 
-Assistente Técnico - Comando Regional de Emergência e Proteção Civil do Centro - Viseu: https://empregopublico.github.io/empregos/j103002.html 
-Técnico superior das áreas de diagnóstico e terapêutica - Instituto Nacional de Saúde Doutor Ricardo Jorge, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103001.html 
-Professor associado - Faculdade de Belas-Artes da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103000.html 
-Assistente Técnico - Comando Regional de Emergência e Proteção Civil do Norte - Vila Real: https://empregopublico.github.io/empregos/j102999.html 
-Assistente - Centro de Saúde Viana do Alentejo - Viana do Alentejo: https://empregopublico.github.io/empregos/j102998.html 
-Assistente Técnico - Autoridade Nacional de Emergência e Proteção Civil  - Oeiras: https://empregopublico.github.io/empregos/j102997.html 
