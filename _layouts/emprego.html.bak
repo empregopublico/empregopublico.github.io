@@ -5,8 +5,8 @@
 	<body>
 	<div>
 		<p><a href="https://empregopublico.github.io/">Home</a> > <a href="https://empregopublico.github.io/empregos/">Lista Empregos</a> > Oferta  {{ page.Id }}</p>
-		<h1>{{ page.Trabalho }} - emprego {{ page.Distrito }}</h1>
-		<h2>{{ page.Empregador }} - {{ page.Concelho }}</h2>
+		<h1>{{ page.Trabalho }} - emprego {{ page.Concelho }}, {{ page.Distrito }}</h1>
+		<h2>{{ page.Empregador }}</h2>
 		<h3>Funções do emprego:</h3>
 		<p>{{ page.Descricao }}</p>
 		<h3>Data de abertura do concurso de emprego:</h3>
