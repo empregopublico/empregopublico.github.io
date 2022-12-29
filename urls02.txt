@@ -1,5 +1,35 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+Professor auxiliar - Instituto Superior de Ciências Sociais e Políticas da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j104352.html 
+Técnico de Informática - Inspeção-Geral de Finanças - Lisboa: https://empregopublico.github.io/empregos/j104351.html 
+Especialista de Informática - Inspeção-Geral de Finanças - Lisboa: https://empregopublico.github.io/empregos/j104350.html 
+Assistente Operacional - Junta de Freguesia de Pechão - Olhão: https://empregopublico.github.io/empregos/j104349.html 
+Professor adjunto - Instituto Superior de Contabilidade e Administração de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104348.html 
+Assistente Técnico - Inspeção-Geral de Finanças - Lisboa: https://empregopublico.github.io/empregos/j104347.html 
+Técnico Superior - Câmara Municipal de Bragança - Bragança: https://empregopublico.github.io/empregos/j104346.html 
+Assistente Operacional - Câmara Municipal de Oliveira do Bairro - Oliveira do Bairro: https://empregopublico.github.io/empregos/j104345.html 
+Professor auxiliar - Faculdade de Psicologia e de Ciências da Educação da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j104344.html 
+Professor coordenador - Instituto Superior de Engenharia de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104342.html 
+Assistente Operacional - Polo de Braga - Braga: https://empregopublico.github.io/empregos/j104341.html 
+Carreira de segurança - Polícia Judiciária - Lisboa: https://empregopublico.github.io/empregos/j104340.html 
+Técnico Superior - Secretaria-Geral da Presidência de Conselho de Ministros - Lisboa: https://empregopublico.github.io/empregos/j104338.html 
+Carreira de especialista de polícia científica - Polícia Judiciária - Lisboa: https://empregopublico.github.io/empregos/j104335.html 
+Carreira de investigação criminal - Polícia Judiciária - Lisboa: https://empregopublico.github.io/empregos/j104334.html 
+Técnico Superior - Secretaria-Geral da Educação e Ciência  - Lisboa: https://empregopublico.github.io/empregos/j104333.html 
+Técnico Superior - Câmara Municipal de Lagoa (Algarve) - Lagoa: https://empregopublico.github.io/empregos/j104332.html 
+Assistente Técnico - Conservatória dos Registos Civil-Predial-Comercial - Torre de Moncorvo - Torre de Moncorvo: https://empregopublico.github.io/empregos/j104331.html 
+Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil do Algarve - Loulé: https://empregopublico.github.io/empregos/j104330.html 
+Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil do Alentejo Central - Évora: https://empregopublico.github.io/empregos/j104329.html 
+Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil da Lezíria do Tejo - Almeirim: https://empregopublico.github.io/empregos/j104328.html 
+Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil do Baixo Alentejo - Beja: https://empregopublico.github.io/empregos/j104327.html 
+Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil do Médio Tejo - Vila Nova da Barquinha: https://empregopublico.github.io/empregos/j104326.html 
+Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil da Beira Baixa - Castelo Branco: https://empregopublico.github.io/empregos/j104325.html 
+Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil do Oeste - Caldas da Rainha: https://empregopublico.github.io/empregos/j104324.html 
+Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil do Tâmega e Sousa - Baião: https://empregopublico.github.io/empregos/j104323.html 
+Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil do Alto Tâmega - Chaves: https://empregopublico.github.io/empregos/j104322.html 
+Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil do Ave - Fafe: https://empregopublico.github.io/empregos/j104321.html 
+Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil do Minho - Viana do Castelo: https://empregopublico.github.io/empregos/j104320.html 
+Assistente Técnico - Autoridade Nacional de Emergência e Proteção Civil  - Oeiras: https://empregopublico.github.io/empregos/j104319.html 
 Técnico Superior - Faculdade de Ciências da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104317.html 
 Técnico Superior - Escola Superior de Enfermagem de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104316.html 
 Técnico Superior - Conselho Nacional do Ambiente e do Desenvolvimento Sustentável - Lisboa: https://empregopublico.github.io/empregos/j104315.html 
@@ -971,33 +1001,3 @@ Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil da 
 Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil do Dão Lafões - Viseu: https://empregopublico.github.io/empregos/j103068.html 
 Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil da Região de Leiria - Leiria: https://empregopublico.github.io/empregos/j103067.html 
 Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil da Região de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103066.html 
-Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil da Região de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j103065.html 
-Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil das Beiras e Serra da Estrela - Guarda: https://empregopublico.github.io/empregos/j103064.html 
-Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil da Beira Baixa - Castelo Branco: https://empregopublico.github.io/empregos/j103063.html 
-Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil de Terras de Trás-os-Montes - Bragança: https://empregopublico.github.io/empregos/j103062.html 
-Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil do Tâmega e Sousa - Baião: https://empregopublico.github.io/empregos/j103061.html 
-Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil do Douro - Vila Real: https://empregopublico.github.io/empregos/j103060.html 
-Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil do Cávado - Braga: https://empregopublico.github.io/empregos/j103059.html 
-Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil do Ave - Fafe: https://empregopublico.github.io/empregos/j103058.html 
-Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil de Porto - Porto: https://empregopublico.github.io/empregos/j103057.html 
-Assistente Técnico - Comando Sub-regional de Emergência e Proteção Civil do Alto Tâmega - Chaves: https://empregopublico.github.io/empregos/j103056.html 
-Assistente Técnico - Secretaria-Geral do Ministério do Ambiente  - Lisboa: https://empregopublico.github.io/empregos/j103055.html 
-Assistente Técnico - Serviços Sociais da Guarda Nacional Republicana - Lisboa: https://empregopublico.github.io/empregos/j103054.html 
-Professor associado - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103053.html 
-Assistente Técnico - Serviços Sociais da Guarda Nacional Republicana - Lisboa: https://empregopublico.github.io/empregos/j103050.html 
-Técnico Superior - Câmara Municipal de Ponta do Sol - Ponta do Sol: https://empregopublico.github.io/empregos/j103049.html 
-Professor associado - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103048.html 
-Técnico Superior - Câmara Municipal de Ponta do Sol - Ponta do Sol: https://empregopublico.github.io/empregos/j103047.html 
-Professor associado - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103045.html 
-Professor associado - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103044.html 
- - Centro Protocolar de Formação Profissional para Jornalistas - Lisboa: https://empregopublico.github.io/empregos/j103043.html 
-Professor auxiliar - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103042.html 
-Assistente Técnico - Laboratório Nacional de Engenharia Civil, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103041.html 
-Professor auxiliar - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103039.html 
-Encarregado Geral Operacional - Câmara Municipal de Leiria - Leiria: https://empregopublico.github.io/empregos/j103038.html 
-Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103036.html 
-Assistente Operacional - Câmara Municipal de Ponta Delgada - Ponta Delgada: https://empregopublico.github.io/empregos/j103035.html 
-Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103034.html 
-Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103033.html 
-Professor auxiliar - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j103031.html 
-Professor associado - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103030.html 
