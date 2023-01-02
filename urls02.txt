@@ -1,5 +1,17 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+Investigador - Faculdade de Ciências da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j104392.html 
+Professor Catedratico - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104391.html 
+Técnico Superior - Direção-Geral da Segurança Social - Lisboa: https://empregopublico.github.io/empregos/j104389.html 
+Professor Associado - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104388.html 
+Técnico Superior - Instituto Nacional de Estatística, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104386.html 
+Assistente Técnico - Arquivo Distrital de Viana do Castelo - Viana do Castelo: https://empregopublico.github.io/empregos/j104385.html 
+Técnico Superior - Serviços Intermunicipalizados de Água e Saneamento dos Municípios de Oeiras e Amadora - Oeiras: https://empregopublico.github.io/empregos/j104384.html 
+Assistente Técnico - Arquivo Distrital de Castelo Branco - Castelo Branco: https://empregopublico.github.io/empregos/j104383.html 
+Assistente Técnico - Direção-Geral do Livro, dos Arquivos e das Bibliotecas - Lisboa: https://empregopublico.github.io/empregos/j104382.html 
+Assistente Operacional - Direção-Geral do Livro, dos Arquivos e das Bibliotecas - Lisboa: https://empregopublico.github.io/empregos/j104381.html 
+Assessor - Centro Hospitalar Universitário Lisboa Central, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j104380.html 
+Técnico Superior - Direção-Geral do Livro, dos Arquivos e das Bibliotecas - Lisboa: https://empregopublico.github.io/empregos/j104379.html 
 Assistente Operacional - Junta de Freguesia de Campo e Sobrado - Valongo: https://empregopublico.github.io/empregos/j104377.html 
 Técnico Superior - Instituto da Habitação e da Reabilitação Urbana, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104376.html 
 Assistente Técnico - Câmara Municipal de Amares - Amares: https://empregopublico.github.io/empregos/j104375.html 
@@ -989,15 +1001,3 @@ Técnico Superior - Câmara Municipal da Marinha Grande - Marinha Grande: https:
 Técnico Superior - Câmara Municipal da Marinha Grande - Marinha Grande: https://empregopublico.github.io/empregos/j103120.html 
 Assistente Operacional - Junta de Freguesia de Mazedo e Cortes - Monção: https://empregopublico.github.io/empregos/j103119.html 
 Assistente Operacional - Junta de Freguesia de Mazedo e Cortes - Monção: https://empregopublico.github.io/empregos/j103118.html 
-Técnico Superior - Cinemateca Portuguesa - Museu do Cinema, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103117.html 
-Técnico Superior - Câmara Municipal de Almada - Almada: https://empregopublico.github.io/empregos/j103116.html 
-Técnico Superior - Cinemateca Portuguesa - Museu do Cinema, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103115.html 
-Assistente Técnico - Câmara Municipal da Lourinhã - Lourinhã: https://empregopublico.github.io/empregos/j103114.html 
-Assistente graduado sénior - Centro Hospitalar Universitário do Algarve, E.P.E. - Faro: https://empregopublico.github.io/empregos/j103113.html 
-Assistente Técnico - Faculdade de Motricidade Humana da Universidade de Lisboa - Oeiras: https://empregopublico.github.io/empregos/j103112.html 
-Técnico de Informática - Instituto dos Mercados Públicos, do Imobiliário e da Construção, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103111.html 
-Assistente Operacional - Câmara Municipal de Portimão - Portimão: https://empregopublico.github.io/empregos/j103110.html 
-Técnico Superior - Câmara Municipal de Loures - Loures: https://empregopublico.github.io/empregos/j103109.html 
-Tecnico de Informática Grau 1 Nível 1 - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103107.html 
-Técnico Superior - Câmara Municipal de Serpa - Serpa: https://empregopublico.github.io/empregos/j103106.html 
-Assistente Técnico - Serviços Sociais da Administração Pública - Lisboa: https://empregopublico.github.io/empregos/j103104.html 
