@@ -1,5 +1,22 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+Assistente de Investigação - Faculdade de Ciências da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j104409.html 
+Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104408.html 
+Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104407.html 
+Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104406.html 
+Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104405.html 
+Assistente Técnico - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104404.html 
+Assistente Operacional - Junta de Freguesia de Évora (São Mamede, Sé, São Pedro e Santo Antão) - Évora: https://empregopublico.github.io/empregos/j104403.html 
+Técnico Superior - Exército - Portugal Continental - Lisboa: https://empregopublico.github.io/empregos/j104402.html 
+Técnico Superior - Câmara Municipal de Viseu - Viseu: https://empregopublico.github.io/empregos/j104401.html 
+Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j104400.html 
+Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j104399.html 
+Professor Catedratico - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104398.html 
+Professor Associado - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104397.html 
+Professor Associado - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104396.html 
+Técnico Superior - Instituto da Mobilidade e dos Transportes, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104395.html 
+Técnico Superior - Instituto da Mobilidade e dos Transportes, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104394.html 
+Professor Associado - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104393.html 
 Investigador - Faculdade de Ciências da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j104392.html 
 Professor Catedratico - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104391.html 
 Técnico Superior - Direção-Geral da Segurança Social - Lisboa: https://empregopublico.github.io/empregos/j104389.html 
@@ -984,20 +1001,3 @@ Investigador Auxiliar - Universidade de Coimbra - Coimbra: https://empregopublic
 Assistente Técnico - Unidade Regional do Norte - Porto: https://empregopublico.github.io/empregos/j103139.html 
 Técnico Superior - Câmara Municipal de Matosinhos - Matosinhos: https://empregopublico.github.io/empregos/j103138.html 
 Assistente - Agência para a Modernização Administrativa, I.P. - Loja do Cidadão das Laranjeiras - Lisboa: https://empregopublico.github.io/empregos/j103136.html 
-Técnico Superior - Faculdade de Farmácia da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103135.html 
-Técnico Superior - Universidade Aberta - Lisboa: https://empregopublico.github.io/empregos/j103134.html 
-Técnico Superior - Instituto Superior de Engenharia de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103132.html 
-Assistente Operacional - Câmara Municipal de Terras de Bouro - Terras de Bouro: https://empregopublico.github.io/empregos/j103131.html 
-Assistente Técnico - Instituto Superior de Engenharia de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103130.html 
-Técnico Superior - Laboratório Nacional de Engenharia Civil, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103129.html 
-Assistente Técnico - Universidade dos Açores - Angra do Heroísmo - Angra do Heroísmo: https://empregopublico.github.io/empregos/j103128.html 
-Técnico Superior - Autoridade de Supervisão de Seguros e Fundos de Pensões - Lisboa: https://empregopublico.github.io/empregos/j103127.html 
-Técnico Superior - Autoridade de Supervisão de Seguros e Fundos de Pensões - Lisboa: https://empregopublico.github.io/empregos/j103126.html 
-Técnico Superior - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j103125.html 
-Técnico Superior - Instituto de Informática, I.P. - Oeiras: https://empregopublico.github.io/empregos/j103124.html 
-Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j103123.html 
-Técnico superior das áreas de diagnóstico e terapêutica - Centro de Sangue e Transplantação de Lisboa - Área Funcional do Sangue  - Lisboa: https://empregopublico.github.io/empregos/j103122.html 
-Técnico Superior - Câmara Municipal da Marinha Grande - Marinha Grande: https://empregopublico.github.io/empregos/j103121.html 
-Técnico Superior - Câmara Municipal da Marinha Grande - Marinha Grande: https://empregopublico.github.io/empregos/j103120.html 
-Assistente Operacional - Junta de Freguesia de Mazedo e Cortes - Monção: https://empregopublico.github.io/empregos/j103119.html 
-Assistente Operacional - Junta de Freguesia de Mazedo e Cortes - Monção: https://empregopublico.github.io/empregos/j103118.html 
