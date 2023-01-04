@@ -1,5 +1,33 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+Professor auxiliar - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104438.html 
+Assistente Operacional - Câmara Municipal de Viseu - Viseu: https://empregopublico.github.io/empregos/j104437.html 
+Professor adjunto - Instituto Superior de Engenharia de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104436.html 
+Professor auxiliar - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104435.html 
+Técnico Superior - Fundação para a Ciência e a Tecnologia, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104433.html 
+Assistente Operacional - Câmara Municipal de Lamego - Lamego: https://empregopublico.github.io/empregos/j104432.html 
+Técnico Superior - Câmara Municipal de Odemira - Odemira: https://empregopublico.github.io/empregos/j104431.html 
+Assistente Técnico - Instituto Nacional da Propriedade Industrial, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104430.html 
+Professor adjunto - Escola Superior de Música de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104429.html 
+Professor Associado - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104428.html 
+Técnico Superior - Instituto Nacional de Saúde Doutor Ricardo Jorge, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104427.html 
+Técnico Superior - Instituto Nacional de Saúde Doutor Ricardo Jorge, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104426.html 
+Técnico Superior - Instituto Nacional de Saúde Doutor Ricardo Jorge, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104425.html 
+Assistente Técnico - Instituto Nacional de Saúde Doutor Ricardo Jorge, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104424.html 
+Técnico Superior - Infarmed - Autoridade Nacional do Medicamento e Produtos de Saúde, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104423.html 
+Assistente Técnico - Infarmed - Autoridade Nacional do Medicamento e Produtos de Saúde, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104422.html 
+Assistente Técnico - Infarmed - Autoridade Nacional do Medicamento e Produtos de Saúde, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104421.html 
+Professor Associado - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104420.html 
+Professor Associado - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104419.html 
+Professor Associado - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104418.html 
+Assistente Técnico - Câmara Municipal de Caldas da Rainha - Caldas da Rainha: https://empregopublico.github.io/empregos/j104417.html 
+Assistente Técnico - Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo - Lisboa: https://empregopublico.github.io/empregos/j104416.html 
+Técnico Superior - Camões - Instituto da Cooperação e da Língua, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104415.html 
+Assistente Técnico - Inspeção-Geral das Atividades em Saúde - Lisboa: https://empregopublico.github.io/empregos/j104414.html 
+Técnico Superior - Casa Pia de Lisboa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104413.html 
+Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104412.html 
+Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104411.html 
+Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104410.html 
 Assistente de Investigação - Faculdade de Ciências da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j104409.html 
 Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104408.html 
 Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104407.html 
@@ -973,31 +1001,3 @@ Técnico Superior - Câmara Municipal da Moita - Moita: https://empregopublico.g
 Técnico Superior - Câmara Municipal da Moita - Moita: https://empregopublico.github.io/empregos/j103186.html 
 Técnico Superior - Camões - Instituto da Cooperação e da Língua, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103185.html 
 Professor adjunto - Instituto Politécnico de Viseu - Viseu: https://empregopublico.github.io/empregos/j103184.html 
-Técnico Superior - Faculdade de Ciências da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103183.html 
-Técnico Superior - Câmara Municipal da Moita - Moita: https://empregopublico.github.io/empregos/j103182.html 
-Técnico Superior - Câmara Municipal da Moita - Moita: https://empregopublico.github.io/empregos/j103181.html 
-Investigador - Faculdade de Ciências da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j103179.html 
-Técnico Superior - LIPOR - Serviço Intermunicipalizado de Gestão de Resíduos do Grande Porto - Gondomar: https://empregopublico.github.io/empregos/j103178.html 
-Assistente Técnico - Superintendência do Pessoal - Lisboa: https://empregopublico.github.io/empregos/j103177.html 
-Assistente Operacional - Junta de Freguesia de Gâmbia-Pontes-Alto da Guerra - Setúbal: https://empregopublico.github.io/empregos/j103176.html 
-Especialista - Agência para a Modernização Administrativa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103175.html 
-Assistente Técnico - Associação de Municípios Parque das Serras do Porto - Valongo: https://empregopublico.github.io/empregos/j103174.html 
-Assistente Operacional - Câmara Municipal da Batalha - Batalha: https://empregopublico.github.io/empregos/j103173.html 
-Assistente Operacional - Câmara Municipal da Batalha - Batalha: https://empregopublico.github.io/empregos/j103172.html 
-Técnico Superior - Associação de Municípios Parque das Serras do Porto - Valongo: https://empregopublico.github.io/empregos/j103171.html 
-Assistente Operacional - Junta de Freguesia de Poceirão e Marateca - Palmela: https://empregopublico.github.io/empregos/j103170.html 
-Técnico Superior - Polícia Judiciária - Lisboa: https://empregopublico.github.io/empregos/j103169.html 
-Investigador - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j103164.html 
-Técnico Superior - Camões - Instituto da Cooperação e da Língua, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103158.html 
-Técnico Superior - Direção-Geral da Agricultura e Desenvolvimento Rural  - Lisboa: https://empregopublico.github.io/empregos/j103155.html 
-Professor auxiliar - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103153.html 
-Assistente Operacional - Junta de Freguesia de Ceira - Coimbra: https://empregopublico.github.io/empregos/j103150.html 
-Técnico Superior - Camões - Instituto da Cooperação e da Língua, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103145.html 
-Técnico Superior - Alto Comissariado para as Migrações, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103144.html 
-Técnico Superior - Instituto dos Vinhos do Douro e do Porto, I.P. - Delegação do Porto  - Porto: https://empregopublico.github.io/empregos/j103143.html 
-Técnico Superior - Instituto Português do Mar e da Atmosfera, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103142.html 
-Doutorado Equiparado a Investigador Auxiliar - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j103141.html 
-Investigador Auxiliar - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103140.html 
-Assistente Técnico - Unidade Regional do Norte - Porto: https://empregopublico.github.io/empregos/j103139.html 
-Técnico Superior - Câmara Municipal de Matosinhos - Matosinhos: https://empregopublico.github.io/empregos/j103138.html 
-Assistente - Agência para a Modernização Administrativa, I.P. - Loja do Cidadão das Laranjeiras - Lisboa: https://empregopublico.github.io/empregos/j103136.html 
