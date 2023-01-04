@@ -1,5 +1,24 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+Professor adjunto - Instituto Politécnico de Castelo Branco - Castelo Branco: https://empregopublico.github.io/empregos/j104457.html 
+Assistente Operacional - Junta de Freguesia de São João de Ver - Santa Maria da Feira: https://empregopublico.github.io/empregos/j104456.html 
+Assistente Técnico - Comunidade Intermunicipal da Região de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104455.html 
+Assistente Técnico - Turismo de Portugal, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104454.html 
+Assistente Técnico - Turismo de Portugal, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104453.html 
+Coordenador - Autoridade de Supervisão de Seguros e Fundos de Pensões - Lisboa: https://empregopublico.github.io/empregos/j104452.html 
+Coordenador - Autoridade de Supervisão de Seguros e Fundos de Pensões - Lisboa: https://empregopublico.github.io/empregos/j104451.html 
+Investigador - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104450.html 
+Técnico Superior - Turismo de Portugal, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104449.html 
+Assistente Técnico - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j104448.html 
+Assistente Operacional - Casa Pia de Lisboa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104447.html 
+Assistente Técnico - Secretaria-Geral do Ministério dos Negócios Estrangeiros - Lisboa: https://empregopublico.github.io/empregos/j104446.html 
+Assistente Técnico - Direção-Geral da Segurança Social - Lisboa: https://empregopublico.github.io/empregos/j104445.html 
+Técnico Superior - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104444.html 
+Técnico de Informática Forense (integração na carreira de técnico especializado) - Autoridade da Concorrência - Lisboa: https://empregopublico.github.io/empregos/j104443.html 
+Assistente Técnico - Agência Portuguesa do Ambiente, I.P. - Amadora: https://empregopublico.github.io/empregos/j104442.html 
+Assistente Operacional - Junta de Freguesia de São Domingos de Benfica - Lisboa: https://empregopublico.github.io/empregos/j104441.html 
+Assistente Técnico - Instituto Politécnico de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104440.html 
+Assistente Operacional - Câmara Municipal de Loures - Loures: https://empregopublico.github.io/empregos/j104439.html 
 Professor auxiliar - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104438.html 
 Assistente Operacional - Câmara Municipal de Viseu - Viseu: https://empregopublico.github.io/empregos/j104437.html 
 Professor adjunto - Instituto Superior de Engenharia de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104436.html 
@@ -982,22 +1001,3 @@ Assistente Operacional - Junta de Freguesia de Cambas - Oleiros: https://emprego
 Assistente Operacional - Faculdade de Arquitetura da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103209.html 
 Assistente Técnico - DSAG - Serviços Centrais da ACT - Lisboa: https://empregopublico.github.io/empregos/j103208.html 
 Doutorado Equiparado a Investigador Auxiliar - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j103207.html 
-Técnico Superior - Autoridade Tributária e Aduaneira - Lisboa: https://empregopublico.github.io/empregos/j103206.html 
-Especialista Informática Grau 1 Nível 2 - Instituto Politécnico de Bragança - Bragança: https://empregopublico.github.io/empregos/j103205.html 
-Professor adjunto - Instituto Politécnico de Viseu - Viseu: https://empregopublico.github.io/empregos/j103204.html 
-Técnico Superior - Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa -  NOVA School of Science and Tech - Almada: https://empregopublico.github.io/empregos/j103203.html 
-Técnico Superior - Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa -  NOVA School of Science and Tech - Almada: https://empregopublico.github.io/empregos/j103202.html 
-Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j103200.html 
-Assistente Operacional - Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa -  NOVA School of Science and Tech - Almada: https://empregopublico.github.io/empregos/j103199.html 
-Assistente graduado sénior - Centro Hospitalar e Universitário de Coimbra, E.P.E. - Coimbra: https://empregopublico.github.io/empregos/j103198.html 
-Assistente Técnico - Biblioteca Nacional de Portugal - Lisboa: https://empregopublico.github.io/empregos/j103197.html 
-Técnico Superior - Direção-Geral das Autarquias Locais - Lisboa: https://empregopublico.github.io/empregos/j103196.html 
-Técnico Superior - Agência Portuguesa do Ambiente, I.P. - Amadora: https://empregopublico.github.io/empregos/j103195.html 
-Técnico Superior - Câmara Municipal de Loures - Loures: https://empregopublico.github.io/empregos/j103194.html 
-Professor adjunto - Instituto Politécnico de Viseu - Viseu: https://empregopublico.github.io/empregos/j103193.html 
-Técnico Superior - Direção Regional de Cultura do Norte - Vila Real: https://empregopublico.github.io/empregos/j103192.html 
-Assistente Operacional - Câmara Municipal de Tondela - Tondela: https://empregopublico.github.io/empregos/j103189.html 
-Técnico Superior - Câmara Municipal da Moita - Moita: https://empregopublico.github.io/empregos/j103187.html 
-Técnico Superior - Câmara Municipal da Moita - Moita: https://empregopublico.github.io/empregos/j103186.html 
-Técnico Superior - Camões - Instituto da Cooperação e da Língua, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103185.html 
-Professor adjunto - Instituto Politécnico de Viseu - Viseu: https://empregopublico.github.io/empregos/j103184.html 
