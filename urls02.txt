@@ -1,5 +1,15 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+Assistente Operacional - Câmara Municipal de São João da Madeira - São João da Madeira: https://empregopublico.github.io/empregos/j104469.html 
+Assistente Operacional - Câmara Municipal de São João da Madeira - São João da Madeira: https://empregopublico.github.io/empregos/j104468.html 
+Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j104467.html 
+Técnico Superior - Laboratório Nacional de Engenharia Civil, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104466.html 
+Assistente Operacional - Câmara Municipal de São João da Madeira - São João da Madeira: https://empregopublico.github.io/empregos/j104465.html 
+Assistente Técnico - Superintendência do Pessoal - Lisboa: https://empregopublico.github.io/empregos/j104462.html 
+Técnico Superior - Administração Regional de Saúde do Norte, I.P. - Porto: https://empregopublico.github.io/empregos/j104461.html 
+Técnico Superior - Administração Regional de Saúde do Norte, I.P. - Porto: https://empregopublico.github.io/empregos/j104460.html 
+Assistente Técnico - Comissão Nacional de Proteção de Dados - Lisboa: https://empregopublico.github.io/empregos/j104459.html 
+Assistente Técnico - Comissão Nacional de Proteção de Dados - Lisboa: https://empregopublico.github.io/empregos/j104458.html 
 Professor adjunto - Instituto Politécnico de Castelo Branco - Castelo Branco: https://empregopublico.github.io/empregos/j104457.html 
 Assistente Operacional - Junta de Freguesia de São João de Ver - Santa Maria da Feira: https://empregopublico.github.io/empregos/j104456.html 
 Assistente Técnico - Comunidade Intermunicipal da Região de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104455.html 
@@ -991,13 +1001,3 @@ Técnico Superior - Instituto Nacional de Estatística, I.P. - Lisboa: https://e
 Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional do Norte - Porto: https://empregopublico.github.io/empregos/j103219.html 
 Técnico Superior - Câmara Municipal de Serpa - Serpa: https://empregopublico.github.io/empregos/j103218.html 
 Assistente Operacional - Câmara Municipal de Sátão - Sátão: https://empregopublico.github.io/empregos/j103217.html 
-Assistente Técnico - Câmara Municipal de Sátão - Sátão: https://empregopublico.github.io/empregos/j103216.html 
-Assistente Técnico - Câmara Municipal de Sátão - Sátão: https://empregopublico.github.io/empregos/j103215.html 
-Técnico Superior - Câmara Municipal de Serpa - Serpa: https://empregopublico.github.io/empregos/j103214.html 
-Técnico Superior - Instituto Politécnico de Castelo Branco - Castelo Branco: https://empregopublico.github.io/empregos/j103213.html 
-Assistente Técnico - Câmara Municipal de Sátão - Sátão: https://empregopublico.github.io/empregos/j103212.html 
-Técnico Superior - Câmara Municipal de Sátão - Sátão: https://empregopublico.github.io/empregos/j103211.html 
-Assistente Operacional - Junta de Freguesia de Cambas - Oleiros: https://empregopublico.github.io/empregos/j103210.html 
-Assistente Operacional - Faculdade de Arquitetura da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103209.html 
-Assistente Técnico - DSAG - Serviços Centrais da ACT - Lisboa: https://empregopublico.github.io/empregos/j103208.html 
-Doutorado Equiparado a Investigador Auxiliar - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j103207.html 
