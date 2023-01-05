@@ -1,5 +1,18 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+Professor adjunto - Instituto Politécnico de Viana do Castelo - Viana do Castelo: https://empregopublico.github.io/empregos/j104484.html 
+Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104482.html 
+Técnico Superior - Agência para a Modernização Administrativa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104481.html 
+Assistente Técnico - Serviços Intermunicipalizados de Água e Saneamento dos Municípios de Oeiras e Amadora - Oeiras: https://empregopublico.github.io/empregos/j104480.html 
+Assistente Operacional - Câmara Municipal de Soure - Soure: https://empregopublico.github.io/empregos/j104479.html 
+Assistente Operacional - Escola de Hotelaria e Turismo - Estoril - Cascais: https://empregopublico.github.io/empregos/j104478.html 
+Assistente Técnico - Instituto Politécnico de Setúbal - Setúbal: https://empregopublico.github.io/empregos/j104477.html 
+Investigador - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104476.html 
+Técnico Superior - Instituto da Vinha e do Vinho, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104475.html 
+Técnico Superior - Turismo de Portugal, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104474.html 
+Assistente Técnico - Escola Superior de Saúde de Setúbal - Setúbal: https://empregopublico.github.io/empregos/j104473.html 
+Assistente Técnico - Junta de Freguesia de Azeitão (São Lourenço e São Simão) - Setúbal: https://empregopublico.github.io/empregos/j104472.html 
+Técnico Superior - Instituto de Gestão Financeira da Segurança Social, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104470.html 
 Assistente Operacional - Câmara Municipal de São João da Madeira - São João da Madeira: https://empregopublico.github.io/empregos/j104469.html 
 Assistente Operacional - Câmara Municipal de São João da Madeira - São João da Madeira: https://empregopublico.github.io/empregos/j104468.html 
 Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j104467.html 
@@ -988,16 +1001,3 @@ Assistente Operacional - Câmara Municipal de Gavião - Gavião: https://emprego
 Assistente Técnico - Câmara Municipal de Serpa - Serpa: https://empregopublico.github.io/empregos/j103240.html 
 Assistente Operacional - Câmara Municipal de Gavião - Gavião: https://empregopublico.github.io/empregos/j103239.html 
 Doutorado,Nível 33 da tabela retributiva única,de acordo com o Dec-Reg. n.º 11-A/2017,de 29/12 - Instituto de Tecnologia Química e Biológica António Xavier - ITQB NOVA - Institute of Chemical and B - Oeiras: https://empregopublico.github.io/empregos/j103238.html 
-Assistente Técnico - Câmara Municipal de Gavião - Gavião: https://empregopublico.github.io/empregos/j103236.html 
-Técnico Superior - Agência para a Competitividade e Inovação, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103230.html 
-Assistente Técnico - Agência para a Competitividade e Inovação, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103228.html 
-Assistente Operacional - Câmara Municipal de Loures - Loures: https://empregopublico.github.io/empregos/j103227.html 
-Técnico Superior - Agência para a Competitividade e Inovação, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103226.html 
-Técnico Superior - Comunidade Intermunicipal do Baixo Alentejo - Beja: https://empregopublico.github.io/empregos/j103225.html 
-Assistente Técnico - Serviços Sociais da Administração Pública - Lisboa: https://empregopublico.github.io/empregos/j103223.html 
-Assistente Técnico - Camões - Instituto da Cooperação e da Língua, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103222.html 
-Técnico Superior - Serviços Sociais da Administração Pública - Lisboa: https://empregopublico.github.io/empregos/j103221.html 
-Técnico Superior - Instituto Nacional de Estatística, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103220.html 
-Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional do Norte - Porto: https://empregopublico.github.io/empregos/j103219.html 
-Técnico Superior - Câmara Municipal de Serpa - Serpa: https://empregopublico.github.io/empregos/j103218.html 
-Assistente Operacional - Câmara Municipal de Sátão - Sátão: https://empregopublico.github.io/empregos/j103217.html 
