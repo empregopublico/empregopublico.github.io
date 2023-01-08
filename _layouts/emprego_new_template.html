@@ -23,15 +23,18 @@
 
   <main>
 	<div>
-		<p><a href="https://empregopublico.github.io/">Home</a> > <a href="https://empregopublico.github.io/empregos/">Lista Empregos</a> > Oferta  {{ page.Id }}</p>
-		<h1>{{ page.Trabalho }} - emprego {{ page.Concelho }}, {{ page.Distrito }}</h1>
+		<h1>{{ page.Trabalho }} - emprego {{ page.Concelho }}</h1>
 		<h2>{{ page.Empregador }}</h2>
+		<p><br/></p>
 		<h3>Funções do emprego:</h3>
 		<p>{{ page.Descricao }}</p>
+		<p><br/></p>
 		<h3>Data de abertura do concurso de emprego:</h3>
 		<p>{{ page.DataAbertura}}</p>
+		<p><br/></p>
 		<h3>Data de fecho do concurso de emprego:</h3>
 		<p>{{ page.DataFecho}}</p>
+		<p><br/></p>
 		<h3>Como poderá candidatar-se a esta oferta de emprego?</h3>
 		<p>Informação completa disponível no site oficial da oferta de emprego:</p>
 		<p><a target="_blank" href="https://www.bep.gov.pt/pages/oferta/Oferta_Detalhes.aspx?CodOferta={{ page.Id }}">https://www.bep.gov.pt/pages/oferta/Oferta_Detalhes.aspx?CodOferta={{ page.Id }}</a></p>
@@ -39,13 +42,9 @@
 		<h3>English version?</h3>
 		<p><a target="_blank" href="https://translate.google.com/translate?js=n&sl=pt&tl=en&u=https://empregopublico.github.io/empregos/j{{ page.Id }}.html">You can find an English version in this link.</a>.</p>
 		<p><br/></p>
-		<p><br/></p>	
 		<p><br/></p>
-		<p><br/></p>			
-		<p><br/></p>
-		<p><br/></p>	
-		<p><br/></p>
-		<p><br/></p>			
+		<p><a href="https://empregopublico.github.io/">Home</a> > <a href="https://empregopublico.github.io/empregos/">Lista Empregos</a> > Oferta  {{ page.Id }}</p>
+				
 	</div>
 	
 
