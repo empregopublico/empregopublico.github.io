@@ -1,5 +1,17 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+Professor adjunto - Instituto Politécnico de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104531.html 
+Professor adjunto - Instituto Politécnico de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104530.html 
+Investigador Auxiliar - Laboratório Nacional de Engenharia Civil, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104529.html 
+Técnico Superior - Câmara Municipal de Oliveira do Hospital - Oliveira do Hospital: https://empregopublico.github.io/empregos/j104528.html 
+Técnico Superior - Casa Pia de Lisboa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104527.html 
+Técnico Superior - Direção-Geral da Administração e do Emprego Público - Lisboa: https://empregopublico.github.io/empregos/j104526.html 
+Técnico Superior - Câmara Municipal de Ponta Delgada - Ponta Delgada: https://empregopublico.github.io/empregos/j104525.html 
+Professor catedrático - Instituto Superior de Agronomia da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j104524.html 
+Técnico Superior - Câmara Municipal de Matosinhos - Matosinhos: https://empregopublico.github.io/empregos/j104523.html 
+Técnico Superior - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104522.html 
+Técnico Superior - Câmara Municipal de Matosinhos - Matosinhos: https://empregopublico.github.io/empregos/j104521.html 
+Técnico Superior - Casa Pia de Lisboa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104520.html 
 Técnico Superior - Universidade de Évora - Évora: https://empregopublico.github.io/empregos/j104519.html 
 Professor adjunto - Instituto Politécnico de Viana do Castelo - Viana do Castelo: https://empregopublico.github.io/empregos/j104518.html 
 Assistente Operacional - Instituto Politécnico do Porto - Porto: https://empregopublico.github.io/empregos/j104517.html 
@@ -989,15 +1001,3 @@ Assistente Operacional - Direção Regional de Cultura do Norte - Vila Real: htt
 Assistente Operacional - Exército - Portugal Continental - Lisboa: https://empregopublico.github.io/empregos/j103326.html 
 Assistente Técnico - Câmara Municipal de Castelo de Paiva - Castelo de Paiva: https://empregopublico.github.io/empregos/j103325.html 
 Técnico Superior - Instituto Superior de Ciências Sociais e Políticas da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103324.html 
-Aprofessor Associado - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j103323.html 
-Técnico Superior - Câmara Municipal de Monchique - Monchique: https://empregopublico.github.io/empregos/j103322.html 
-Técnico Superior - Câmara Municipal de Monchique - Monchique: https://empregopublico.github.io/empregos/j103321.html 
-Professor coordenador - Instituto Superior de Engenharia de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103319.html 
-Técnico Superior - Câmara Municipal de Constância - Constância: https://empregopublico.github.io/empregos/j103318.html 
-Doutorado,Nível 33 da tabela retributiva única,de acordo com o Dec-Reg. n.º 11-A/2017,de 29/12 - Instituto de Tecnologia Química e Biológica António Xavier - ITQB NOVA - Institute of Chemical and B - Oeiras: https://empregopublico.github.io/empregos/j103317.html 
-Assistente Operacional - Serviços Municipalizados de Águas e Saneamento de Mafra - Mafra: https://empregopublico.github.io/empregos/j103314.html 
-Técnico Superior - Serviços Municipalizados de Águas e Saneamento de Mafra - Mafra: https://empregopublico.github.io/empregos/j103313.html 
-Coordenador Técnico - Serviços Municipalizados de Águas e Saneamento de Mafra - Mafra: https://empregopublico.github.io/empregos/j103312.html 
-Assistente Técnico - Serviços Municipalizados de Águas e Saneamento de Mafra - Mafra: https://empregopublico.github.io/empregos/j103311.html 
-Encarregado Operacional - Serviços Municipalizados de Águas e Saneamento de Mafra - Mafra: https://empregopublico.github.io/empregos/j103310.html 
-Assistente graduado sénior - Unidade Local de Saúde de Matosinhos, E.P.E. - Matosinhos: https://empregopublico.github.io/empregos/j103308.html 
