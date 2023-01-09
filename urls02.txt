@@ -1,5 +1,14 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+Técnico Superior - Universidade de Évora - Évora: https://empregopublico.github.io/empregos/j104519.html 
+Professor adjunto - Instituto Politécnico de Viana do Castelo - Viana do Castelo: https://empregopublico.github.io/empregos/j104518.html 
+Assistente Operacional - Instituto Politécnico do Porto - Porto: https://empregopublico.github.io/empregos/j104517.html 
+Técnico superior das áreas de diagnóstico e terapêutica - Agrupamento de Centros de Saúde do Algarve I - Central - Faro: https://empregopublico.github.io/empregos/j104516.html 
+Técnico Superior - Agrupamento de Escolas Castelo da Maia (Escola Secundária do Castelo da Maia - Sede) - Maia: https://empregopublico.github.io/empregos/j104515.html 
+Técnico Superior - Instituto Politécnico de Viseu - Viseu: https://empregopublico.github.io/empregos/j104514.html 
+Técnico Superior - Câmara Municipal de Ponta Delgada - Ponta Delgada: https://empregopublico.github.io/empregos/j104513.html 
+Professor adjunto - Instituto Politécnico de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104512.html 
+Professor coordenador - Instituto Politécnico de Viana do Castelo - Viana do Castelo: https://empregopublico.github.io/empregos/j104511.html 
 Professor adjunto - Instituto Politécnico de Castelo Branco - Castelo Branco: https://empregopublico.github.io/empregos/j104508.html 
 Assistente Operacional - Junta de Freguesia de Roliça - Bombarral: https://empregopublico.github.io/empregos/j104507.html 
 Professor adjunto - Instituto Politécnico de Castelo Branco - Castelo Branco: https://empregopublico.github.io/empregos/j104505.html 
@@ -992,12 +1001,3 @@ Coordenador Técnico - Serviços Municipalizados de Águas e Saneamento de Mafra
 Assistente Técnico - Serviços Municipalizados de Águas e Saneamento de Mafra - Mafra: https://empregopublico.github.io/empregos/j103311.html 
 Encarregado Operacional - Serviços Municipalizados de Águas e Saneamento de Mafra - Mafra: https://empregopublico.github.io/empregos/j103310.html 
 Assistente graduado sénior - Unidade Local de Saúde de Matosinhos, E.P.E. - Matosinhos: https://empregopublico.github.io/empregos/j103308.html 
-Professor catedrático - Faculdade de Economia da Universidade Nova de Lisboa - Nova School of Business and Economics - Lisboa: https://empregopublico.github.io/empregos/j103307.html 
-Técnico Superior - Direção Regional de Agricultura e Pescas do Norte - Torre de Moncorvo - Ignorado: https://empregopublico.github.io/empregos/j103306.html 
-Coordenador Técnico - Câmara Municipal de Tomar - Tomar: https://empregopublico.github.io/empregos/j103295.html 
-Técnico Superior - Câmara Municipal da Lousã - Lousã: https://empregopublico.github.io/empregos/j103294.html 
-Técnico Superior - Câmara Municipal de Oleiros - Oleiros: https://empregopublico.github.io/empregos/j103293.html 
-Professor associado - Faculdade de Belas-Artes da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103290.html 
-Assistente Operacional - Câmara Municipal do Funchal - Funchal: https://empregopublico.github.io/empregos/j103287.html 
-Assistente Técnico - Câmara Municipal do Funchal - Funchal: https://empregopublico.github.io/empregos/j103286.html 
-Técnico Superior - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j103284.html 
