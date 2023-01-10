@@ -1,5 +1,15 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+Assistente Operacional - Câmara Municipal da Figueira da Foz - Figueira da Foz: https://empregopublico.github.io/empregos/j104546.html 
+Técnico Superior - Câmara Municipal da Figueira da Foz - Figueira da Foz: https://empregopublico.github.io/empregos/j104542.html 
+Técnico Superior - Câmara Municipal da Figueira da Foz - Figueira da Foz: https://empregopublico.github.io/empregos/j104541.html 
+Técnico Superior - Direção Regional de Agricultura e Pescas do Centro - Castelo Branco: https://empregopublico.github.io/empregos/j104540.html 
+Técnico Superior - Instituto da Habitação e da Reabilitação Urbana, I.P. - Delegação do Porto - Porto: https://empregopublico.github.io/empregos/j104539.html 
+Assistente Técnico - Câmara Municipal de Ourém - Ourém: https://empregopublico.github.io/empregos/j104538.html 
+Assistente Operacional - Câmara Municipal da Figueira da Foz - Figueira da Foz: https://empregopublico.github.io/empregos/j104536.html 
+Assistente Operacional - Câmara Municipal de Ourém - Ourém: https://empregopublico.github.io/empregos/j104535.html 
+Técnico Superior - Instituto da Habitação e da Reabilitação Urbana, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104534.html 
+Assistente Técnico - Faculdade de Medicina Veterinária da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j104532.html 
 Professor adjunto - Instituto Politécnico de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104531.html 
 Professor adjunto - Instituto Politécnico de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104530.html 
 Investigador Auxiliar - Laboratório Nacional de Engenharia Civil, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104529.html 
@@ -991,13 +1001,3 @@ Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.
 Assistente Técnico - Câmara Municipal de Ribeira Grande - Ribeira Grande: https://empregopublico.github.io/empregos/j103336.html 
 Técnico Superior - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j103335.html 
 Especialista de Informática - Instituto dos Mercados Públicos, do Imobiliário e da Construção, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103334.html 
-Assistente Técnico - Instituto dos Mercados Públicos, do Imobiliário e da Construção, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103333.html 
-Técnico Superior - Câmara Municipal de Angra do Heroísmo - Angra do Heroísmo: https://empregopublico.github.io/empregos/j103332.html 
-Técnico Superior - Câmara Municipal de Valença - Valença: https://empregopublico.github.io/empregos/j103331.html 
-Técnico Superior - Câmara Municipal de Valença - Valença: https://empregopublico.github.io/empregos/j103330.html 
-Técnico Superior - Câmara Municipal de Valença - Valença: https://empregopublico.github.io/empregos/j103329.html 
-Técnico Superior - Câmara Municipal de Valença - Valença: https://empregopublico.github.io/empregos/j103328.html 
-Assistente Operacional - Direção Regional de Cultura do Norte - Vila Real: https://empregopublico.github.io/empregos/j103327.html 
-Assistente Operacional - Exército - Portugal Continental - Lisboa: https://empregopublico.github.io/empregos/j103326.html 
-Assistente Técnico - Câmara Municipal de Castelo de Paiva - Castelo de Paiva: https://empregopublico.github.io/empregos/j103325.html 
-Técnico Superior - Instituto Superior de Ciências Sociais e Políticas da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103324.html 
