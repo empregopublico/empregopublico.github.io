@@ -1,5 +1,14 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+Assistente Operacional - Junta de Freguesia de São Martinho de Árvore e Lamarosa - Coimbra: https://empregopublico.github.io/empregos/j104606.html 
+Assistente Técnico - Arquivo Distrital da Guarda - Guarda: https://empregopublico.github.io/empregos/j104605.html 
+Técnico Superior - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104601.html 
+Assistente Operacional - Câmara Municipal de Vendas Novas - Vendas Novas: https://empregopublico.github.io/empregos/j104600.html 
+Assistente Técnico - Administração Central do Sistema de Saúde, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104599.html 
+Técnico Superior - Instituto de Informática, I.P. - Oeiras: https://empregopublico.github.io/empregos/j104598.html 
+Técnico Superior - Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa -  NOVA School of Science and Tech - Almada: https://empregopublico.github.io/empregos/j104595.html 
+Assistente Técnico - Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa -  NOVA School of Science and Tech - Almada: https://empregopublico.github.io/empregos/j104591.html 
+Técnico Superior - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104588.html 
 Técnico Superior de Diagnóstico e Terapêutica - Instituto Português de Oncologia de Lisboa Francisco Gentil, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j104585.html 
 Assistente Operacional - Câmara Municipal de Viseu - Viseu: https://empregopublico.github.io/empregos/j104584.html 
 Técnico Superior - Entidade Reguladora dos Serviços Energéticos - Lisboa: https://empregopublico.github.io/empregos/j104583.html 
@@ -992,12 +1001,3 @@ Técnico Superior - Agência para o Desenvolvimento e Coesão, I.P. - Lisboa: ht
 Assistente Técnico - Escola Superior de Comunicação, Administração e Turismo de Mirandela - Mirandela: https://empregopublico.github.io/empregos/j103371.html 
 Técnico Superior - Direção-Geral de Estatísticas da Educação e Ciência - Lisboa: https://empregopublico.github.io/empregos/j103370.html 
 Técnico Superior - Câmara Municipal de Campo Maior - Campo Maior: https://empregopublico.github.io/empregos/j103369.html 
-Técnico Superior - Administração Regional de Saúde do Norte, I.P. - Porto: https://empregopublico.github.io/empregos/j103368.html 
-Assistente Técnico - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j103367.html 
-Técnico Superior - Administração Regional de Saúde do Norte, I.P. - Porto: https://empregopublico.github.io/empregos/j103366.html 
-Técnico Superior - Direção-Geral das Atividades Económicas - Lisboa: https://empregopublico.github.io/empregos/j103365.html 
-Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103364.html 
-Estagiário de Investigação - Faculdade de Engenharia da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j103361.html 
-Professor adjunto - Instituto Superior de Engenharia de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103360.html 
-Professor auxiliar - Universidade Nova de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103359.html 
-Professor adjunto - Instituto Superior de Engenharia de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103358.html 
