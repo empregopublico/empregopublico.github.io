@@ -1,5 +1,27 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+Assistente Técnico - Supremo Tribunal de Justiça - Lisboa: https://empregopublico.github.io/empregos/j104658.html 
+Técnico Superior - Faculdade de Psicologia da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104657.html 
+Técnico Superior - Câmara Municipal de Alcochete - Alcochete: https://empregopublico.github.io/empregos/j104656.html 
+Técnico Superior - Autoridade de Segurança Alimentar e Económica - Lisboa: https://empregopublico.github.io/empregos/j104654.html 
+Assistente Técnico - Autoridade de Segurança Alimentar e Económica - Lisboa: https://empregopublico.github.io/empregos/j104653.html 
+Técnico Superior - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104647.html 
+Técnico Superior - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104639.html 
+Assistente Operacional - Câmara Municipal de Beja - Beja: https://empregopublico.github.io/empregos/j104636.html 
+Professor associado - Universidade Nova de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104634.html 
+Técnico Superior - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104633.html 
+Técnico Superior - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104630.html 
+Técnico Superior - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104629.html 
+Técnico Superior - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104628.html 
+Técnico Superior - Camões - Instituto da Cooperação e da Língua, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104627.html 
+Técnico Superior - Casa Pia de Lisboa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104626.html 
+Técnico Superior - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104625.html 
+Técnico Superior - Tribunal Constitucional - Lisboa: https://empregopublico.github.io/empregos/j104624.html 
+Técnico Superior - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104622.html 
+Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j104621.html 
+Técnico Superior - Secretaria-Geral da Educação e Ciência  - Lisboa: https://empregopublico.github.io/empregos/j104620.html 
+Assistente Operacional - Câmara Municipal de Évora - Évora: https://empregopublico.github.io/empregos/j104619.html 
+Técnico Superior - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104617.html 
 Assistente Operacional - Câmara Municipal do Montijo - Montijo: https://empregopublico.github.io/empregos/j104616.html 
 Técnico Superior - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104615.html 
 Técnico Superior - Comunidade Intermunicipal das Terras de Trás-os-Montes - Bragança: https://empregopublico.github.io/empregos/j104614.html 
@@ -979,25 +1001,3 @@ Técnico Superior - Câmara Municipal de Odemira - Odemira: https://empregopubli
 Professor coordenador - Instituto Superior de Engenharia de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103407.html 
 Técnico Superior - Câmara Municipal de Leiria - Leiria: https://empregopublico.github.io/empregos/j103405.html 
 Assistente Técnico - Administração Regional de Saúde do Norte, I.P. - Porto: https://empregopublico.github.io/empregos/j103403.html 
-Técnico Superior - Instituto dos Registos e do Notariado, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103402.html 
-Técnico Superior - Instituto dos Registos e do Notariado, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103401.html 
-Técnico Superior - Câmara Municipal de Leiria - Leiria: https://empregopublico.github.io/empregos/j103400.html 
-Assistente Técnico - Fundação para a Ciência e a Tecnologia, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103399.html 
-Assistente Técnico - Câmara Municipal de Palmela - Palmela: https://empregopublico.github.io/empregos/j103398.html 
-Professor adjunto - Instituto Superior de Contabilidade e Administração de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103397.html 
-Técnico Superior - Instituto dos Registos e do Notariado, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103396.html 
-Investigador (Doutorado) júnior - Instituto de Higiene e Medicina Tropical da Universidade Nova de Lisboa - NOVA Institute of Hygiene  - Lisboa: https://empregopublico.github.io/empregos/j103395.html 
-Assistente Operacional - Câmara Municipal de Beja - Beja: https://empregopublico.github.io/empregos/j103394.html 
-Técnico Superior - Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa -  NOVA School of Science and Tech - Almada: https://empregopublico.github.io/empregos/j103393.html 
-Assistente Técnico - Instituto dos Registos e do Notariado, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103391.html 
-Técnico Superior - Universidade dos Açores - Ponta Delgada: https://empregopublico.github.io/empregos/j103390.html 
-Assistente Técnico - Instituto dos Registos e do Notariado, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103389.html 
-Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103388.html 
-Técnico Superior - Instituto Nacional de Estatística, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103387.html 
-Assistente Técnico - Secretaria-Geral do Ministério dos Negócios Estrangeiros - Lisboa: https://empregopublico.github.io/empregos/j103386.html 
-Técnico Superior - Agência para a Competitividade e Inovação, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103385.html 
-Técnico Superior - Câmara Municipal de Vizela - Vizela: https://empregopublico.github.io/empregos/j103384.html 
-Técnico Superior - Agência para a Competitividade e Inovação, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103382.html 
-Técnico Superior - Agência para a Competitividade e Inovação, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103381.html 
-Assistente Técnico - Agência para a Competitividade e Inovação, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103380.html 
-Professor Associado - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103379.html 
