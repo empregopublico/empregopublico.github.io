@@ -1,5 +1,39 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+ - Autoridade Nacional de Comunicações - Lisboa: https://empregopublico.github.io/empregos/j104703.html 
+Técnico Superior - Centro Local do Baixo Vouga - Aveiro: https://empregopublico.github.io/empregos/j104702.html 
+Técnico Superior - Secretaria-Geral da Presidência de Conselho de Ministros - Lisboa: https://empregopublico.github.io/empregos/j104701.html 
+Técnico Superior - Secretaria-Geral da Presidência de Conselho de Ministros - Lisboa: https://empregopublico.github.io/empregos/j104700.html 
+Técnico Superior - Secretaria-Geral da Presidência de Conselho de Ministros - Lisboa: https://empregopublico.github.io/empregos/j104699.html 
+Técnico Superior - Secretaria-Geral da Presidência de Conselho de Ministros - Lisboa: https://empregopublico.github.io/empregos/j104698.html 
+Assistente Técnico - Junta de Freguesia de São Martinho - Funchal: https://empregopublico.github.io/empregos/j104697.html 
+Assistente Operacional - Câmara Municipal de Vale de Cambra - Vale de Cambra: https://empregopublico.github.io/empregos/j104696.html 
+Técnico Superior - Junta de Freguesia de São Martinho - Funchal: https://empregopublico.github.io/empregos/j104695.html 
+Assistente Operacional - Junta de Freguesia de Mazedo e Cortes - Monção: https://empregopublico.github.io/empregos/j104694.html 
+Assistente Operacional - Junta de Freguesia do Porto Judeu - Angra do Heroísmo: https://empregopublico.github.io/empregos/j104693.html 
+Assistente Operacional - ACSS, I.P. - Porto - Vila Nova de Gaia: https://empregopublico.github.io/empregos/j104692.html 
+Professor auxiliar - Universidade Nova de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104691.html 
+Investigador Doutorado de nível inicial - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j104690.html 
+Investigador Doutorado de nível inicial - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j104689.html 
+Investigador Doutorado de nível inicial - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j104687.html 
+Doutorado equiparado a Investigador Principal  - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j104686.html 
+Técnico Superior - Câmara Municipal de Setúbal - Setúbal: https://empregopublico.github.io/empregos/j104681.html 
+Enfermeiro especialista - Centro Hospitalar de Setúbal, E.P.E.  - Setúbal: https://empregopublico.github.io/empregos/j104680.html 
+Assistente Técnico - Junta de Freguesia de Aldoar, Foz do Douro e Nevogilde - Porto: https://empregopublico.github.io/empregos/j104678.html 
+Professor associado - Universidade dos Açores - Ponta Delgada: https://empregopublico.github.io/empregos/j104677.html 
+Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104675.html 
+Assistente Operacional - Junta de Freguesia de São José da Lamarosa - Coruche: https://empregopublico.github.io/empregos/j104672.html 
+Assistente Técnico - Centro Local do Alto Minho - Viana do Castelo: https://empregopublico.github.io/empregos/j104671.html 
+Assistente Técnico - Instituto Politécnico de Portalegre - Portalegre: https://empregopublico.github.io/empregos/j104670.html 
+Assistente Técnico - Câmara Municipal de Póvoa de Varzim - Póvoa de Varzim: https://empregopublico.github.io/empregos/j104669.html 
+Assistente Técnico - Direção-Geral de Alimentação e Veterinária - Lisboa: https://empregopublico.github.io/empregos/j104668.html 
+Assistente Técnico - Câmara Municipal de Póvoa de Varzim - Póvoa de Varzim: https://empregopublico.github.io/empregos/j104667.html 
+Técnico Superior - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104666.html 
+Assistente Operacional - Câmara Municipal de Paredes - Paredes: https://empregopublico.github.io/empregos/j104665.html 
+Especialista Informática Grau 1 Nível 2 - Instituto de Gestão Financeira da Educação, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104664.html 
+Técnico Superior - Direção-Geral da Administração e do Emprego Público - Lisboa: https://empregopublico.github.io/empregos/j104663.html 
+Técnico Superior - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104662.html 
+Assistente Operacional - Câmara Municipal de Paredes - Paredes: https://empregopublico.github.io/empregos/j104661.html 
 Assistente Técnico - Supremo Tribunal de Justiça - Lisboa: https://empregopublico.github.io/empregos/j104658.html 
 Técnico Superior - Faculdade de Psicologia da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104657.html 
 Técnico Superior - Câmara Municipal de Alcochete - Alcochete: https://empregopublico.github.io/empregos/j104656.html 
@@ -967,37 +1001,3 @@ Investigador - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https:/
 Técnico Superior de Diagnóstico e Terapêutica - Instituto Português de Oncologia de Lisboa Francisco Gentil, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j103451.html 
 Técnico Superior - Câmara Municipal de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103450.html 
 Investigador - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j103448.html 
-Investigador - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j103447.html 
-Investigador Auxiliar - Escola Superior de Turismo e Tecnologia do Mar de Peniche - Peniche: https://empregopublico.github.io/empregos/j103446.html 
-Técnico Superior - Instituto Nacional de Estatística IP - Delegação do Porto - Porto: https://empregopublico.github.io/empregos/j103445.html 
-Investigador Auxiliar - Laboratório Nacional de Engenharia Civil, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103444.html 
-Assistente Técnico - Gabinete de Planeamento, Políticas e Administração Geral - Lisboa: https://empregopublico.github.io/empregos/j103443.html 
-Investigador - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j103441.html 
-Assistente Técnico - Gabinete de Planeamento, Políticas e Administração Geral - Lisboa: https://empregopublico.github.io/empregos/j103439.html 
-Investigador Doutorado de nível inicial - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j103438.html 
-Técnico Superior - Gabinete de Planeamento, Políticas e Administração Geral - Lisboa: https://empregopublico.github.io/empregos/j103437.html 
-Técnico Superior - Direção-Geral da Administração e do Emprego Público - Lisboa: https://empregopublico.github.io/empregos/j103435.html 
-Técnico Superior - Estrutura de Missão «Recuperar Portugal» - Lisboa: https://empregopublico.github.io/empregos/j103433.html 
-Técnico Superior - Instituto da Conservação da Natureza e das Florestas, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103432.html 
-Investigador Auxiliar - Faculdade de Ciências Médicas da Universidade Nova de Lisboa - NOVA Medical School - Lisboa: https://empregopublico.github.io/empregos/j103431.html 
-Técnico Superior - Centro de Recursos e Serviços Comuns da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j103430.html 
-Técnico Superior - Centro de Recursos e Serviços Comuns da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j103428.html 
-Assistente Operacional - Secretaria-Geral do Ministério dos Negócios Estrangeiros - Lisboa: https://empregopublico.github.io/empregos/j103426.html 
-Assistente Operacional - Junta de Freguesia de Válega - Ovar: https://empregopublico.github.io/empregos/j103425.html 
-Professor catedrático - Faculdade de Economia da Universidade Nova de Lisboa - Nova School of Business and Economics - Lisboa: https://empregopublico.github.io/empregos/j103424.html 
-Técnico Superior - Direção-Geral da Administração e do Emprego Público - Lisboa: https://empregopublico.github.io/empregos/j103423.html 
-Assistente Técnico - Câmara Municipal de Óbidos - Óbidos: https://empregopublico.github.io/empregos/j103422.html 
-Técnico Superior - Instituto de Gestão de Fundos de Capitalização da Segurança Social, I.P. - Porto: https://empregopublico.github.io/empregos/j103419.html 
-Especialista Informática Grau 1 Nível 2 - Câmara Municipal de Palmela - Palmela: https://empregopublico.github.io/empregos/j103418.html 
-Professor Catedratico - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103416.html 
-Farmacêutico assessor - Centro Hospitalar Vila Nova de Gaia-Espinho, E.P.E. - Vila Nova de Gaia: https://empregopublico.github.io/empregos/j103415.html 
-Técnico Superior - Escola de Hotelaria e Turismo -Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103414.html 
-Assistente Técnico - Instituto Português do Mar e da Atmosfera, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103413.html 
-Técnico Superior - Secretaria-Geral do Ministério dos Negócios Estrangeiros - Lisboa: https://empregopublico.github.io/empregos/j103412.html 
-Técnico Superior - Museu Alberto Sampaio - Guimarães: https://empregopublico.github.io/empregos/j103411.html 
-Professor Associado - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103410.html 
-Assistente Técnico - Direção-Geral do Património Cultural - Lisboa: https://empregopublico.github.io/empregos/j103409.html 
-Técnico Superior - Câmara Municipal de Odemira - Odemira: https://empregopublico.github.io/empregos/j103408.html 
-Professor coordenador - Instituto Superior de Engenharia de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103407.html 
-Técnico Superior - Câmara Municipal de Leiria - Leiria: https://empregopublico.github.io/empregos/j103405.html 
-Assistente Técnico - Administração Regional de Saúde do Norte, I.P. - Porto: https://empregopublico.github.io/empregos/j103403.html 
