@@ -1,5 +1,23 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+Técnico Superior - Fundação Museu do Douro, F.P. - Peso da Régua: https://empregopublico.github.io/empregos/j104794.html 
+Assistente Técnico - Agência para a Modernização Administrativa, I.P. - Loja do Cidadão das Laranjeiras - Lisboa: https://empregopublico.github.io/empregos/j104793.html 
+Técnico Superior - Direção-Geral das Autarquias Locais - Lisboa: https://empregopublico.github.io/empregos/j104791.html 
+Técnico Superior - Direção Nacional - Lisboa: https://empregopublico.github.io/empregos/j104790.html 
+Técnico Superior - Câmara Municipal de Almada - Almada: https://empregopublico.github.io/empregos/j104789.html 
+Técnico Superior - Direção Nacional - Lisboa: https://empregopublico.github.io/empregos/j104788.html 
+Técnico Superior - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104784.html 
+Professor Associado - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104783.html 
+Técnico Superior - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104782.html 
+Enfermeiro Gestor - Centro Hospitalar Póvoa de Varzim-Vila do Conde, E.P.E. - Saúde: https://empregopublico.github.io/empregos/j104781.html 
+Técnico Superior - Instituto Nacional da Propriedade Industrial, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104780.html 
+Técnico Superior - Câmara Municipal de Lagos - Lagos: https://empregopublico.github.io/empregos/j104779.html 
+Técnico Superior - Câmara Municipal de Lagos - Lagos: https://empregopublico.github.io/empregos/j104778.html 
+Técnico Superior - Câmara Municipal de Lagos - Lagos: https://empregopublico.github.io/empregos/j104777.html 
+Professor Auxiliar - Escola Nacional de Saúde Pública da Universidade Nova de Lisboa - NOVA National School of Public Hea - Lisboa: https://empregopublico.github.io/empregos/j104775.html 
+Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional do Centro - Coimbra: https://empregopublico.github.io/empregos/j104772.html 
+Professor associado - Universidade Nova de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104771.html 
+Técnico Superior - Câmara Municipal de Caldas da Rainha - Caldas da Rainha: https://empregopublico.github.io/empregos/j104770.html 
 Assistente Operacional - Câmara Municipal de Miranda do Douro - Miranda do Douro: https://empregopublico.github.io/empregos/j104769.html 
 Técnico Superior - Faculdade de Ciências da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104768.html 
 Técnico Superior - Faculdade de Ciências da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104767.html 
@@ -983,21 +1001,3 @@ Assistente Técnico - Junta de Freguesia de Barcarena - Oeiras: https://empregop
 Assistente Técnico - Junta de Freguesia de Barcarena - Oeiras: https://empregopublico.github.io/empregos/j103539.html 
 Assistente Operacional - Junta de Freguesia de Barcarena - Oeiras: https://empregopublico.github.io/empregos/j103538.html 
 Investigador Auxiliar - Faculdade de Economia da Universidade Nova de Lisboa - Nova School of Business and Economics - Lisboa: https://empregopublico.github.io/empregos/j103537.html 
-Assistente Técnico - Junta de Freguesia de Perre - Viana do Castelo: https://empregopublico.github.io/empregos/j103536.html 
-Assistente Operacional - Junta de Freguesia de Perre - Viana do Castelo: https://empregopublico.github.io/empregos/j103535.html 
-Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional do Alentejo - Évora: https://empregopublico.github.io/empregos/j103534.html 
-Técnico Superior - Secretaria-Geral do Ministério da Administração Interna - Lisboa: https://empregopublico.github.io/empregos/j103532.html 
-Técnico Superior - Secretaria-Geral do Ministério da Administração Interna - Lisboa: https://empregopublico.github.io/empregos/j103531.html 
-Técnico Superior - Secretaria-Geral do Ministério da Administração Interna - Lisboa: https://empregopublico.github.io/empregos/j103530.html 
-Técnico Superior - Secretaria-Geral do Ministério da Administração Interna - Lisboa: https://empregopublico.github.io/empregos/j103529.html 
-Assistente Operacional - Câmara Municipal de Coimbra - Não exigida: https://empregopublico.github.io/empregos/j103528.html 
-Técnico Superior - Instituto Nacional de Investigação Agrária e Veterinária, I.P. - Oeiras: https://empregopublico.github.io/empregos/j103527.html 
-Assistente Operacional - Junta de Freguesia de Santa Maria, São Pedro e Matacães - Torres Vedras: https://empregopublico.github.io/empregos/j103526.html 
-Técnico Superior - Secretaria-Geral do Ministério da Justiça - Lisboa: https://empregopublico.github.io/empregos/j103525.html 
-Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional do Alentejo - Évora: https://empregopublico.github.io/empregos/j103524.html 
-Técnico Superior - Delegação de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j103523.html 
-Assistente Técnico - Exército - Portugal Continental - Lisboa: https://empregopublico.github.io/empregos/j103522.html 
-Técnico Superior - Universidade Aberta - Lisboa: https://empregopublico.github.io/empregos/j103521.html 
-Especialista Informática Grau 1 Nível 2 - Escola Superior de Enfermagem do Porto - Porto: https://empregopublico.github.io/empregos/j103520.html 
-Assistente Técnico - Direção-Geral de Alimentação e Veterinária - Lisboa: https://empregopublico.github.io/empregos/j103519.html 
-Técnico Superior - Câmara Municipal de Matosinhos - Matosinhos: https://empregopublico.github.io/empregos/j103518.html 
