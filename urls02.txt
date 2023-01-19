@@ -1,5 +1,21 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-01-19 - Técnico Superior - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104854.html 
+2023-01-19 - Assistente Técnico - Serviço de Estrangeiros e Fronteiras - Oeiras: https://empregopublico.github.io/empregos/j104853.html 
+2023-01-19 - Técnico Superior - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j104848.html 
+2023-01-19 - Técnico Superior - Exército - Portugal Continental - Lisboa: https://empregopublico.github.io/empregos/j104847.html 
+2023-01-19 - Assistente Operacional - Junta de Freguesia de Pousafoles do Bispo, Pena Lobo e Lomba - Sabugal: https://empregopublico.github.io/empregos/j104846.html 
+2023-01-19 - Assistente Técnico - Instituto Politécnico de Portalegre - Portalegre: https://empregopublico.github.io/empregos/j104845.html 
+2023-01-19 - Técnico Superior - Comunidade Intermunicipal da Região de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104843.html 
+2023-01-19 - Assistente Operacional - Câmara Municipal de Alcobaça - Alcobaça: https://empregopublico.github.io/empregos/j104842.html 
+2023-01-19 - Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104841.html 
+2023-01-19 - Técnico Superior - Estação Vitivinicola da Bairrada - Anadia: https://empregopublico.github.io/empregos/j104840.html 
+2023-01-19 - Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104839.html 
+2023-01-19 - Investigador Auxiliar - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104838.html 
+2023-01-19 - Especialista Informática Grau 2 Nível 1 - Instituto Politécnico de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104837.html 
+2023-01-19 - Técnico Superior - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104836.html 
+2023-01-18 - Técnico Superior - Serviços de Ação Social da Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j104835.html 
+2023-01-18 - Técnico Superior - Câmara Municipal do Entroncamento - Entroncamento: https://empregopublico.github.io/empregos/j104834.html 
 2023-01-18 - Técnico Superior - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j104833.html 
 2023-01-18 - Técnico Superior - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j104832.html 
 2023-01-18 - Técnico Superior - Comunidade Intermunicipal da Beira Baixa - Castelo Branco: https://empregopublico.github.io/empregos/j104831.html 
@@ -985,19 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-11-28 - Especialista Informática Grau 1 Nível 2 - Instituto Superior de Ciências Sociais e Políticas da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103604.html 
 2022-11-28 - Professor Associado - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103603.html 
 2022-11-28 - Professor Associado - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103602.html 
-2022-11-28 - Técnico Superior - Serviços Municipalizados de Peniche - Peniche: https://empregopublico.github.io/empregos/j103601.html 
-2022-11-28 - Assistente Operacional - Serviços Municipalizados de Peniche - Peniche: https://empregopublico.github.io/empregos/j103600.html 
-2022-11-28 - Assistente Técnico - Serviços Sociais da Administração Pública - Lisboa: https://empregopublico.github.io/empregos/j103599.html 
-2022-11-28 - Educador de infância e docente dos ensinos básico e secundário - Serviços Sociais da Administração Pública - Lisboa: https://empregopublico.github.io/empregos/j103597.html 
-2022-11-28 - Investigador doutorado de nível inicial em regime de direito privado - Universidade do Minho - Braga: https://empregopublico.github.io/empregos/j103596.html 
-2022-11-28 - Investigador doutorado de nível inicial em regime de direito privado - Universidade do Minho - Braga: https://empregopublico.github.io/empregos/j103591.html 
-2022-11-28 - Investigador doutorado de nível inicial em regime de direito privado - Universidade do Minho - Braga: https://empregopublico.github.io/empregos/j103587.html 
-2022-11-28 - Investigador doutorado de nível inicial em regime de direito privado - Universidade do Minho - Braga: https://empregopublico.github.io/empregos/j103585.html 
-2022-11-28 - Técnico Superior - Centro de Recursos e Serviços Comuns da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j103583.html 
-2022-11-28 - Assistentes Técnicos - Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j103581.html 
-2022-11-28 - Assistente Operacional - Junta de Freguesia de Oliveira do Douro - Vila Nova de Gaia: https://empregopublico.github.io/empregos/j103580.html 
-2022-11-25 - Técnico Superior - Centro de Competências Jurídicas do Estado - Lisboa: https://empregopublico.github.io/empregos/j103579.html 
-2022-11-25 - Assistente Operacional - Junta de Freguesia de Beja (Salvador e Santa Maria da Feira) - Beja: https://empregopublico.github.io/empregos/j103578.html 
-2022-11-25 - Investigador Doutorado de nível inicial - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j103577.html 
-2022-11-25 - Doutorado Equiparado a Investigador Auxiliar - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j103576.html 
-2022-11-25 - Investigador Doutorado de nível inicial - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j103575.html 
