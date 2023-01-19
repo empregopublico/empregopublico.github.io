@@ -1,5 +1,9 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-01-19 - Professor adjunto - Escola Superior de Comunicação Social de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104858.html 
+2023-01-19 - Técnico Superior - Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos  - Lisboa: https://empregopublico.github.io/empregos/j104857.html 
+2023-01-19 - Enfermeiro especialista - Agrupamento de Centros de Saúde do Pinhal Litoral - Leiria: https://empregopublico.github.io/empregos/j104856.html 
+2023-01-19 - Técnico Superior - Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos  - Lisboa: https://empregopublico.github.io/empregos/j104855.html 
 2023-01-19 - Técnico Superior - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104854.html 
 2023-01-19 - Assistente Técnico - Serviço de Estrangeiros e Fronteiras - Oeiras: https://empregopublico.github.io/empregos/j104853.html 
 2023-01-19 - Técnico Superior - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j104848.html 
@@ -997,7 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-11-28 - Investigador Auxiliar - Instituto Politécnico de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103609.html 
 2022-11-28 - Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j103608.html 
 2022-11-28 - Investigador Auxiliar - Instituto Politécnico de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103607.html 
-2022-11-28 - Técnico Superior - Câmara Municipal de Oliveira de Frades - Oliveira de Frades: https://empregopublico.github.io/empregos/j103606.html 
-2022-11-28 - Especialista Informática Grau 1 Nível 2 - Instituto Superior de Ciências Sociais e Políticas da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103604.html 
-2022-11-28 - Professor Associado - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103603.html 
-2022-11-28 - Professor Associado - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103602.html 
