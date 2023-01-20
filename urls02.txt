@@ -1,5 +1,14 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-01-20 - Assistente Operacional - Instituto Politécnico de Setúbal - Setúbal: https://empregopublico.github.io/empregos/j104897.html 
+2023-01-20 - Técnico Superior - Instituto Português de Oncologia de Lisboa Francisco Gentil, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j104896.html 
+2023-01-20 - Técnico Superior - Junta de Freguesia da Ajuda - Lisboa: https://empregopublico.github.io/empregos/j104895.html 
+2023-01-20 - Técnico de Informática - Autoridade Tributária e Aduaneira - Lisboa: https://empregopublico.github.io/empregos/j104894.html 
+2023-01-20 - Bombeiro - Câmara Municipal de Tavira - Tavira: https://empregopublico.github.io/empregos/j104893.html 
+2023-01-20 - Técnico Superior - Câmara Municipal de Almodôvar - Almodôvar: https://empregopublico.github.io/empregos/j104892.html 
+2023-01-20 - Assistente Operacional - Junta de Freguesia de Enxara do Bispo, Gradil e Vila Franca do Rosário - Mafra: https://empregopublico.github.io/empregos/j104891.html 
+2023-01-20 - Técnico Superior - Câmara Municipal de Almodôvar - Almodôvar: https://empregopublico.github.io/empregos/j104890.html 
+2023-01-20 - Doutorado de nível inicial - Faculdade de Psicologia e de Ciências da Educação da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j104889.html 
 2023-01-20 - Técnico Superior - Câmara Municipal de Almodôvar - Almodôvar: https://empregopublico.github.io/empregos/j104888.html 
 2023-01-20 - Doutorado/a equiparado a Investigador Auxiliar  - Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j104887.html 
 2023-01-20 - Bombeiro Sapador - Câmara Municipal de Tavira - Tavira: https://empregopublico.github.io/empregos/j104886.html 
@@ -992,12 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-11-29 - Especialista Informática Grau 1 Nível 2 - Instituto de Gestão Financeira e Equipamentos da Justiça, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103642.html 
 2022-11-29 - Técnico Superior - Câmara Municipal de Vila do Conde - Vila do Conde: https://empregopublico.github.io/empregos/j103641.html 
 2022-11-29 - Técnico Superior - Conselho Superior da Magistratura - Lisboa: https://empregopublico.github.io/empregos/j103640.html 
-2022-11-29 - Técnico Superior - Direção Regional de Agricultura e Pescas do Centro - Castelo Branco: https://empregopublico.github.io/empregos/j103639.html 
-2022-11-28 - Investigador Principal - Faculdade de Ciências Médicas da Universidade Nova de Lisboa - NOVA Medical School - Lisboa: https://empregopublico.github.io/empregos/j103638.html 
-2022-11-28 - Investigador Auxiliar - Faculdade de Ciências Médicas da Universidade Nova de Lisboa - NOVA Medical School - Lisboa: https://empregopublico.github.io/empregos/j103637.html 
-2022-11-28 - Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo - Lisboa: https://empregopublico.github.io/empregos/j103635.html 
-2022-11-28 - Assistente Operacional - Comunidade Intermunicipal da Beira Baixa - Castelo Branco: https://empregopublico.github.io/empregos/j103634.html 
-2022-11-28 - Assistente Técnico - Direção-Geral do Património Cultural - Lisboa: https://empregopublico.github.io/empregos/j103633.html 
-2022-11-28 - Assistente Técnico - Direção-Geral do Património Cultural - Lisboa: https://empregopublico.github.io/empregos/j103632.html 
-2022-11-28 - Técnico Superior - Agrupamento de Escolas de Braga Oeste (Escola Básica de Braga Oeste, Cabreiros, Braga - Sede) - Braga: https://empregopublico.github.io/empregos/j103631.html 
-2022-11-28 - Técnico Superior - Direção-Geral do Património Cultural - Lisboa: https://empregopublico.github.io/empregos/j103630.html 
