@@ -1,5 +1,16 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-01-23 - Técnico Superior - Agrupamento de Escolas da Caparica (Escola Secundária Monte da Caparica - Sede) - Almada: https://empregopublico.github.io/empregos/j104931.html 
+2023-01-23 - Assistente Operacional - Câmara Municipal de Viseu - Viseu: https://empregopublico.github.io/empregos/j104930.html 
+2023-01-23 - Assistente Técnico - Câmara Municipal da Figueira da Foz - Figueira da Foz: https://empregopublico.github.io/empregos/j104929.html 
+2023-01-23 - Assistente Operacional - Escola Superior de Enfermagem do Porto - Porto: https://empregopublico.github.io/empregos/j104927.html 
+2023-01-23 - Técnico Superior - Serviços do Ambiente - Coimbra: https://empregopublico.github.io/empregos/j104926.html 
+2023-01-23 - Assistente Operacional - Serviços Sociais da Administração Pública - Lisboa: https://empregopublico.github.io/empregos/j104924.html 
+2023-01-23 - Técnico Superior - Câmara Municipal de Sobral de Monte Agraço - Sobral de Monte Agraço: https://empregopublico.github.io/empregos/j104923.html 
+2023-01-23 - Técnico Superior - Direção de Finanças - Évora - Évora: https://empregopublico.github.io/empregos/j104922.html 
+2023-01-23 - Técnico superior das áreas de diagnóstico e terapêutica - Casa Pia de Lisboa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104920.html 
+2023-01-23 - Professor Associado - Universidade de Évora - Évora: https://empregopublico.github.io/empregos/j104919.html 
+2023-01-23 - Assistente Técnico - Câmara Municipal da Batalha - Batalha: https://empregopublico.github.io/empregos/j104917.html 
 2023-01-23 - Professor Auxiliar - Universidade de Évora - Évora: https://empregopublico.github.io/empregos/j104916.html 
 2023-01-23 - Professor Auxiliar - Universidade de Évora - Évora: https://empregopublico.github.io/empregos/j104915.html 
 2023-01-23 - Especialista Informática Grau 1 Nível 1 - AIRC - Associação de Informática da Região Centro - Coimbra: https://empregopublico.github.io/empregos/j104914.html 
@@ -990,14 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-11-30 - Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103672.html 
 2022-11-30 - Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103671.html 
 2022-11-30 - Assistente Operacional - Câmara Municipal de Vila Viçosa - Vila Viçosa: https://empregopublico.github.io/empregos/j103670.html 
-2022-11-30 - Técnico Superior - Secretaria-Geral da Presidência de Conselho de Ministros - Lisboa: https://empregopublico.github.io/empregos/j103669.html 
-2022-11-30 - Assistente Operacional - Câmara Municipal de Almada - Almada: https://empregopublico.github.io/empregos/j103668.html 
-2022-11-30 - Técnico Superior - Delegação Regional do Oeste - Caldas da Rainha: https://empregopublico.github.io/empregos/j103667.html 
-2022-11-29 - Tecnico de Informática Grau 1 Nível 1 - Superintendência do Pessoal - Lisboa: https://empregopublico.github.io/empregos/j103666.html 
-2022-11-29 - Assistente Técnico - Escola Superior Náutica Infante D. Henrique  - Oeiras: https://empregopublico.github.io/empregos/j103665.html 
-2022-11-29 - Assistente Técnico - Instituto dos Mercados Públicos, do Imobiliário e da Construção, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103664.html 
-2022-11-29 - Técnico de Informática - Direção-Geral das Autarquias Locais - Lisboa: https://empregopublico.github.io/empregos/j103662.html 
-2022-11-29 - Técnico de Informática - Direção-Geral das Autarquias Locais - Lisboa: https://empregopublico.github.io/empregos/j103661.html 
-2022-11-29 - Técnico de Informática - Direção-Geral das Autarquias Locais - Lisboa: https://empregopublico.github.io/empregos/j103660.html 
-2022-11-30 - Encarregado Geral Operacional - Câmara Municipal de Portel - Portel: https://empregopublico.github.io/empregos/j103659.html 
-2022-11-29 - Professor associado - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103658.html 
