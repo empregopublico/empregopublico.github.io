@@ -1,5 +1,20 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-01-23 - Professor Auxiliar - Universidade de Évora - Évora: https://empregopublico.github.io/empregos/j104916.html 
+2023-01-23 - Professor Auxiliar - Universidade de Évora - Évora: https://empregopublico.github.io/empregos/j104915.html 
+2023-01-23 - Especialista Informática Grau 1 Nível 1 - AIRC - Associação de Informática da Região Centro - Coimbra: https://empregopublico.github.io/empregos/j104914.html 
+2023-01-23 - Técnico Superior - Câmara Municipal da Batalha - Batalha: https://empregopublico.github.io/empregos/j104913.html 
+2023-01-23 - Técnico Superior - Câmara Municipal da Batalha - Batalha: https://empregopublico.github.io/empregos/j104911.html 
+2023-01-23 - Assistente Operacional - Serviços Municipalizados de Transportes Coletivos do Barreiro - Barreiro: https://empregopublico.github.io/empregos/j104910.html 
+2023-01-23 - Professor Auxiliar - Universidade de Évora - Évora: https://empregopublico.github.io/empregos/j104909.html 
+2023-01-23 - Professor auxiliar - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104908.html 
+2023-01-23 - Professor Associado - Universidade Aberta - Lisboa: https://empregopublico.github.io/empregos/j104907.html 
+2023-01-23 - Técnico Superior - Universidade de Évora - Évora: https://empregopublico.github.io/empregos/j104906.html 
+2023-01-23 - Enfermeiro gestor - Centro de Sangue e Transplantação de Lisboa - Área Funcional do Sangue  - Lisboa: https://empregopublico.github.io/empregos/j104903.html 
+2023-01-23 - Especialista de Informática - Serviço de Estrangeiros e Fronteiras - Oeiras: https://empregopublico.github.io/empregos/j104902.html 
+2023-01-23 - Assistente Operacional - Serviço de Estrangeiros e Fronteiras - Direção Regional do Norte - Porto: https://empregopublico.github.io/empregos/j104901.html 
+2023-01-21 - Técnico Superior - Direção-Geral do Património Cultural - Lisboa: https://empregopublico.github.io/empregos/j104900.html 
+2023-01-20 - Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j104898.html 
 2023-01-20 - Assistente Operacional - Instituto Politécnico de Setúbal - Setúbal: https://empregopublico.github.io/empregos/j104897.html 
 2023-01-20 - Técnico Superior - Instituto Português de Oncologia de Lisboa Francisco Gentil, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j104896.html 
 2023-01-20 - Técnico Superior - Junta de Freguesia da Ajuda - Lisboa: https://empregopublico.github.io/empregos/j104895.html 
@@ -986,18 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-11-29 - Técnico de Informática - Direção-Geral das Autarquias Locais - Lisboa: https://empregopublico.github.io/empregos/j103660.html 
 2022-11-30 - Encarregado Geral Operacional - Câmara Municipal de Portel - Portel: https://empregopublico.github.io/empregos/j103659.html 
 2022-11-29 - Professor associado - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103658.html 
-2022-11-29 - Assistente Operacional - Junta de Freguesia de Vila Ruiva - Cuba: https://empregopublico.github.io/empregos/j103657.html 
-2022-11-29 - Técnico Superior - Casa Pia de Lisboa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103655.html 
-2022-11-29 - Professor catedrático - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103654.html 
-2022-11-29 - Professor catedrático - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103653.html 
-2022-11-29 - Professor associado - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103651.html 
-2022-11-29 - Professor associado - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103650.html 
-2022-11-29 - Técnico Superior - Agrupamento de Escolas de Marco de Canaveses (Escola Básica de Marco de Canaveses - Sede) - Marco de Canaveses: https://empregopublico.github.io/empregos/j103649.html 
-2022-11-29 - Investigador Principal - Universidade dos Açores - Ponta Delgada: https://empregopublico.github.io/empregos/j103648.html 
-2022-11-29 - Professor catedrático - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103646.html 
-2022-11-29 - Professor associado - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103645.html 
-2022-11-29 - Professor coordenador - Instituto Superior de Engenharia de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103644.html 
-2022-11-29 - Técnico Superior - Câmara Municipal de Caldas da Rainha - Caldas da Rainha: https://empregopublico.github.io/empregos/j103643.html 
-2022-11-29 - Especialista Informática Grau 1 Nível 2 - Instituto de Gestão Financeira e Equipamentos da Justiça, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103642.html 
-2022-11-29 - Técnico Superior - Câmara Municipal de Vila do Conde - Vila do Conde: https://empregopublico.github.io/empregos/j103641.html 
-2022-11-29 - Técnico Superior - Conselho Superior da Magistratura - Lisboa: https://empregopublico.github.io/empregos/j103640.html 
