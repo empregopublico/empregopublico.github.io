@@ -1,5 +1,17 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-01-24 - Professor auxiliar - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104943.html 
+2023-01-24 - Técnico Superior - Instituto Politécnico do Porto - Porto: https://empregopublico.github.io/empregos/j104942.html 
+2023-01-24 - Professor auxiliar - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104941.html 
+2023-01-24 - Professor auxiliar - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104940.html 
+2023-01-24 - Assistente Técnico - Câmara Municipal de Albufeira - Albufeira: https://empregopublico.github.io/empregos/j104939.html 
+2023-01-24 - Técnico Superior - Polo de Santarém - Santarém: https://empregopublico.github.io/empregos/j104938.html 
+2023-01-24 - Técnico Superior - Câmara Municipal de Albufeira - Albufeira: https://empregopublico.github.io/empregos/j104937.html 
+2023-01-24 - Assistente Operacional - Junta de Freguesia de Alvados e Alcaria - Porto de Mós: https://empregopublico.github.io/empregos/j104936.html 
+2023-01-24 - Técnico Superior - Câmara Municipal de Albufeira - Albufeira: https://empregopublico.github.io/empregos/j104935.html 
+2023-01-24 - Assistente Técnico - Secretaria-Geral da Presidência de Conselho de Ministros - Lisboa: https://empregopublico.github.io/empregos/j104934.html 
+2023-01-24 - Assistente Técnico - Instituto Superior de Engenharia de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104933.html 
+2023-01-23 - Técnico Superior - Instituto de Gestão Financeira e Equipamentos da Justiça, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104932.html 
 2023-01-23 - Técnico Superior - Agrupamento de Escolas da Caparica (Escola Secundária Monte da Caparica - Sede) - Almada: https://empregopublico.github.io/empregos/j104931.html 
 2023-01-23 - Assistente Operacional - Câmara Municipal de Viseu - Viseu: https://empregopublico.github.io/empregos/j104930.html 
 2023-01-23 - Assistente Técnico - Câmara Municipal da Figueira da Foz - Figueira da Foz: https://empregopublico.github.io/empregos/j104929.html 
@@ -989,15 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-11-30 - Técnico Superior - Direção-Geral da Educação - Lisboa: https://empregopublico.github.io/empregos/j103684.html 
 2022-11-30 - Professor Associado - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j103683.html 
 2022-11-30 - Técnico Superior - Instituto de Gestão Financeira e Equipamentos da Justiça, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103682.html 
-2022-11-30 - Técnico Superior - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j103681.html 
-2022-11-30 - Assistente Operacional - Câmara Municipal de Caldas da Rainha - Caldas da Rainha: https://empregopublico.github.io/empregos/j103680.html 
-2022-11-30 - Enfermeiro especialista - Unidade Local de Saúde da Guarda, E.P.E. - Guarda: https://empregopublico.github.io/empregos/j103679.html 
-2022-11-30 - Professor associado - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103678.html 
-2022-11-30 - Professor associado - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103677.html 
-2022-11-30 - Técnico Superior - Câmara Municipal de Palmela - Palmela: https://empregopublico.github.io/empregos/j103676.html 
-2022-11-30 - Professor adjunto - Escola Superior de Saúde de Leiria - Leiria: https://empregopublico.github.io/empregos/j103675.html 
-2022-11-30 - Assistente Técnico - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j103674.html 
-2022-11-30 - Investigador Doutorado de nível inicial - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j103673.html 
-2022-11-30 - Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103672.html 
-2022-11-30 - Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103671.html 
-2022-11-30 - Assistente Operacional - Câmara Municipal de Vila Viçosa - Vila Viçosa: https://empregopublico.github.io/empregos/j103670.html 
