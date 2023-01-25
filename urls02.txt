@@ -1,5 +1,19 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-01-25 - Assistente Técnico - Junta de Freguesia de Alvaiázere - Alvaiázere: https://empregopublico.github.io/empregos/j104984.html 
+2023-01-25 - Assistente Operacional - Junta de Freguesia de Aves - Santo Tirso: https://empregopublico.github.io/empregos/j104983.html 
+2023-01-25 - Assistente Operacional - Junta de Freguesia de Alvaiázere - Alvaiázere: https://empregopublico.github.io/empregos/j104982.html 
+2023-01-25 - Professor associado - Universidade Nova de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104981.html 
+2023-01-25 - assistente operacional função de canalizador m/f - Centro Hospitalar Barreiro Montijo, E.P.E. - Barreiro: https://empregopublico.github.io/empregos/j104979.html 
+2023-01-25 - Professor associado - Universidade Nova de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104978.html 
+2023-01-25 - Técnico Superior - Agrupamento de Escolas Eça de Queirós, Lisboa (Escola Secundária Eça de Queirós, Lisboa - Sede) - Lisboa: https://empregopublico.github.io/empregos/j104977.html 
+2023-01-25 - Assistente Operacional - Junta de Freguesia de Alhandra, São João dos Montes e Calhandriz - Vila Franca de Xira: https://empregopublico.github.io/empregos/j104976.html 
+2023-01-25 - Técnico Superior - Agrupamento de Escolas Sampaio (Escola Secundária de Sampaio - Sede) - Sesimbra: https://empregopublico.github.io/empregos/j104975.html 
+2023-01-25 - Professor associado - Universidade Nova de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104974.html 
+2023-01-25 - Assistente Técnico - Câmara Municipal de Almada - Almada: https://empregopublico.github.io/empregos/j104973.html 
+2023-01-25 - Técnico Superior - Câmara Municipal de Almada - Almada: https://empregopublico.github.io/empregos/j104972.html 
+2023-01-25 - Assistente Técnico - Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências - Lisboa: https://empregopublico.github.io/empregos/j104971.html 
+2023-01-25 - Técnico Superior - Direção-Geral das Autarquias Locais - Lisboa: https://empregopublico.github.io/empregos/j104970.html 
 2023-01-25 - Técnico superior das áreas de diagnóstico e terapêutica - Hospital de Braga, E.P.E. - Saúde: https://empregopublico.github.io/empregos/j104969.html 
 2023-01-25 - Técnico Superior - Instituto Nacional de Medicina Legal e Ciências Forenses, I.P. - Coimbra: https://empregopublico.github.io/empregos/j104967.html 
 2023-01-25 - Técnico Superior - Agrupamento de Escolas Madeira Torres, Torres Vedras (Escola Secundária Madeira Torres, Torres Vedras - Sede) - Torres Vedras: https://empregopublico.github.io/empregos/j104966.html 
@@ -987,17 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-12-02 - Assistente Operacional - Câmara Municipal de Porto de Mós - Porto de Mós: https://empregopublico.github.io/empregos/j103735.html 
 2022-12-02 - Assistente Técnico - Serviço Sub-Regional do Litoral - Santiago do Cacém: https://empregopublico.github.io/empregos/j103734.html 
 2022-12-02 - Assistente Técnico - Direção-Geral de Alimentação e Veterinária - Lisboa: https://empregopublico.github.io/empregos/j103733.html 
-2022-12-02 - Técnico Superior - Instituto da Habitação e da Reabilitação Urbana, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103732.html 
-2022-12-02 - Técnico Superior - Instituto Nacional de Estatística, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103727.html 
-2022-12-02 - Assistente Operacional - Câmara Municipal de Benavente - Benavente: https://empregopublico.github.io/empregos/j103726.html 
-2022-12-02 - Assistente Operacional - Câmara Municipal de Benavente - Benavente: https://empregopublico.github.io/empregos/j103725.html 
-2022-12-02 - Assistente Operacional - Câmara Municipal de Benavente - Benavente: https://empregopublico.github.io/empregos/j103724.html 
-2022-12-02 - Técnico Superior - Instituto Nacional de Estatística, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103723.html 
-2022-12-02 - Assistente Operacional - Comunidade Intermunicipal do Alto Alentejo - Portalegre: https://empregopublico.github.io/empregos/j103719.html 
-2022-12-02 - Técnico Superior - Instituto Nacional de Estatística, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103718.html 
-2022-12-02 - Técnico Superior - Câmara Municipal de Santa Cruz - Santa Cruz: https://empregopublico.github.io/empregos/j103717.html 
-2022-12-02 - Técnico Superior - Câmara Municipal de Benavente - Benavente: https://empregopublico.github.io/empregos/j103716.html 
-2022-12-02 - Técnico Superior - Câmara Municipal de Benavente - Benavente: https://empregopublico.github.io/empregos/j103715.html 
-2022-12-02 - Técnico Superior - Unidade Local de Saúde da Guarda, E.P.E. - Saúde: https://empregopublico.github.io/empregos/j103714.html 
-2022-12-02 - Assistente Operacional - Câmara Municipal de Melgaço - Melgaço: https://empregopublico.github.io/empregos/j103713.html 
-2022-12-02 - Assistente Operacional - Junta de Freguesia de São Domingos de Ana Loura - Estremoz: https://empregopublico.github.io/empregos/j103711.html 
