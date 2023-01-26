@@ -1,5 +1,34 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-01-26 - Técnica Superior das áreas de Diagnóstica e terapêutica - Farmácia - Centro Hospitalar Universitário do Porto, E.P.E. - Porto: https://empregopublico.github.io/empregos/j105023.html 
+2023-01-26 - Técnico Superior - Escola Artística de Dança do Conservatório Nacional  - Lisboa: https://empregopublico.github.io/empregos/j105022.html 
+2023-01-26 - Professor associado - Universidade dos Açores - Ponta Delgada: https://empregopublico.github.io/empregos/j105021.html 
+2023-01-26 - Técnico Superior - Centro de Competências de Planeamento, de Políticas e de Prospetiva da Administração Pública - Lisboa: https://empregopublico.github.io/empregos/j105020.html 
+2023-01-26 - Assistente Operacional - Secretaria-Geral do Ministério da Administração Interna - Lisboa: https://empregopublico.github.io/empregos/j105019.html 
+2023-01-26 - Assistente Operacional - Junta de Freguesia de Charneca de Caparica e Sobreda - Almada: https://empregopublico.github.io/empregos/j105018.html 
+2023-01-26 - Assistente Técnico - Junta de Freguesia de Alferce - Monchique: https://empregopublico.github.io/empregos/j105017.html 
+2023-01-26 - Assistente Técnico - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j105016.html 
+2023-01-26 - Técnico Superior - Centro Científico e Cultural de Macau, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105015.html 
+2023-01-26 - Professor associado - Universidade dos Açores - Ponta Delgada: https://empregopublico.github.io/empregos/j105013.html 
+2023-01-26 - Assistente Operacional - Câmara Municipal de Vila Nova da Barquinha - Vila Nova da Barquinha: https://empregopublico.github.io/empregos/j105012.html 
+2023-01-26 - Técnico Superior - Agrupamento de Escolas Dr. Júlio Martins, Chaves (Escola Secundária Dr. Júlio Martins de Chaves - Sede) - Chaves: https://empregopublico.github.io/empregos/j105011.html 
+2023-01-26 - Técnico Superior - Agrupamento de Escolas de Miranda do Douro (Escola Básica e Secundária de Miranda do Douro - Sede) - Miranda do Douro: https://empregopublico.github.io/empregos/j105008.html 
+2023-01-26 - Assistente Técnico - Direção Nacional - Lisboa: https://empregopublico.github.io/empregos/j105006.html 
+2023-01-26 - Técnico Superior - Escola Profissional de Agricultura e Desenvolvimento Rural de Carvalhais - Mirandela: https://empregopublico.github.io/empregos/j105004.html 
+2023-01-26 - Assistente Operacional - Exército - Portugal Continental - Lisboa: https://empregopublico.github.io/empregos/j105003.html 
+2023-01-26 - Técnico Superior - Entidade Reguladora dos Serviços Energéticos - Lisboa: https://empregopublico.github.io/empregos/j105002.html 
+2023-01-26 - Assistente de Investigação - Faculdade de Ciências da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j105001.html 
+2023-01-26 - Assistente Técnico - Instituto dos Registos e do Notariado, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105000.html 
+2023-01-26 - Técnico Superior - Universidade da Beira Interior - Covilhã: https://empregopublico.github.io/empregos/j104999.html 
+2023-01-26 - Assistente de Investigação - Faculdade de Ciências da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j104998.html 
+2023-01-26 - Assistente Operacional - Serviços de Ação Social da Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104997.html 
+2023-01-26 - Assistente Técnico - Instituto dos Registos e do Notariado, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104993.html 
+2023-01-26 - Professor coordenador - Instituto Superior de Engenharia de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104992.html 
+2023-01-26 - Investigador Auxiliar - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104991.html 
+2023-01-25 - Professor associado - Universidade Nova de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104990.html 
+2023-01-25 - Assistente Técnico - Câmara Municipal de Oliveira do Bairro - Oliveira do Bairro: https://empregopublico.github.io/empregos/j104988.html 
+2023-01-25 - Professor associado - Universidade Nova de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104986.html 
+2023-01-25 - Técnico Superior - Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos  - Lisboa: https://empregopublico.github.io/empregos/j104985.html 
 2023-01-25 - Assistente Técnico - Junta de Freguesia de Alvaiázere - Alvaiázere: https://empregopublico.github.io/empregos/j104984.html 
 2023-01-25 - Assistente Operacional - Junta de Freguesia de Aves - Santo Tirso: https://empregopublico.github.io/empregos/j104983.html 
 2023-01-25 - Assistente Operacional - Junta de Freguesia de Alvaiázere - Alvaiázere: https://empregopublico.github.io/empregos/j104982.html 
@@ -972,32 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-12-05 - Técnico Superior - Câmara Municipal de Tavira - Tavira: https://empregopublico.github.io/empregos/j103768.html 
 2022-12-05 - Professor catedrático - Instituto Superior de Agronomia da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103767.html 
 2022-12-05 - Professor auxiliar - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103766.html 
-2022-12-05 - Assistente Técnico - Centro Hospitalar Psiquiátrico de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103764.html 
-2022-12-05 - Técnico Superior - Instituto Politécnico de Portalegre - Portalegre: https://empregopublico.github.io/empregos/j103763.html 
-2022-12-05 - Técnico Superior - Instituto Politécnico de Viseu - Viseu: https://empregopublico.github.io/empregos/j103762.html 
-2022-12-05 - Estagiário/a de Investigação - Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j103761.html 
-2022-12-05 - Assistente Técnico - Câmara Municipal de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103760.html 
-2022-12-05 - Professor Associado - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j103758.html 
-2022-12-05 - Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j103756.html 
-2022-12-05 - Estagiário/a de Investigação - Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j103755.html 
-2022-12-05 - Professor adjunto - Instituto Politécnico de Viseu - Viseu: https://empregopublico.github.io/empregos/j103754.html 
-2022-12-05 - Técnico Superior - Agrupamento de Escolas n.º 1 de Marco de Canaveses (Escola Secundária Marco de Canaveses - Sede)  - Marco de Canaveses: https://empregopublico.github.io/empregos/j103753.html 
-2022-12-05 - Doutorado/a de nível inicial - Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j103751.html 
-2022-12-02 - Técnico Superior - Instituto Nacional de Investigação Agrária e Veterinária, I.P. - Oeiras: https://empregopublico.github.io/empregos/j103750.html 
-2022-12-02 - Técnico Superior - Junta de Freguesia de Carcavelos e Parede - Cascais: https://empregopublico.github.io/empregos/j103749.html 
-2022-12-02 - Técnico Superior - Junta de Freguesia de Carcavelos e Parede - Cascais: https://empregopublico.github.io/empregos/j103748.html 
-2022-12-02 - Técnico Superior - Junta de Freguesia de Carcavelos e Parede - Cascais: https://empregopublico.github.io/empregos/j103747.html 
-2022-12-02 - Técnico Superior - Junta de Freguesia de Carcavelos e Parede - Cascais: https://empregopublico.github.io/empregos/j103746.html 
-2022-12-02 - Assistente Técnico - Junta de Freguesia de Carcavelos e Parede - Cascais: https://empregopublico.github.io/empregos/j103745.html 
-2022-12-02 - Assistente Técnico - Junta de Freguesia de Carcavelos e Parede - Cascais: https://empregopublico.github.io/empregos/j103744.html 
-2022-12-02 - Técnico Superior - Junta de Freguesia de Carcavelos e Parede - Cascais: https://empregopublico.github.io/empregos/j103743.html 
-2022-12-02 - Técnico Superior - Junta de Freguesia de Carcavelos e Parede - Cascais: https://empregopublico.github.io/empregos/j103742.html 
-2022-12-02 - Técnico Superior - Junta de Freguesia de Carcavelos e Parede - Cascais: https://empregopublico.github.io/empregos/j103741.html 
-2022-12-02 - Assistente Operacional - Junta de Freguesia de Monsaraz - Reguengos de Monsaraz: https://empregopublico.github.io/empregos/j103740.html 
-2022-12-02 - Técnico Superior - Serviços Partilhados do Ministério da Saúde, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j103739.html 
-2022-12-02 - Técnico Superior - Serviços Partilhados do Ministério da Saúde, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j103738.html 
-2022-12-02 - Técnico/a  Superior - Serviços Partilhados do Ministério da Saúde, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j103737.html 
-2022-12-02 - Assistente Operacional - Câmara Municipal de Porto de Mós - Porto de Mós: https://empregopublico.github.io/empregos/j103736.html 
-2022-12-02 - Assistente Operacional - Câmara Municipal de Porto de Mós - Porto de Mós: https://empregopublico.github.io/empregos/j103735.html 
-2022-12-02 - Assistente Técnico - Serviço Sub-Regional do Litoral - Santiago do Cacém: https://empregopublico.github.io/empregos/j103734.html 
-2022-12-02 - Assistente Técnico - Direção-Geral de Alimentação e Veterinária - Lisboa: https://empregopublico.github.io/empregos/j103733.html 
