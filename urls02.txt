@@ -1,5 +1,23 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-01-27 - Assistente Operacional - Junta de Freguesia de Mexilhoeira Grande - Portimão: https://empregopublico.github.io/empregos/j105045.html 
+2023-01-27 - Assistente Técnico - Junta de Freguesia de Mexilhoeira Grande - Portimão: https://empregopublico.github.io/empregos/j105044.html 
+2023-01-27 - Assistente Operacional - Câmara Municipal de Vendas Novas - Vendas Novas: https://empregopublico.github.io/empregos/j105043.html 
+2023-01-27 - Assistente Operacional - Câmara Municipal de Vila Franca de Xira - Vila Franca de Xira: https://empregopublico.github.io/empregos/j105041.html 
+2023-01-27 - Assistente Operacional - Câmara Municipal de Vila Franca de Xira - Vila Franca de Xira: https://empregopublico.github.io/empregos/j105040.html 
+2023-01-27 - Assistente Operacional - Câmara Municipal de Vila Franca de Xira - Vila Franca de Xira: https://empregopublico.github.io/empregos/j105039.html 
+2023-01-27 - Enfermeiro especialista - Agrupamento de Centros de Saúde do Pinhal Litoral - Leiria: https://empregopublico.github.io/empregos/j105038.html 
+2023-01-27 - Assistente Operacional - Câmara Municipal de Vila Franca de Xira - Vila Franca de Xira: https://empregopublico.github.io/empregos/j105037.html 
+2023-01-27 - Assistente Operacional - Câmara Municipal de Vila Franca de Xira - Vila Franca de Xira: https://empregopublico.github.io/empregos/j105036.html 
+2023-01-27 - Assistente Operacional - Câmara Municipal de Vila Franca de Xira - Vila Franca de Xira: https://empregopublico.github.io/empregos/j105035.html 
+2023-01-27 - Assistente Operacional - Câmara Municipal de Vila Franca de Xira - Vila Franca de Xira: https://empregopublico.github.io/empregos/j105034.html 
+2023-01-27 - Assistente Operacional - Câmara Municipal de Vila Franca de Xira - Vila Franca de Xira: https://empregopublico.github.io/empregos/j105033.html 
+2023-01-27 - Tecnico de Informática Grau 2 Nível 1 - Câmara Municipal de Vila Franca de Xira - Vila Franca de Xira: https://empregopublico.github.io/empregos/j105032.html 
+2023-01-27 - Técnico Superior - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j105031.html 
+2023-01-27 - Técnico Superior - Câmara Municipal da Murtosa - Murtosa: https://empregopublico.github.io/empregos/j105030.html 
+2023-01-27 - Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional do Alentejo - Évora: https://empregopublico.github.io/empregos/j105029.html 
+2023-01-27 - Técnico Superior - Secretaria-Geral da Educação e Ciência  - Lisboa: https://empregopublico.github.io/empregos/j105028.html 
+2023-01-26 - Especialista de Informática - Instituto da Habitação e da Reabilitação Urbana, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105027.html 
 2023-01-26 - Técnica Superior das áreas de Diagnóstica e terapêutica - Farmácia - Centro Hospitalar Universitário do Porto, E.P.E. - Porto: https://empregopublico.github.io/empregos/j105023.html 
 2023-01-26 - Técnico Superior - Escola Artística de Dança do Conservatório Nacional  - Lisboa: https://empregopublico.github.io/empregos/j105022.html 
 2023-01-26 - Professor associado - Universidade dos Açores - Ponta Delgada: https://empregopublico.github.io/empregos/j105021.html 
@@ -983,21 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-12-05 - Professor catedrático - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103788.html 
 2022-12-05 - Técnico Superior - Instituto Superior de Engenharia do Porto - Porto: https://empregopublico.github.io/empregos/j103787.html 
 2022-12-05 - Técnico Superior - Direção Nacional - Lisboa: https://empregopublico.github.io/empregos/j103786.html 
-2022-12-05 - Técnico Superior - Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais  - Lisboa: https://empregopublico.github.io/empregos/j103785.html 
-2022-12-05 - Professor catedrático - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103784.html 
-2022-12-05 - Técnico Superior - Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais  - Lisboa: https://empregopublico.github.io/empregos/j103783.html 
-2022-12-05 - Professor associado - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103782.html 
-2022-12-05 - Professor catedrático - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103781.html 
-2022-12-05 - Técnico Superior - Instituto do Cinema e do Audiovisual, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103780.html 
-2022-12-05 - Técnico Superior - Instituto do Cinema e do Audiovisual, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103779.html 
-2022-12-05 - Professor associado - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103777.html 
-2022-12-05 - Professor catedrático - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103776.html 
-2022-12-05 - Assistente Operacional - Junta de Freguesia de Carriço - Pombal: https://empregopublico.github.io/empregos/j103775.html 
-2022-12-05 - Assistente graduado sénior - Hospital do Espírito Santo de Évora, E.P.E. - Évora: https://empregopublico.github.io/empregos/j103774.html 
-2022-12-05 - Técnico superior das áreas de diagnóstico e terapêutica - Administração Regional de Saúde do Norte, I.P. - Porto: https://empregopublico.github.io/empregos/j103773.html 
-2022-12-05 - Assistente Técnico - Administração Regional de Saúde do Norte, I.P. - Porto: https://empregopublico.github.io/empregos/j103772.html 
-2022-12-05 - Professor Auxiliar - Faculdade de Ciências Médicas da Universidade Nova de Lisboa - NOVA Medical School - Lisboa: https://empregopublico.github.io/empregos/j103771.html 
-2022-12-05 - Professor associado - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103769.html 
-2022-12-05 - Técnico Superior - Câmara Municipal de Tavira - Tavira: https://empregopublico.github.io/empregos/j103768.html 
-2022-12-05 - Professor catedrático - Instituto Superior de Agronomia da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103767.html 
-2022-12-05 - Professor auxiliar - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j103766.html 
