@@ -1,5 +1,15 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-01-27 - Assistente Técnico - Junta de Freguesia de Rio Tinto - Gondomar: https://empregopublico.github.io/empregos/j105057.html 
+2023-01-27 - Assistente Operacional - Câmara Municipal de Alpiarça - Alpiarça: https://empregopublico.github.io/empregos/j105056.html 
+2023-01-27 - Técnico Superior - Câmara Municipal de Vila Pouca de Aguiar - Vila Pouca de Aguiar: https://empregopublico.github.io/empregos/j105055.html 
+2023-01-27 - Técnico Superior - Agrupamento de Escolas Sever do Vouga (Escola Básica e Secundária de Sever do Vouga - Sede) - Sever do Vouga: https://empregopublico.github.io/empregos/j105054.html 
+2023-01-27 - Técnico Superior - Instituto Nacional de Estatística, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105053.html 
+2023-01-27 - DIRETOR(A) - Comissão do Mercado de Valores Mobiliários - Lisboa: https://empregopublico.github.io/empregos/j105052.html 
+2023-01-27 - Assistente Operacional - Câmara Municipal de Beja - Beja: https://empregopublico.github.io/empregos/j105050.html 
+2023-01-27 - Técnico Superior - Câmara Municipal de Vendas Novas - Vendas Novas: https://empregopublico.github.io/empregos/j105049.html 
+2023-01-27 - Assistente Técnico - Câmara Municipal da Figueira da Foz - Figueira da Foz: https://empregopublico.github.io/empregos/j105048.html 
+2023-01-27 - Fiscal - Câmara Municipal de Vendas Novas - Vendas Novas: https://empregopublico.github.io/empregos/j105047.html 
 2023-01-27 - Assistente Operacional - Junta de Freguesia de Mexilhoeira Grande - Portimão: https://empregopublico.github.io/empregos/j105045.html 
 2023-01-27 - Assistente Técnico - Junta de Freguesia de Mexilhoeira Grande - Portimão: https://empregopublico.github.io/empregos/j105044.html 
 2023-01-27 - Assistente Operacional - Câmara Municipal de Vendas Novas - Vendas Novas: https://empregopublico.github.io/empregos/j105043.html 
@@ -991,13 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-12-05 - Assistente Operacional - Junta de Freguesia de Oleiros-Amieira - Oleiros: https://empregopublico.github.io/empregos/j103800.html 
 2022-12-05 - Professor auxiliar - Instituto Superior de Agronomia da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103798.html 
 2022-12-05 - Professor associado - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103797.html 
-2022-12-05 - Professor associado - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103796.html 
-2022-12-05 - Professor catedrático - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103795.html 
-2022-12-05 - Doutorado equiparado a investigador auxiliar - Faculdade de Letras da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j103794.html 
-2022-12-05 - Assistente Técnico - Escola de Hotelaria e Turismo do Porto - Porto: https://empregopublico.github.io/empregos/j103792.html 
-2022-12-05 - Técnico Superior - Escola de Hotelaria e Turismo do Porto - Porto: https://empregopublico.github.io/empregos/j103791.html 
-2022-12-05 - Assistente Operacional - Câmara Municipal de Abrantes - Abrantes: https://empregopublico.github.io/empregos/j103790.html 
-2022-12-05 - Técnico Superior - Agrupamento de Escolas de Ílhavo (Escola Secundária Dr. João Carlos Celestino Gomes, Ílhavo - Sede) - Ílhavo: https://empregopublico.github.io/empregos/j103789.html 
-2022-12-05 - Professor catedrático - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103788.html 
-2022-12-05 - Técnico Superior - Instituto Superior de Engenharia do Porto - Porto: https://empregopublico.github.io/empregos/j103787.html 
-2022-12-05 - Técnico Superior - Direção Nacional - Lisboa: https://empregopublico.github.io/empregos/j103786.html 
