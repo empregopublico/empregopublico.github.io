@@ -1,5 +1,20 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-01-30 - Assistente Operacional - Junta de Freguesia de Couto de Esteves - Sever do Vouga: https://empregopublico.github.io/empregos/j105126.html 
+2023-01-30 - Técnico Superior - Escola de Hotelaria e Turismo do Porto - Porto: https://empregopublico.github.io/empregos/j105125.html 
+2023-01-30 - Técnico de Informática Forense - Autoridade da Concorrência - Lisboa: https://empregopublico.github.io/empregos/j105124.html 
+2023-01-30 - Assistente graduado sénior - Centro Hospitalar Tâmega e Sousa, E.P.E. - Penafiel: https://empregopublico.github.io/empregos/j105123.html 
+2023-01-30 - Técnico Superior - Serviços Intermunicipalizados de Água e Saneamento dos Municípios de Oeiras e Amadora - Oeiras: https://empregopublico.github.io/empregos/j105121.html 
+2023-01-30 - Assistente Técnico - Polícia Judiciária - Lisboa: https://empregopublico.github.io/empregos/j105120.html 
+2023-01-30 - Assistente Operacional - Junta de Freguesia de Pessegueiro do Vouga - Sever do Vouga: https://empregopublico.github.io/empregos/j105119.html 
+2023-01-30 - Enfermeiro gestor - Centro Hospitalar Vila Nova de Gaia-Espinho, E.P.E. - Vila Nova de Gaia: https://empregopublico.github.io/empregos/j105118.html 
+2023-01-30 - Enfermeiro gestor - Centro Hospitalar Vila Nova de Gaia-Espinho, E.P.E. - Vila Nova de Gaia: https://empregopublico.github.io/empregos/j105117.html 
+2023-01-30 - Enfermeiro gestor - Centro Hospitalar Vila Nova de Gaia-Espinho, E.P.E. - Vila Nova de Gaia: https://empregopublico.github.io/empregos/j105116.html 
+2023-01-30 - Enfermeiro gestor - Centro Hospitalar Vila Nova de Gaia-Espinho, E.P.E. - Vila Nova de Gaia: https://empregopublico.github.io/empregos/j105115.html 
+2023-01-30 - Assistente Técnico - Delegação Regional da Guarda - Guarda: https://empregopublico.github.io/empregos/j105114.html 
+2023-01-30 - Assistente Técnico - Delegação Regional de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j105113.html 
+2023-01-30 - Assistente Operacional - Junta de Freguesia de Pessegueiro do Vouga - Sever do Vouga: https://empregopublico.github.io/empregos/j105112.html 
+2023-01-30 - Assistente Operacional - Câmara Municipal de Viana do Castelo - escolaridade obrigatória: https://empregopublico.github.io/empregos/j105111.html 
 2023-01-30 - Assistente Técnico - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j105110.html 
 2023-01-30 - Assistente Operacional - Junta de Freguesia de Meirinhas - Pombal: https://empregopublico.github.io/empregos/j105109.html 
 2023-01-30 - Técnico Superior -  - Agrupamento de Escolas de Arouca (Escola Secundária de Arouca - Sede) - Arouca: https://empregopublico.github.io/empregos/j105108.html 
@@ -986,18 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-12-07 - Técnico Superior - Junta de Freguesia de Santa Maria Maior - Lisboa: https://empregopublico.github.io/empregos/j103870.html 
 2022-12-07 - Técnico Superior - Faculdade de Farmácia da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103869.html 
 2022-12-07 - Professor coordenador - Instituto Superior de Engenharia de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103868.html 
-2022-12-07 - Assistente Técnico - Faculdade de Farmácia da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103867.html 
-2022-12-07 - Assistente Operacional - Câmara Municipal de Estremoz - Estremoz: https://empregopublico.github.io/empregos/j103866.html 
-2022-12-07 - Investigador Auxiliar - Faculdade de Medicina Veterinária da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103865.html 
-2022-12-07 - Assistente Operacional - Câmara Municipal de Estremoz - Estremoz: https://empregopublico.github.io/empregos/j103863.html 
-2022-12-07 - Investigador - Instituto Politécnico de Bragança - Bragança: https://empregopublico.github.io/empregos/j103862.html 
-2022-12-07 - Encarregado Operacional - Câmara Municipal de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103860.html 
-2022-12-07 - Investigador - Instituto Politécnico de Bragança - Bragança: https://empregopublico.github.io/empregos/j103859.html 
-2022-12-07 - Encarregado Geral Operacional - Câmara Municipal de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103858.html 
-2022-12-07 - Técnico Superior - Câmara Municipal de Idanha-a-Nova - Idanha-a-Nova: https://empregopublico.github.io/empregos/j103856.html 
-2022-12-07 - Encarregado Operacional - Câmara Municipal de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103855.html 
-2022-12-06 - Técnico Superior - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j103853.html 
-2022-12-06 - Técnico Superior - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j103852.html 
-2022-12-06 - Professor catedrático - Instituto Superior Técnico da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j103851.html 
-2022-12-06 - Assistente Técnico - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j103850.html 
-2022-12-06 - Técnico Superior - Agrupamento de Escolas de Muralhas do Minho, Valença (Escola Básica e Secundária de Muralhas do Minho, Valença - Sede) - Valença: https://empregopublico.github.io/empregos/j103849.html 
