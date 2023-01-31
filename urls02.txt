@@ -1,5 +1,18 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-01-31 - Técnico Superior - Escola Profissional Infante D. Henrique - Porto: https://empregopublico.github.io/empregos/j105175.html 
+2023-01-31 - Assistente Operacional - Junta de Freguesia de Carregado e Cadafais - Alenquer: https://empregopublico.github.io/empregos/j105174.html 
+2023-01-31 - Professor Catedratico - Escola Nacional de Saúde Pública da Universidade Nova de Lisboa - NOVA National School of Public Hea - Lisboa: https://empregopublico.github.io/empregos/j105173.html 
+2023-01-31 - Assistente Operacional - Instituto Politécnico de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j105172.html 
+2023-01-31 - Técnico Superior - Escola Profissional Infante D. Henrique - Porto: https://empregopublico.github.io/empregos/j105171.html 
+2023-01-31 - Técnico Superior - IGFSS, I.P. - SPE Porto I - Porto: https://empregopublico.github.io/empregos/j105169.html 
+2023-01-31 - Técnico Superior - Câmara Municipal de Esposende - Esposende: https://empregopublico.github.io/empregos/j105164.html 
+2023-01-31 - Técnico Superior - Câmara Municipal de Esposende - Esposende: https://empregopublico.github.io/empregos/j105162.html 
+2023-01-31 - Assistente Técnico - Câmara Municipal de Rio Maior - Rio Maior: https://empregopublico.github.io/empregos/j105161.html 
+2023-01-31 - Técnico Superior - Universidade de Évora - Évora: https://empregopublico.github.io/empregos/j105160.html 
+2023-01-31 - Assistente Operacional - Câmara Municipal de Rio Maior - Rio Maior: https://empregopublico.github.io/empregos/j105159.html 
+2023-01-31 - Técnico Superior - Universidade de Évora - Évora: https://empregopublico.github.io/empregos/j105158.html 
+2023-01-31 - Assistente Operacional - Inspeção-Geral dos Serviços de Justiça - Lisboa: https://empregopublico.github.io/empregos/j105157.html 
 2023-01-31 - Assistente Operacional - Câmara Municipal de Ribeira Grande - Ribeira Grande: https://empregopublico.github.io/empregos/j105156.html 
 2023-01-31 - Assistente Operacional - Câmara Municipal de Ribeira Grande - Ribeira Grande: https://empregopublico.github.io/empregos/j105155.html 
 2023-01-31 - Técnico Superior - Administração Regional de Saúde do Norte, I.P. - Porto: https://empregopublico.github.io/empregos/j105154.html 
@@ -988,16 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-12-12 - Técnico Superior - Câmara Municipal de Bragança - Bragança: https://empregopublico.github.io/empregos/j103911.html 
 2022-12-09 - Professor Associado - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j103910.html 
 2022-12-09 - Professor Associado - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j103909.html 
-2022-12-09 - Professor Associado - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j103908.html 
-2022-12-09 - Técnico Superior - Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa -  NOVA School of Science and Tech - Almada: https://empregopublico.github.io/empregos/j103907.html 
-2022-12-09 - Técnico Superior - Agrupamento de Escolas de Vale de Ovil, Baião (Escola Básica e Secundária do Vale de Ovil, Baião - Sede) - Baião: https://empregopublico.github.io/empregos/j103904.html 
-2022-12-09 - Técnico Superior - Câmara Municipal de Palmela - Palmela: https://empregopublico.github.io/empregos/j103903.html 
-2022-12-09 - Técnico Superior - Instituto Superior de Engenharia do Porto - Porto: https://empregopublico.github.io/empregos/j103902.html 
-2022-12-09 - Assistente Técnico - Comando Distrital de Polícia de Portalegre - Portalegre: https://empregopublico.github.io/empregos/j103901.html 
-2022-12-09 - Professor Catedratico - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103900.html 
-2022-12-09 - Estagiário de Investigação - Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa -  NOVA School of Science and Tech - Almada: https://empregopublico.github.io/empregos/j103899.html 
-2022-12-09 - Técnico Superior - Comando Distrital de Polícia de Portalegre - Portalegre: https://empregopublico.github.io/empregos/j103897.html 
-2022-12-09 - Técnico Superior - Faculdade de Farmácia da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103896.html 
-2022-12-09 - Investigador - Faculdade de Ciências da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j103895.html 
-2022-12-09 - Técnico Superior - Junta de Freguesia das Avenidas Novas - Lisboa: https://empregopublico.github.io/empregos/j103894.html 
-2022-12-07 - Técnico Superior - Direção-Geral das Artes - Lisboa: https://empregopublico.github.io/empregos/j103893.html 
