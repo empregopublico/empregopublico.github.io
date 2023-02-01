@@ -1,5 +1,28 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-02-01 - Técnico Superior - Comunidade Intermunicipal do Ave - Guimarães: https://empregopublico.github.io/empregos/j105205.html 
+2023-02-01 - Técnico Superior - Agrupamento de Escolas de Albufeira (Escola Básica e Secundária de Albufeira - Sede) - Albufeira: https://empregopublico.github.io/empregos/j105204.html 
+2023-02-01 - Técnico Superior - Agrupamento de Escolas D. Dinis, Loulé (Escola Básica D. Dinis, Quarteira, Loulé - Sede) - Loulé: https://empregopublico.github.io/empregos/j105203.html 
+2023-02-01 - Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional do Norte - Porto: https://empregopublico.github.io/empregos/j105202.html 
+2023-02-01 - Assistente Operacional - Câmara Municipal de Portalegre - Portalegre: https://empregopublico.github.io/empregos/j105200.html 
+2023-02-01 - Técnico superior das áreas de diagnóstico e terapêutica - Instituto Nacional de Saúde Doutor Ricardo Jorge, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105199.html 
+2023-02-01 - Técnico Superior - Comissão para a Cidadania e a Igualdade de Género - Lisboa: https://empregopublico.github.io/empregos/j105197.html 
+2023-02-01 - Técnico Superior - Câmara Municipal de Idanha-a-Nova - Idanha-a-Nova: https://empregopublico.github.io/empregos/j105195.html 
+2023-02-01 - Técnico Superior - Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j105194.html 
+2023-02-01 - Técnico Superior - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j105193.html 
+2023-02-01 - Técnico Superior - Câmara Municipal de Torres Novas - Torres Novas: https://empregopublico.github.io/empregos/j105192.html 
+2023-02-01 - Técnico Superior - Universidade da Beira Interior - Covilhã: https://empregopublico.github.io/empregos/j105191.html 
+2023-02-01 - Técnico Superior - Instituto Português de Acreditação, I.P. - Almada: https://empregopublico.github.io/empregos/j105190.html 
+2023-02-01 - Técnico Superior - Centro Local do Douro - Vila Real: https://empregopublico.github.io/empregos/j105189.html 
+2023-02-01 - Técnico Superior - Instituto Português de Acreditação, I.P. - Almada: https://empregopublico.github.io/empregos/j105188.html 
+2023-02-01 - Técnico Superior - Junta de Freguesia de Queluz e Belas - Sintra: https://empregopublico.github.io/empregos/j105187.html 
+2023-01-31 - Chefe de Unidade de Relações Internacionais - Autoridade da Concorrência - Lisboa: https://empregopublico.github.io/empregos/j105186.html 
+2023-01-31 - Chefe de Unidade de Práticas Restritivas II - Autoridade da Concorrência - Lisboa: https://empregopublico.github.io/empregos/j105185.html 
+2023-01-31 - Diretor-Adjunto Jurídico e do Contencioso - Autoridade da Concorrência - Lisboa: https://empregopublico.github.io/empregos/j105184.html 
+2023-02-01 - Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional do Algarve - Faro: https://empregopublico.github.io/empregos/j105183.html 
+2023-02-01 - Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional do Algarve - Faro: https://empregopublico.github.io/empregos/j105182.html 
+2023-01-31 - Professor Catedratico - Escola Nacional de Saúde Pública da Universidade Nova de Lisboa - NOVA National School of Public Hea - Lisboa: https://empregopublico.github.io/empregos/j105178.html 
+2023-01-31 - Assistente Técnico - Direção-Geral da Segurança Social - Lisboa: https://empregopublico.github.io/empregos/j105177.html 
 2023-01-31 - Técnico Superior - Escola Profissional Infante D. Henrique - Porto: https://empregopublico.github.io/empregos/j105175.html 
 2023-01-31 - Assistente Operacional - Junta de Freguesia de Carregado e Cadafais - Alenquer: https://empregopublico.github.io/empregos/j105174.html 
 2023-01-31 - Professor Catedratico - Escola Nacional de Saúde Pública da Universidade Nova de Lisboa - NOVA National School of Public Hea - Lisboa: https://empregopublico.github.io/empregos/j105173.html 
@@ -978,26 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-12-12 - Professor Associado - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103940.html 
 2022-12-12 - Professor Associado - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103938.html 
 2022-12-12 - Técnico Superior - Administração Central do Sistema de Saúde, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103937.html 
-2022-12-12 - Técnico Superior - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j103936.html 
-2022-12-12 - Professor Catedratico - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103935.html 
-2022-12-12 - Assistente Técnico - Instituto Nacional para a Reabilitação, I.P. - Lisboa: https://empregopublico.github.io/empregos/j103933.html 
-2022-12-12 - Especialista de Informática - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j103932.html 
-2022-12-12 - Técnico de Informática - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j103931.html 
-2022-12-12 - Assistente Técnico - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j103929.html 
-2022-12-12 - Professor Catedratico - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103928.html 
-2022-12-12 - Assistente Técnico - Delegação Regional do Oeste - Caldas da Rainha: https://empregopublico.github.io/empregos/j103927.html 
-2022-12-12 - Assistente Técnico - Direção-Geral do Património Cultural - Lisboa: https://empregopublico.github.io/empregos/j103926.html 
-2022-12-12 - Técnico Superior - Delegação Regional do Oeste - Caldas da Rainha: https://empregopublico.github.io/empregos/j103925.html 
-2022-12-12 - Técnico Superior - Agrupamento de Escolas de Miranda do Douro (Escola Básica e Secundária de Miranda do Douro - Sede) - Miranda do Douro: https://empregopublico.github.io/empregos/j103923.html 
-2022-12-12 - Enfermeiro - Centro Hospitalar Universitário Lisboa Central, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j103922.html 
-2022-12-12 - Assistente Técnico - Superintendência do Pessoal - Lisboa: https://empregopublico.github.io/empregos/j103920.html 
-2022-12-12 - Técnico Superior - Agência Portuguesa do Ambiente, I.P. - Amadora: https://empregopublico.github.io/empregos/j103918.html 
-2022-12-12 - Técnico Superior - Instituto Português da Qualidade, I.P.  - Almada: https://empregopublico.github.io/empregos/j103917.html 
-2022-12-12 - Assessor Superior - Agrupamento de Centros de Saúde Almada-Seixal - Seixal: https://empregopublico.github.io/empregos/j103916.html 
-2022-12-12 - Assistente Técnico - Câmara Municipal do Bombarral - Bombarral: https://empregopublico.github.io/empregos/j103915.html 
-2022-12-12 - Assistente Técnico - Câmara Municipal de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j103914.html 
-2022-12-12 - Técnico Superior - Instituto de Higiene e Medicina Tropical da Universidade Nova de Lisboa - NOVA Institute of Hygiene  - Lisboa: https://empregopublico.github.io/empregos/j103913.html 
-2022-12-09 - Técnico Superior - Agrupamento de Escolas Professor Reynaldo dos Santos, Vila Franca de Xira (Escola Básica e Secundária Professor Reynaldo dos Santos - Sede) - Vila Franca de Xira: https://empregopublico.github.io/empregos/j103912.html 
-2022-12-12 - Técnico Superior - Câmara Municipal de Bragança - Bragança: https://empregopublico.github.io/empregos/j103911.html 
-2022-12-09 - Professor Associado - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j103910.html 
-2022-12-09 - Professor Associado - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j103909.html 
