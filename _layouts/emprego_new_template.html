@@ -47,7 +47,50 @@
 		<nav aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="/">Home</a></li><li class="breadcrumb-item"><a href="/empregos/">Empregos</a></li><li class="breadcrumb-item active" aria-current="page">Emprego Ref: {{ page.Id }}</li></ol></nav>
 				
 	</div>
-		  
+	
+    <div>	  
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "Onde e qual é a oferta de emprego ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": " Emprego {{ page.Concelho }} - {{ page.Trabalho }}  "
+        }
+      }, {
+        "@type": "Question",
+        "name": "Qual é o empregador ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": " {{ page.Empregador }} "
+        }
+      }, {
+        "@type": "Question",
+        "name": "Funções do emprego?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": " {{ page.Descricao }} "
+        }
+      }, {
+        "@type": "Question",
+        "name": "Como poderá candidatar-se a esta oferta de emprego?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "<p>No website <a target="_blank" href="https://www.bep.gov.pt/pages/oferta/Oferta_Detalhes.aspx?CodOferta={{ page.Id }}">https://www.bep.gov.pt/pages/oferta/Oferta_Detalhes.aspx?CodOferta={{ page.Id }}</a></p>"
+        }
+      }, {
+        "@type": "Question",
+        "name": "Data de fecho do concurso de emprego ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text":" {{ page.DataFecho}} "}
+        }]
+    }
+    </script> 
+    </div>	
     
 
 	<div>
