@@ -1,5 +1,16 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-02-02 - Assistente Técnico - Junta de Freguesia de Agualva e Mira-Sintra - Sintra: https://empregopublico.github.io/empregos/j105269.html 
+2023-02-02 - Técnico Superior - Agrupamento de Escolas n.º 1 de Gondomar (Escola Secundária de Gondomar - Sede) - Gondomar: https://empregopublico.github.io/empregos/j105268.html 
+2023-02-02 - Técnico Superior - Direção-Geral da Agricultura e Desenvolvimento Rural  - Lisboa: https://empregopublico.github.io/empregos/j105267.html 
+2023-02-02 - Professor Associado - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j105265.html 
+2023-02-02 - Técnico Superior - Agência Portuguesa do Ambiente, I.P. - Amadora: https://empregopublico.github.io/empregos/j105264.html 
+2023-02-02 - Assistente Técnico - Agência Portuguesa do Ambiente, I.P. - Amadora: https://empregopublico.github.io/empregos/j105263.html 
+2023-02-02 - Professor auxiliar - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j105262.html 
+2023-02-02 - Técnico Superior - Instituto de Ação Social das Forças Armadas, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105261.html 
+2023-02-02 - Técnico Superior - Agrupamento de Escolas Tomás Cabreira (Escola Secundária de Tomás Cabreira - Sede) - Faro: https://empregopublico.github.io/empregos/j105260.html 
+2023-02-02 - Técnico Superior - Agrupamento de Escolas Tomás Cabreira (Escola Secundária de Tomás Cabreira - Sede) - Faro: https://empregopublico.github.io/empregos/j105259.html 
+2023-02-02 - Técnico Superior - Escola Profissional de Agricultura e Desenvolvimento Rural de Vagos - Vagos: https://empregopublico.github.io/empregos/j105258.html 
 2023-02-02 - Assistente Técnico - Câmara Municipal de Mafra - Ciências da Educação Formação de Professores: https://empregopublico.github.io/empregos/j105256.html 
 2023-02-02 - Professor Auxiliar - Faculdade de Ciências da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j105255.html 
 2023-02-02 - Técnico Superior - Agrupamento de Escolas Fernando Namora (Escola Secundária Fernando Namora - Sede)  - Amadora: https://empregopublico.github.io/empregos/j105253.html 
@@ -990,14 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-12-14 - Assistente Operacional - Câmara Municipal da Moita - Moita: https://empregopublico.github.io/empregos/j104008.html 
 2022-12-14 - Assistente Operacional - Câmara Municipal da Moita - Moita: https://empregopublico.github.io/empregos/j104007.html 
 2022-12-14 - Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j104006.html 
-2022-12-14 - Assistente Operacional - Câmara Municipal da Moita - Moita: https://empregopublico.github.io/empregos/j104005.html 
-2022-12-14 - Assistente Operacional - Câmara Municipal da Moita - Moita: https://empregopublico.github.io/empregos/j104002.html 
-2022-12-14 - Assistente Operacional - Câmara Municipal da Moita - Moita: https://empregopublico.github.io/empregos/j104000.html 
-2022-12-14 - Assistente Operacional - Câmara Municipal de Torres Novas - Torres Novas: https://empregopublico.github.io/empregos/j103997.html 
-2022-12-14 - Técnico Superior - Câmara Municipal de Arouca - Arouca: https://empregopublico.github.io/empregos/j103995.html 
-2022-12-14 - Assistente Operacional - Junta de Freguesia de Proença-a-Nova e Peral - Proença-a-Nova: https://empregopublico.github.io/empregos/j103994.html 
-2022-12-13 - Professor adjunto - Instituto Politécnico de Leiria - Leiria: https://empregopublico.github.io/empregos/j103993.html 
-2022-12-13 - Professor adjunto - Instituto Politécnico de Leiria - Leiria: https://empregopublico.github.io/empregos/j103991.html 
-2022-12-13 - Professor adjunto - Instituto Politécnico de Leiria - Leiria: https://empregopublico.github.io/empregos/j103990.html 
-2022-12-13 - Farmacêutico assessor - Hospital Distrital de Santarém, E.P.E. - Santarém: https://empregopublico.github.io/empregos/j103988.html 
-2022-12-13 - Técnico Superior - Câmara Municipal de Portimão - Portimão: https://empregopublico.github.io/empregos/j103987.html 
