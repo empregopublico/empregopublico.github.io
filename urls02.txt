@@ -1,5 +1,25 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-02-03 - Assistente Operacional - Câmara Municipal de São Brás de Alportel - São Brás de Alportel: https://empregopublico.github.io/empregos/j105299.html 
+2023-02-03 - Técnico Especializado em Recursos Humanos  - Autoridade da Concorrência - Lisboa: https://empregopublico.github.io/empregos/j105297.html 
+2023-02-03 - Professor adjunto - Escola Superior de Comunicação, Administração e Turismo de Mirandela - Mirandela: https://empregopublico.github.io/empregos/j105296.html 
+2023-02-03 - Assistente Técnico - Unidade Local do Litoral e Baixo Alentejo - Beja: https://empregopublico.github.io/empregos/j105290.html 
+2023-02-03 - Professor adjunto - Instituto Politécnico de Bragança - Bragança: https://empregopublico.github.io/empregos/j105289.html 
+2023-02-03 - Técnico Superior - Câmara Municipal de Viana do Castelo - Saúde: https://empregopublico.github.io/empregos/j105288.html 
+2023-02-03 - Professor-Coordenador - Escola Superior de Tecnologia e de Gestão de Bragança - Bragança: https://empregopublico.github.io/empregos/j105287.html 
+2023-02-03 - Técnico Superior - Câmara Municipal de Viana do Castelo - Saúde: https://empregopublico.github.io/empregos/j105285.html 
+2023-02-03 - Técnico Superior - Câmara Municipal de Viseu - Viseu: https://empregopublico.github.io/empregos/j105284.html 
+2023-02-03 - Professor adjunto - Instituto Superior de Contabilidade e Administração de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j105283.html 
+2023-02-03 - Técnico Superior - Câmara Municipal de Viseu - Viseu: https://empregopublico.github.io/empregos/j105282.html 
+2023-02-03 - Assistente Operacional - Câmara Municipal de São Pedro do Sul - São Pedro do Sul: https://empregopublico.github.io/empregos/j105279.html 
+2023-02-03 - Técnico Superior - Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j105277.html 
+2023-02-03 - Técnico Superior - Direção-Geral da Administração da Justiça - Lisboa: https://empregopublico.github.io/empregos/j105276.html 
+2023-02-02 - Técnico Superior - Comunidade Intermunicipal do Alto Tâmega - Chaves: https://empregopublico.github.io/empregos/j105275.html 
+2023-02-02 - Técnico Superior - Autoridade para as Condições do Trabalho - Lisboa: https://empregopublico.github.io/empregos/j105274.html 
+2023-02-02 - Técnico Superior - Agência para a Modernização Administrativa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105273.html 
+2023-02-03 - Professor coordenador - Escola Superior de Enfermagem de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j105272.html 
+2023-02-02 - Assistente Operacional - Câmara Municipal de Alenquer - Alenquer: https://empregopublico.github.io/empregos/j105271.html 
+2023-02-02 - Tecnico de Informática Grau 1 Nível 1 - Escola Superior de Saúde  - Porto: https://empregopublico.github.io/empregos/j105270.html 
 2023-02-02 - Assistente Técnico - Junta de Freguesia de Agualva e Mira-Sintra - Sintra: https://empregopublico.github.io/empregos/j105269.html 
 2023-02-02 - Técnico Superior - Agrupamento de Escolas n.º 1 de Gondomar (Escola Secundária de Gondomar - Sede) - Gondomar: https://empregopublico.github.io/empregos/j105268.html 
 2023-02-02 - Técnico Superior - Direção-Geral da Agricultura e Desenvolvimento Rural  - Lisboa: https://empregopublico.github.io/empregos/j105267.html 
@@ -981,23 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-12-15 - Doutorado Equiparado a Investigador Principal - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j104036.html 
 2022-12-15 - Técnico Superior - Universidade dos Açores - Ponta Delgada: https://empregopublico.github.io/empregos/j104035.html 
 2022-12-15 - Técnico Superior - Casa Pia de Lisboa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104034.html 
-2022-12-15 - Assistente Técnico - Centro de Sangue e Transplantação de Lisboa - Área Funcional do Sangue  - Lisboa: https://empregopublico.github.io/empregos/j104033.html 
-2022-12-15 - Assistente Operacional - Câmara Municipal de Óbidos - Óbidos: https://empregopublico.github.io/empregos/j104032.html 
-2022-12-14 - Assistente Operacional - Junta de Freguesia de Santiago da Guarda - Ansião: https://empregopublico.github.io/empregos/j104027.html 
-2022-12-14 - Tecnico de Informática Grau 1 Nível 1 - Câmara Municipal de Torres Novas - Torres Novas: https://empregopublico.github.io/empregos/j104026.html 
-2022-12-14 - Assessor - Agrupamento de Centros de Saúde Lisboa Norte - Lisboa: https://empregopublico.github.io/empregos/j104025.html 
-2022-12-14 - Assistente Técnico - Exército - Portugal Continental - Lisboa: https://empregopublico.github.io/empregos/j104024.html 
-2022-12-14 - Técnico Superior - Escola Secundária de Moura  - Moura: https://empregopublico.github.io/empregos/j104019.html 
-2022-12-14 - Técnico Superior - Serviços Partilhados do Ministério da Saúde, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j104018.html 
-2022-12-14 - Técnico Superior - Serviços Partilhados do Ministério da Saúde, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j104017.html 
-2022-12-14 - Assistente Técnico - Serviços Partilhados do Ministério da Saúde, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j104016.html 
-2022-12-14 - Assistente Técnico/a - Serviços Partilhados do Ministério da Saúde, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j104015.html 
-2022-12-14 - Técnico Superior - Serviços Partilhados do Ministério da Saúde, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j104014.html 
-2022-12-14 - Assistente Operacional - Câmara Municipal da Moita - Moita: https://empregopublico.github.io/empregos/j104013.html 
-2022-12-14 - Técnico/a Superior - Serviços Partilhados do Ministério da Saúde, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j104012.html 
-2022-12-14 - Assistente Operacional - Câmara Municipal da Moita - Moita: https://empregopublico.github.io/empregos/j104011.html 
-2022-12-14 - Assistente Operacional - Câmara Municipal da Moita - Moita: https://empregopublico.github.io/empregos/j104010.html 
-2022-12-14 - Assistente Operacional - Câmara Municipal da Moita - Moita: https://empregopublico.github.io/empregos/j104009.html 
-2022-12-14 - Assistente Operacional - Câmara Municipal da Moita - Moita: https://empregopublico.github.io/empregos/j104008.html 
-2022-12-14 - Assistente Operacional - Câmara Municipal da Moita - Moita: https://empregopublico.github.io/empregos/j104007.html 
-2022-12-14 - Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j104006.html 
