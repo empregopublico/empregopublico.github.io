@@ -1,5 +1,15 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-02-03 - Investigador - Faculdade de Ciências da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j105315.html 
+2023-02-03 - Técnico Superior - Agrupamento de Escolas Aqua Alba (Escola Secundária Ferreira Dias, Agualva, Sintra - Sede) - Sintra: https://empregopublico.github.io/empregos/j105314.html 
+2023-02-03 - Assistente Operacional - Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo - Lisboa: https://empregopublico.github.io/empregos/j105313.html 
+2023-02-03 - Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional do Alentejo - Évora: https://empregopublico.github.io/empregos/j105310.html 
+2023-02-03 - Técnico Superior - Escola Profissional de Desenvolvimento Rural do Rodo, Peso da Régua - Peso da Régua: https://empregopublico.github.io/empregos/j105308.html 
+2023-02-03 - Técnico Superior - Escola Profissional de Desenvolvimento Rural do Rodo, Peso da Régua - Peso da Régua: https://empregopublico.github.io/empregos/j105306.html 
+2023-02-03 - Técnico Superior - Câmara Municipal de Tavira - Tavira: https://empregopublico.github.io/empregos/j105305.html 
+2023-02-03 - Técnico Superior - Instituto Superior de Engenharia do Porto - Porto: https://empregopublico.github.io/empregos/j105304.html 
+2023-02-03 - Técnico Superior - Câmara Municipal de São Brás de Alportel - São Brás de Alportel: https://empregopublico.github.io/empregos/j105303.html 
+2023-02-03 - Técnico Superior - Unidade Local da Covilhã - Covilhã: https://empregopublico.github.io/empregos/j105300.html 
 2023-02-03 - Assistente Operacional - Câmara Municipal de São Brás de Alportel - São Brás de Alportel: https://empregopublico.github.io/empregos/j105299.html 
 2023-02-03 - Técnico Especializado em Recursos Humanos  - Autoridade da Concorrência - Lisboa: https://empregopublico.github.io/empregos/j105297.html 
 2023-02-03 - Professor adjunto - Escola Superior de Comunicação, Administração e Turismo de Mirandela - Mirandela: https://empregopublico.github.io/empregos/j105296.html 
@@ -991,13 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-12-15 - Assistente Operacional - Câmara Municipal de Vila de Rei - Vila de Rei: https://empregopublico.github.io/empregos/j104046.html 
 2022-12-15 - Assistente Operacional - Câmara Municipal de Vila de Rei - Vila de Rei: https://empregopublico.github.io/empregos/j104045.html 
 2022-12-15 - Técnico Superior - Câmara Municipal de Óbidos - Óbidos: https://empregopublico.github.io/empregos/j104044.html 
-2022-12-15 - Assistente de investigação em regime de direito privado - Universidade do Minho - Braga: https://empregopublico.github.io/empregos/j104043.html 
-2022-12-15 - Assistente Operacional - Câmara Municipal de Óbidos - Óbidos: https://empregopublico.github.io/empregos/j104042.html 
-2022-12-15 - Técnico Superior - Câmara Municipal de Marvão - Marvão: https://empregopublico.github.io/empregos/j104041.html 
-2022-12-15 - Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104040.html 
-2022-12-15 - Doutorado Equiparado a Investigador Auxiliar - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j104039.html 
-2022-12-15 - Técnico de Informática - Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais  - Lisboa: https://empregopublico.github.io/empregos/j104038.html 
-2022-12-15 - Doutorado Equiparado a Investigador Principal - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j104037.html 
-2022-12-15 - Doutorado Equiparado a Investigador Principal - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j104036.html 
-2022-12-15 - Técnico Superior - Universidade dos Açores - Ponta Delgada: https://empregopublico.github.io/empregos/j104035.html 
-2022-12-15 - Técnico Superior - Casa Pia de Lisboa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104034.html 
