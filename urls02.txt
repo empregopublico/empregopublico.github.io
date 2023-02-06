@@ -1,5 +1,13 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-02-06 - Técnico Superior - Escola Secundária Dr. Augusto César da Silva Ferreira  - Rio Maior: https://empregopublico.github.io/empregos/j105329.html 
+2023-02-06 - Assistente Operacional - Junta de Freguesia de São Domingos de Benfica - Lisboa: https://empregopublico.github.io/empregos/j105323.html 
+2023-02-06 - Assistente Operacional - Câmara Municipal de Loures - Desconhecido: https://empregopublico.github.io/empregos/j105321.html 
+2023-02-06 - Técnico Superior - Câmara Municipal de Alcoutim - Alcoutim: https://empregopublico.github.io/empregos/j105320.html 
+2023-02-06 - Técnico Superior - Serviços Intermunicipalizados de Água e Saneamento dos Municípios de Oeiras e Amadora - Oeiras: https://empregopublico.github.io/empregos/j105319.html 
+2023-02-06 - Técnico Superior - Agrupamento de Escolas de Santiago do Cacém (Escola Secundária Manuel da Fonseca, Santiago do Cacém - Sede) - Santiago do Cacém: https://empregopublico.github.io/empregos/j105318.html 
+2023-02-06 - Especialista de Informática - Secretaria-Geral da Presidência de Conselho de Ministros - Lisboa: https://empregopublico.github.io/empregos/j105317.html 
+2023-02-03 - Técnico Superior - Turismo de Portugal, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105316.html 
 2023-02-03 - Investigador - Faculdade de Ciências da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j105315.html 
 2023-02-03 - Técnico Superior - Agrupamento de Escolas Aqua Alba (Escola Secundária Ferreira Dias, Agualva, Sintra - Sede) - Sintra: https://empregopublico.github.io/empregos/j105314.html 
 2023-02-03 - Assistente Operacional - Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo - Lisboa: https://empregopublico.github.io/empregos/j105313.html 
@@ -993,11 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-12-15 - Técnico Superior - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104054.html 
 2022-12-15 - Assistente Operacional - Agência para a Modernização Administrativa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104053.html 
 2022-12-15 - Técnico Superior - Agrupamento de Escolas de Mêda (Escola Básica e Secundária de Mêda - Sede) - Meda: https://empregopublico.github.io/empregos/j104052.html 
-2022-12-16 - Técnico Superior - Agrupamento de Escolas de Paredes (Escola Básica de Paredes - Sede) - Paredes: https://empregopublico.github.io/empregos/j104051.html 
-2022-12-15 - Assistente Operacional - Câmara Municipal de Loulé - Loulé: https://empregopublico.github.io/empregos/j104050.html 
-2022-12-15 - Investigador Auxiliar em regime de direito privado - Universidade do Minho - Braga: https://empregopublico.github.io/empregos/j104049.html 
-2022-12-15 - Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j104048.html 
-2022-12-15 - Assistente Operacional - Câmara Municipal de Óbidos - Óbidos: https://empregopublico.github.io/empregos/j104047.html 
-2022-12-15 - Assistente Operacional - Câmara Municipal de Vila de Rei - Vila de Rei: https://empregopublico.github.io/empregos/j104046.html 
-2022-12-15 - Assistente Operacional - Câmara Municipal de Vila de Rei - Vila de Rei: https://empregopublico.github.io/empregos/j104045.html 
-2022-12-15 - Técnico Superior - Câmara Municipal de Óbidos - Óbidos: https://empregopublico.github.io/empregos/j104044.html 
