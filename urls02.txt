@@ -1,5 +1,18 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-02-09 - Técnico Superior - Centro de Sangue e Transplantação do Porto - Área Funcional do Sangue  - Porto: https://empregopublico.github.io/empregos/j105469.html 
+2023-02-09 - Técnico Superior - Agrupamento de Escolas de Ílhavo (Escola Secundária Dr. João Carlos Celestino Gomes, Ílhavo - Sede) - Ílhavo: https://empregopublico.github.io/empregos/j105468.html 
+2023-02-09 - Técnico Superior - Instituto Português do Sangue e da Transplantação, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105466.html 
+2023-02-09 - Especialista Informática Grau 1 Nível 2 - Escola Superior de Enfermagem do Porto - Porto: https://empregopublico.github.io/empregos/j105465.html 
+2023-02-09 - Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional do Centro - Coimbra: https://empregopublico.github.io/empregos/j105464.html 
+2023-02-09 - Assistente Operacional - Exército - Portugal Continental - Lisboa: https://empregopublico.github.io/empregos/j105462.html 
+2023-02-09 - Assistente Técnico - Autoridade Tributária e Aduaneira - Lisboa: https://empregopublico.github.io/empregos/j105461.html 
+2023-02-09 - Técnico de Informática - Autoridade Tributária e Aduaneira - Lisboa: https://empregopublico.github.io/empregos/j105460.html 
+2023-02-09 - Técnico Superior - Agência Portuguesa do Ambiente, I.P. - Amadora: https://empregopublico.github.io/empregos/j105459.html 
+2023-02-09 - Técnico superior das áreas de diagnóstico e terapêutica - Centro de Saúde Montemor-o-Novo - Montemor-o-Novo: https://empregopublico.github.io/empregos/j105457.html 
+2023-02-09 - Técnico Superior - Agrupamento de Escolas de Santa Maria Maior (Escola Secundária de Santa Maria Maior - Sede) - Viana do Castelo: https://empregopublico.github.io/empregos/j105456.html 
+2023-02-09 - Técnico Superior - Câmara Municipal do Montijo - Montijo: https://empregopublico.github.io/empregos/j105455.html 
+2023-02-09 - Técnico Superior - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j105454.html 
 2023-02-09 - Assistente Operacional - Câmara Municipal da Anadia - Anadia: https://empregopublico.github.io/empregos/j105453.html 
 2023-02-09 - Assistente Operacional - Câmara Municipal da Anadia - Anadia: https://empregopublico.github.io/empregos/j105452.html 
 2023-02-09 - Assistente Operacional - Câmara Municipal da Anadia - Anadia: https://empregopublico.github.io/empregos/j105451.html 
@@ -988,16 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-12-22 - Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j104218.html 
 2022-12-21 - Assistente Técnico - Centro Hospitalar Psiquiátrico de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104217.html 
 2022-12-21 - Técnico Superior - IGFSS, I.P. - SPE Setúbal - Setúbal: https://empregopublico.github.io/empregos/j104216.html 
-2022-12-21 - Técnico Superior - Faculdade de Ciências da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104215.html 
-2022-12-21 - Técnico Superior - Câmara Municipal da Maia - Maia: https://empregopublico.github.io/empregos/j104214.html 
-2022-12-21 - Técnico Superior - Centro de Competências de Planeamento, de Políticas e de Prospetiva da Administração Pública - Lisboa: https://empregopublico.github.io/empregos/j104213.html 
-2022-12-21 - Técnico Superior - Câmara Municipal da Moita - Moita: https://empregopublico.github.io/empregos/j104212.html 
-2022-12-21 - Técnico Superior - Câmara Municipal da Moita - Moita: https://empregopublico.github.io/empregos/j104211.html 
-2022-12-21 - Técnico Superior - Câmara Municipal da Moita - Moita: https://empregopublico.github.io/empregos/j104210.html 
-2022-12-21 - Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo - Lisboa: https://empregopublico.github.io/empregos/j104209.html 
-2022-12-21 - Técnico Superior - Tribunal Central Administrativo do Sul - 2ª Instância - Lisboa: https://empregopublico.github.io/empregos/j104208.html 
-2022-12-21 - Técnico Superior - Câmara Municipal de Mondim de Basto - Mondim de Basto: https://empregopublico.github.io/empregos/j104207.html 
-2022-12-21 - Assistente Operacional - Secretaria-Geral da Presidência de Conselho de Ministros - Lisboa: https://empregopublico.github.io/empregos/j104206.html 
-2022-12-21 - Técnico Superior - Câmara Municipal de Mondim de Basto - Mondim de Basto: https://empregopublico.github.io/empregos/j104203.html 
-2022-12-21 - Técnico Superior - Câmara Municipal de Mondim de Basto - Mondim de Basto: https://empregopublico.github.io/empregos/j104198.html 
-2022-12-21 - Assistente Técnico - Inspeção-Geral da Defesa Nacional - Lisboa: https://empregopublico.github.io/empregos/j104197.html 
