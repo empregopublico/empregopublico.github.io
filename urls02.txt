@@ -1,5 +1,19 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-02-10 - Técnico Superior - Faculdade de Ciências da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j105513.html 
+2023-02-10 - Professor adjunto - Instituto Politécnico de Castelo Branco - Castelo Branco: https://empregopublico.github.io/empregos/j105512.html 
+2023-02-10 - Assistente Operacional - Secretaria-Geral da Presidência da República - Lisboa: https://empregopublico.github.io/empregos/j105511.html 
+2023-02-10 - Especialista - Agência para a Modernização Administrativa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105510.html 
+2023-02-10 - Técnico Superior - Serviços Partilhados do Ministério da Saúde, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j105509.html 
+2023-02-10 - Técnico Superior - Centro de Recursos e Serviços Comuns da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j105508.html 
+2023-02-10 - Técnico de Informática - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j105507.html 
+2023-02-10 - Especialista de Informática - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j105506.html 
+2023-02-10 - Técnico Superior - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j105505.html 
+2023-02-10 - Técnico Superior - Casa Pia de Lisboa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105504.html 
+2023-02-10 - Especialista de Informática - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j105503.html 
+2023-02-10 - Técnico Superior - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j105502.html 
+2023-02-10 - Assistente Técnico - Gabinete de Planeamento, Políticas e Administração Geral - Lisboa: https://empregopublico.github.io/empregos/j105498.html 
+2023-02-10 - Assistente Operacional - Câmara Municipal do Funchal - Funchal: https://empregopublico.github.io/empregos/j105493.html 
 2023-02-10 - Técnico Superior - Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j105492.html 
 2023-02-10 - Técnico Superior - Serviços Partilhados do Ministério da Saúde, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j105491.html 
 2023-02-10 - Técnico Superior - Direção Regional de Agricultura e Pescas do Norte - Mirandela: https://empregopublico.github.io/empregos/j105490.html 
@@ -987,17 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-12-26 - Técnico Superior - Direção Regional de Mobilidade e Transportes de Lisboa e Vale do Tejo - Lisboa: https://empregopublico.github.io/empregos/j104259.html 
 2022-12-26 - Assistente Técnico - Câmara Municipal de Aljustrel - Aljustrel: https://empregopublico.github.io/empregos/j104258.html 
 2022-12-27 - Assistente Técnico - Junta de Freguesia de Pinhal Novo - Palmela: https://empregopublico.github.io/empregos/j104257.html 
-2022-12-27 - Assistente Operacional - Junta de Freguesia de Pinhal Novo - Palmela: https://empregopublico.github.io/empregos/j104256.html 
-2022-12-26 - Técnico Superior - Polo de Elvas - Elvas: https://empregopublico.github.io/empregos/j104255.html 
-2022-12-26 - Técnico Superior - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104254.html 
-2022-12-26 - Assistente Técnico - Região de Turismo do Algarve - Faro: https://empregopublico.github.io/empregos/j104252.html 
-2022-12-26 - Professor auxiliar - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104251.html 
-2022-12-26 - Gestor Tributário e Aduaneiro - Autoridade Tributária e Aduaneira - Lisboa: https://empregopublico.github.io/empregos/j104250.html 
-2022-12-26 - Bombeiro Sapador - Câmara Municipal de Braga - Braga: https://empregopublico.github.io/empregos/j104248.html 
-2022-12-23 - Assistente Técnico - Serviços Municipalizados de Transportes Coletivos do Barreiro - Barreiro: https://empregopublico.github.io/empregos/j104246.html 
-2022-12-23 - Assistente Operacional - Câmara Municipal de Ribeira Grande - Ribeira Grande: https://empregopublico.github.io/empregos/j104244.html 
-2022-12-22 - Técnico Superior - Secretaria-Geral do Ministério do Ambiente  - Lisboa: https://empregopublico.github.io/empregos/j104242.html 
-2022-12-22 - Assistente Operacional - Escola de Hotelaria e Turismo-Viana do Castelo  - Viana do Castelo: https://empregopublico.github.io/empregos/j104240.html 
-2022-12-22 - Especialista de Informática - Turismo de Portugal, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104239.html 
-2022-12-22 - Técnico Superior - Escola de Hotelaria e Turismo-Algarve - Faro: https://empregopublico.github.io/empregos/j104237.html 
-2022-12-22 - Técnico Superior - Direção-Geral de Estatísticas da Educação e Ciência - Lisboa: https://empregopublico.github.io/empregos/j104236.html 
