@@ -1,5 +1,25 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-02-10 - Técnico Superior - Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j105492.html 
+2023-02-10 - Técnico Superior - Serviços Partilhados do Ministério da Saúde, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j105491.html 
+2023-02-10 - Técnico Superior - Direção Regional de Agricultura e Pescas do Norte - Mirandela: https://empregopublico.github.io/empregos/j105490.html 
+2023-02-10 - Técnico Superior - Centro de Competências de Planeamento, de Políticas e de Prospetiva da Administração Pública - Lisboa: https://empregopublico.github.io/empregos/j105488.html 
+2023-02-10 - Técnico Superior - Agrupamento de Escolas de Monserrate (Escola Secundária de Monserrate - Sede) - Viana do Castelo: https://empregopublico.github.io/empregos/j105487.html 
+2023-02-10 - Técnico Superior - Secretaria-Geral da Presidência de Conselho de Ministros - Lisboa: https://empregopublico.github.io/empregos/j105486.html 
+2023-02-10 - Técnico Superior - Agência Nacional para a Gestão do Programa Erasmus + Educação e Formação - Lisboa: https://empregopublico.github.io/empregos/j105485.html 
+2023-02-10 - Coordenador Técnico - Supremo Tribunal de Justiça - Lisboa: https://empregopublico.github.io/empregos/j105482.html 
+2023-02-10 - Técnico Superior - Direção Regional de Agricultura e Pescas do Norte - Braga - Ignorado: https://empregopublico.github.io/empregos/j105481.html 
+2023-02-10 - Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j105480.html 
+2023-02-10 - Técnico Superior - Autoridade de Supervisão de Seguros e Fundos de Pensões - Lisboa: https://empregopublico.github.io/empregos/j105479.html 
+2023-02-10 - Técnico Superior - Secretaria-Geral da Presidência de Conselho de Ministros - Lisboa: https://empregopublico.github.io/empregos/j105478.html 
+2023-02-09 - Assistente Operacional - Direção Regional de Agricultura e Pescas do Norte - Mirandela: https://empregopublico.github.io/empregos/j105477.html 
+2023-02-09 - Assistente Técnico - Direção Regional de Agricultura e Pescas do Norte - Vila Real - Ignorado: https://empregopublico.github.io/empregos/j105476.html 
+2023-02-09 - Técnico Superior - Direção Regional de Agricultura e Pescas do Norte - Lamego - Ignorado: https://empregopublico.github.io/empregos/j105475.html 
+2023-02-09 - Assistente Operacional - Câmara Municipal de Óbidos - Óbidos: https://empregopublico.github.io/empregos/j105474.html 
+2023-02-09 - Assistente Técnico - Câmara Municipal de Óbidos - Óbidos: https://empregopublico.github.io/empregos/j105473.html 
+2023-02-09 - Assistente Operacional - Secretaria-Geral do Ministério dos Negócios Estrangeiros - Lisboa: https://empregopublico.github.io/empregos/j105472.html 
+2023-02-09 - Técnico Superior - Câmara Municipal de Óbidos - Óbidos: https://empregopublico.github.io/empregos/j105471.html 
+2023-02-09 - Técnico Superior - Comunidade Intermunicipal da Região de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j105470.html 
 2023-02-09 - Técnico Superior - Centro de Sangue e Transplantação do Porto - Área Funcional do Sangue  - Porto: https://empregopublico.github.io/empregos/j105469.html 
 2023-02-09 - Técnico Superior - Agrupamento de Escolas de Ílhavo (Escola Secundária Dr. João Carlos Celestino Gomes, Ílhavo - Sede) - Ílhavo: https://empregopublico.github.io/empregos/j105468.html 
 2023-02-09 - Técnico Superior - Instituto Português do Sangue e da Transplantação, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105466.html 
@@ -981,23 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-12-22 - Especialista de Informática - Turismo de Portugal, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104239.html 
 2022-12-22 - Técnico Superior - Escola de Hotelaria e Turismo-Algarve - Faro: https://empregopublico.github.io/empregos/j104237.html 
 2022-12-22 - Técnico Superior - Direção-Geral de Estatísticas da Educação e Ciência - Lisboa: https://empregopublico.github.io/empregos/j104236.html 
-2022-12-22 - Assistente Técnico - Secretaria-Geral do Ministério do Ambiente  - Lisboa: https://empregopublico.github.io/empregos/j104235.html 
-2022-12-22 - Técnico Superior - Agrupamento de Escolas de Sande, Marco de Canaveses (Escola Básica de Sande, Marco de Canaveses - Sede) - Marco de Canaveses: https://empregopublico.github.io/empregos/j104234.html 
-2022-12-22 - Assistente Técnico - Escola Superior de Enfermagem de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104233.html 
-2022-12-22 - Professor Adjunto - Escola Superior de Saúde  - Porto: https://empregopublico.github.io/empregos/j104232.html 
-2022-12-22 - Técnico Superior - Arquivo Distrital de Setúbal - Setúbal: https://empregopublico.github.io/empregos/j104231.html 
-2022-12-22 - Técnico Superior - Instituto Português do Mar e da Atmosfera, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104230.html 
-2022-12-22 - Assistente Operacional - Câmara Municipal de Estremoz - Estremoz: https://empregopublico.github.io/empregos/j104229.html 
-2022-12-22 - Assistente Técnico - Instituto Português do Mar e da Atmosfera, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104228.html 
-2022-12-22 - Assistente Operacional - Escola Profissional de Agricultura e Desenvolvimento Rural de Cister - Alcobaça: https://empregopublico.github.io/empregos/j104227.html 
-2022-12-22 - Técnico Superior das Áreas de Diagnóstico e Terapêutica - profissão de Fisioterapia - Centro Hospitalar Universitário Lisboa Central, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j104226.html 
-2022-12-22 - Assistente Técnico - Direção Geral do Tribunal de Contas - Lisboa: https://empregopublico.github.io/empregos/j104225.html 
-2022-12-22 - Técnico superior das áreas de diagnóstico e terapêutica - Centro de Saúde Aveiro - Aveiro: https://empregopublico.github.io/empregos/j104224.html 
-2022-12-22 - Técnico Superior - Agência para o Desenvolvimento e Coesão, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104223.html 
-2022-12-22 - Assistente Principal - Unidade Local de Saúde de Castelo Branco, E.P.E. - Castelo Branco: https://empregopublico.github.io/empregos/j104222.html 
-2022-12-22 - Técnico superior das áreas de diagnóstico e terapêutica - Centro de Diagnóstico Pneumológico Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104221.html 
-2022-12-22 - Assistente Técnico - Escola Superior Náutica Infante D. Henrique  - Oeiras: https://empregopublico.github.io/empregos/j104220.html 
-2022-12-23 - Assistente Operacional - Câmara Municipal de Barcelos - Barcelos: https://empregopublico.github.io/empregos/j104219.html 
-2022-12-22 - Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j104218.html 
-2022-12-21 - Assistente Técnico - Centro Hospitalar Psiquiátrico de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104217.html 
-2022-12-21 - Técnico Superior - IGFSS, I.P. - SPE Setúbal - Setúbal: https://empregopublico.github.io/empregos/j104216.html 
