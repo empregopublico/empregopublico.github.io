@@ -1,5 +1,14 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-02-14 - Professor adjunto - Instituto Politécnico de Portalegre - Portalegre: https://empregopublico.github.io/empregos/j105610.html 
+2023-02-14 - Assistente Técnico - Câmara Municipal da Lourinhã - Lourinhã: https://empregopublico.github.io/empregos/j105609.html 
+2023-02-14 - Especialista de Informática - Secretaria-Geral do Ministério da Administração Interna - Lisboa: https://empregopublico.github.io/empregos/j105608.html 
+2023-02-14 - Técnico Superior - Secretaria-Geral do Ministério da Administração Interna - Lisboa: https://empregopublico.github.io/empregos/j105607.html 
+2023-02-14 - Assistente Técnico - LNEG - Pólo de Alfragide - Amadora: https://empregopublico.github.io/empregos/j105606.html 
+2023-02-14 - Investigador Principal - Instituto Superior de Agronomia da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j105605.html 
+2023-02-14 - Técnico Superior - Serviços Municipalizados de Águas e Saneamento de Torres Vedras - Torres Vedras: https://empregopublico.github.io/empregos/j105604.html 
+2023-02-14 - Técnico Superior - LNEG - Pólo de Alfragide - Amadora: https://empregopublico.github.io/empregos/j105603.html 
+2023-02-14 - Assistente Técnico - LNEG - Pólo de Alfragide - Amadora: https://empregopublico.github.io/empregos/j105602.html 
 2023-02-14 - Técnico Superior - Instituto Politécnico de Castelo Branco - Castelo Branco: https://empregopublico.github.io/empregos/j105601.html 
 2023-02-14 - Professor adjunto - Instituto Politécnico de Portalegre - Portalegre: https://empregopublico.github.io/empregos/j105600.html 
 2023-02-14 - Técnico Superior - Câmara Municipal do Montijo - Montijo: https://empregopublico.github.io/empregos/j105599.html 
@@ -992,12 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-12-30 - Assistente Operacional - Junta de Freguesia de Glória e Vera Cruz - Aveiro: https://empregopublico.github.io/empregos/j104373.html 
 2022-12-30 - Técnico Superior - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104372.html 
 2022-12-30 - Técnico Superior - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104371.html 
-2022-12-30 - Técnico Superior - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104370.html 
-2022-12-30 - Técnico Superior - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104369.html 
-2022-12-30 - Técnico Superior - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104368.html 
-2022-12-30 - Técnico Superior - Câmara Municipal de Alvaiázere - Alvaiázere: https://empregopublico.github.io/empregos/j104367.html 
-2022-12-30 - Técnico Superior - Câmara Municipal de Alvaiázere - Alvaiázere: https://empregopublico.github.io/empregos/j104366.html 
-2022-12-30 - Assistente Operacional - Câmara Municipal de Alvaiázere - Alvaiázere: https://empregopublico.github.io/empregos/j104365.html 
-2022-12-29 - Técnico Superior - Direção Regional de Cultura do Norte - Vila Real: https://empregopublico.github.io/empregos/j104364.html 
-2022-12-29 - Técnico Superior - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j104363.html 
-2022-12-29 - Especialista de Informática - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j104362.html 
