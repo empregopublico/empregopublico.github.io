@@ -1,5 +1,32 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-02-14 - Técnico Superior - Instituto Politécnico de Castelo Branco - Castelo Branco: https://empregopublico.github.io/empregos/j105601.html 
+2023-02-14 - Professor adjunto - Instituto Politécnico de Portalegre - Portalegre: https://empregopublico.github.io/empregos/j105600.html 
+2023-02-14 - Técnico Superior - Câmara Municipal do Montijo - Montijo: https://empregopublico.github.io/empregos/j105599.html 
+2023-02-14 - Técnico Superior - Centro de Recursos e Serviços Comuns da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j105597.html 
+2023-02-14 - Assistente Técnico - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j105596.html 
+2023-02-14 - Fiscal - Câmara Municipal de Sesimbra - Sesimbra: https://empregopublico.github.io/empregos/j105595.html 
+2023-02-14 - Técnico Superior - Instituto Nacional para a Reabilitação, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105594.html 
+2023-02-14 - Técnico Superior - Instituto Nacional para a Reabilitação, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105593.html 
+2023-02-14 - Assistente Técnico - Instituto Nacional para a Reabilitação, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105592.html 
+2023-02-14 - Assistente Operacional - Junta de Freguesia de Valada - Cartaxo: https://empregopublico.github.io/empregos/j105591.html 
+2023-02-14 - Professor Adjunto - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j105590.html 
+2023-02-14 - Assistente Técnico - Instituto Superior de Engenharia de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j105589.html 
+2023-02-14 - Professor auxiliar - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j105588.html 
+2023-02-14 - Coordenador Técnico - Gabinete de Planeamento, Políticas e Administração Geral - Lisboa: https://empregopublico.github.io/empregos/j105587.html 
+2023-02-14 - Especialista Informática Grau 1 Nível 1 - Instituto Politécnico de Beja - Beja: https://empregopublico.github.io/empregos/j105586.html 
+2023-02-14 - Técnico Superior - Câmara Municipal de Paredes - Paredes: https://empregopublico.github.io/empregos/j105584.html 
+2023-02-14 - Técnico Superior - Câmara Municipal da Anadia - Anadia: https://empregopublico.github.io/empregos/j105583.html 
+2023-02-14 - Assistente Técnico - Câmara Municipal da Covilhã - Covilhã: https://empregopublico.github.io/empregos/j105582.html 
+2023-02-14 - Técnico Superior - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j105581.html 
+2023-02-14 - Técnico Superior - Secretaria-Geral do Ministério da Defesa Nacional - Lisboa: https://empregopublico.github.io/empregos/j105580.html 
+2023-02-13 - Assistente Técnico - LNEG - Pólo de Alfragide - Amadora: https://empregopublico.github.io/empregos/j105579.html 
+2023-02-13 - Assistente Técnico - Junta de Freguesia de Queluz e Belas - Sintra: https://empregopublico.github.io/empregos/j105578.html 
+2023-02-13 - Assistente Técnico - Junta de Freguesia de Queluz e Belas - Sintra: https://empregopublico.github.io/empregos/j105577.html 
+2023-02-13 - Assistente Técnico - Junta de Freguesia de Queluz e Belas - Sintra: https://empregopublico.github.io/empregos/j105576.html 
+2023-02-13 - Professor Auxiliar - Universidade da Madeira - Funchal: https://empregopublico.github.io/empregos/j105575.html 
+2023-02-13 - Professor auxiliar - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j105574.html 
+2023-02-13 - Técnico Superior - Câmara Municipal da Maia - Maia: https://empregopublico.github.io/empregos/j105573.html 
 2023-02-13 - Assistente Operacional - Câmara Municipal de Lousada - Lousada: https://empregopublico.github.io/empregos/j105572.html 
 2023-02-13 - Técnico Superior - Comunidade Intermunicipal da Região de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j105571.html 
 2023-02-13 - Técnico Superior - Comunidade Intermunicipal da Região de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j105570.html 
@@ -974,30 +1001,3 @@ https://empregopublico.github.io/empregos/
 2022-12-29 - Técnico Superior - Direção Regional de Cultura do Norte - Vila Real: https://empregopublico.github.io/empregos/j104364.html 
 2022-12-29 - Técnico Superior - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j104363.html 
 2022-12-29 - Especialista de Informática - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j104362.html 
-2022-12-29 - Técnico Superior - Agência para a Modernização Administrativa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104361.html 
-2022-12-29 - Técnico de Informática - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j104360.html 
-2022-12-29 - Técnico Superior - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j104359.html 
-2022-12-29 - Assistente Técnico - Direção-Geral do Ensino Superior - Lisboa: https://empregopublico.github.io/empregos/j104358.html 
-2022-12-29 - Professor Catedratico - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104357.html 
-2022-12-29 - Professor Catedratico - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104356.html 
-2022-12-29 - Professor Associado - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104355.html 
-2022-12-29 - Professor Associado - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104354.html 
-2022-12-29 - Professor Associado - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104353.html 
-2022-12-29 - Professor auxiliar - Instituto Superior de Ciências Sociais e Políticas da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j104352.html 
-2022-12-29 - Técnico de Informática - Inspeção-Geral de Finanças - Lisboa: https://empregopublico.github.io/empregos/j104351.html 
-2022-12-29 - Especialista de Informática - Inspeção-Geral de Finanças - Lisboa: https://empregopublico.github.io/empregos/j104350.html 
-2022-12-29 - Assistente Operacional - Junta de Freguesia de Pechão - Olhão: https://empregopublico.github.io/empregos/j104349.html 
-2022-12-29 - Professor adjunto - Instituto Superior de Contabilidade e Administração de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104348.html 
-2022-12-29 - Assistente Técnico - Inspeção-Geral de Finanças - Lisboa: https://empregopublico.github.io/empregos/j104347.html 
-2022-12-29 - Técnico Superior - Câmara Municipal de Bragança - Bragança: https://empregopublico.github.io/empregos/j104346.html 
-2022-12-29 - Assistente Operacional - Câmara Municipal de Oliveira do Bairro - Oliveira do Bairro: https://empregopublico.github.io/empregos/j104345.html 
-2022-12-29 - Professor auxiliar - Faculdade de Psicologia e de Ciências da Educação da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j104344.html 
-2022-12-29 - Professor coordenador - Instituto Superior de Engenharia de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j104342.html 
-2022-12-29 - Assistente Operacional - Polo de Braga - Braga: https://empregopublico.github.io/empregos/j104341.html 
-2022-12-29 - Carreira de segurança - Polícia Judiciária - Lisboa: https://empregopublico.github.io/empregos/j104340.html 
-2022-12-29 - Técnico Superior - Secretaria-Geral da Presidência de Conselho de Ministros - Lisboa: https://empregopublico.github.io/empregos/j104338.html 
-2022-12-29 - Carreira de especialista de polícia científica - Polícia Judiciária - Lisboa: https://empregopublico.github.io/empregos/j104335.html 
-2022-12-29 - Carreira de investigação criminal - Polícia Judiciária - Lisboa: https://empregopublico.github.io/empregos/j104334.html 
-2022-12-29 - Técnico Superior - Secretaria-Geral da Educação e Ciência  - Lisboa: https://empregopublico.github.io/empregos/j104333.html 
-2022-12-29 - Técnico Superior - Câmara Municipal de Lagoa (Algarve) - Lagoa: https://empregopublico.github.io/empregos/j104332.html 
-2022-12-29 - Assistente Técnico - Conservatória dos Registos Civil-Predial-Comercial - Torre de Moncorvo - Torre de Moncorvo: https://empregopublico.github.io/empregos/j104331.html 
