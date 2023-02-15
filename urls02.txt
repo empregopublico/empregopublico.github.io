@@ -1,5 +1,23 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-02-15 - Técnico superior - Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j105670.html 
+2023-02-15 - Técnico superior - Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j105669.html 
+2023-02-15 - Assistente Técnico - Conservatória do Registo Civil-Predial-Comercial - Castelo de Paiva - Castelo de Paiva: https://empregopublico.github.io/empregos/j105668.html 
+2023-02-15 - Técnico Superior - Escola Secundária José Régio  - Vila do Conde: https://empregopublico.github.io/empregos/j105667.html 
+2023-02-15 - Assistente Técnico - Conservatória do Registo Civil - Tomar - Tomar: https://empregopublico.github.io/empregos/j105666.html 
+2023-02-15 - Tecnico de Informática Grau 2 Nível 1 - Direção Regional de Agricultura e Pescas do Norte - Peso da Régua - Ignorado: https://empregopublico.github.io/empregos/j105665.html 
+2023-02-15 - Assistente Técnico - Conservatória do Registo Civil-Predial-Comercial - Sabugal - Sabugal: https://empregopublico.github.io/empregos/j105664.html 
+2023-02-15 - Doutorado - Faculdade de Ciências Médicas da Universidade Nova de Lisboa - NOVA Medical School - Lisboa: https://empregopublico.github.io/empregos/j105663.html 
+2023-02-15 - Técnico Superior - Infarmed - Autoridade Nacional do Medicamento e Produtos de Saúde, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105660.html 
+2023-02-15 - Especialista - Agência para a Modernização Administrativa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105658.html 
+2023-02-15 - Assistente Técnico - Conservatória do Registo Civil-Predial-Comercial - Felgueiras - Felgueiras: https://empregopublico.github.io/empregos/j105657.html 
+2023-02-15 - Doutorado de Nível Inicial - Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j105655.html 
+2023-02-15 - Assistente Técnico - Administração Central do Sistema de Saúde, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105654.html 
+2023-02-15 - Assistente Técnico - Administração Central do Sistema de Saúde, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105652.html 
+2023-02-15 - Assistente Técnico - Conservatória do Registo Civil-Predial-Comercial - Batalha - Batalha: https://empregopublico.github.io/empregos/j105651.html 
+2023-02-15 - Professor catedrático - Universidade Nova de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j105650.html 
+2023-02-15 - Técnico Superior - Câmara Municipal de Sesimbra - Sesimbra: https://empregopublico.github.io/empregos/j105649.html 
+2023-02-15 - Técnico Superior - Câmara Municipal de Ribeira Grande - Ribeira Grande: https://empregopublico.github.io/empregos/j105647.html 
 2023-02-15 - Assistente Operacional - Câmara Municipal de Loures - Loures: https://empregopublico.github.io/empregos/j105645.html 
 2023-02-15 - Professor auxiliar - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j105644.html 
 2023-02-15 - Técnico Superior - Faculdade de Medicina da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j105643.html 
@@ -983,21 +1001,3 @@ https://empregopublico.github.io/empregos/
 2023-01-03 - Assistente Técnico - Infarmed - Autoridade Nacional do Medicamento e Produtos de Saúde, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104422.html 
 2023-01-03 - Assistente Técnico - Infarmed - Autoridade Nacional do Medicamento e Produtos de Saúde, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104421.html 
 2023-01-03 - Professor Associado - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104420.html 
-2023-01-03 - Professor Associado - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104419.html 
-2023-01-03 - Professor Associado - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104418.html 
-2023-01-04 - Assistente Técnico - Câmara Municipal de Caldas da Rainha - Caldas da Rainha: https://empregopublico.github.io/empregos/j104417.html 
-2023-01-03 - Assistente Técnico - Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo - Lisboa: https://empregopublico.github.io/empregos/j104416.html 
-2023-01-03 - Técnico Superior - Camões - Instituto da Cooperação e da Língua, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104415.html 
-2023-01-03 - Assistente Técnico - Inspeção-Geral das Atividades em Saúde - Lisboa: https://empregopublico.github.io/empregos/j104414.html 
-2023-01-03 - Técnico Superior - Casa Pia de Lisboa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104413.html 
-2023-01-03 - Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104412.html 
-2023-01-03 - Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104411.html 
-2023-01-03 - Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104410.html 
-2023-01-03 - Assistente de Investigação - Faculdade de Ciências da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j104409.html 
-2023-01-03 - Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104408.html 
-2023-01-03 - Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104407.html 
-2023-01-03 - Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104406.html 
-2023-01-03 - Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104405.html 
-2023-01-03 - Assistente Técnico - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j104404.html 
-2023-01-03 - Assistente Operacional - Junta de Freguesia de Évora (São Mamede, Sé, São Pedro e Santo Antão) - Évora: https://empregopublico.github.io/empregos/j104403.html 
-2023-01-03 - Técnico Superior - Exército - Portugal Continental - Lisboa: https://empregopublico.github.io/empregos/j104402.html 
