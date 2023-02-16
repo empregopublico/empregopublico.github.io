@@ -1,5 +1,21 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-02-16 - Assistente Operacional - Junta de Freguesia de Moreira de Cónegos - Guimarães: https://empregopublico.github.io/empregos/j105731.html 
+2023-02-16 - Técnico Superior - Escola Profissional de Desenvolvimento Rural de Abrantes - Abrantes: https://empregopublico.github.io/empregos/j105730.html 
+2023-02-16 - Técnico Superior - Instituto Português da Qualidade, I.P.  - Almada: https://empregopublico.github.io/empregos/j105729.html 
+2023-02-16 - Assistente Técnico - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j105728.html 
+2023-02-16 - Professor Associado - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j105727.html 
+2023-02-16 - Técnico Superior - Câmara Municipal da Figueira da Foz - Figueira da Foz: https://empregopublico.github.io/empregos/j105726.html 
+2023-02-16 - Assistente Operacional - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j105725.html 
+2023-02-16 - Técnico Superior - Câmara Municipal da Figueira da Foz - Figueira da Foz: https://empregopublico.github.io/empregos/j105724.html 
+2023-02-16 - Assistente Operacional - Junta de Freguesia de Moreira de Cónegos - Guimarães: https://empregopublico.github.io/empregos/j105723.html 
+2023-02-16 - Assistente Técnico - Câmara Municipal de Castro Daire - Castro Daire: https://empregopublico.github.io/empregos/j105720.html 
+2023-02-16 - Técnico Superior - Agência para a Modernização Administrativa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105719.html 
+2023-02-16 - Professor associado - Universidade Nova de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j105718.html 
+2023-02-16 - Assistente Operacional - Câmara Municipal de São João da Pesqueira - São João da Pesqueira: https://empregopublico.github.io/empregos/j105716.html 
+2023-02-16 - Assistente Técnico - Junta de Freguesia de Pedroso e Seixezelo - Vila Nova de Gaia: https://empregopublico.github.io/empregos/j105715.html 
+2023-02-16 - Assistente Operacional - Câmara Municipal de São João da Pesqueira - São João da Pesqueira: https://empregopublico.github.io/empregos/j105714.html 
+2023-02-16 - Assistente Operacional - Câmara Municipal de São João da Pesqueira - São João da Pesqueira: https://empregopublico.github.io/empregos/j105713.html 
 2023-02-16 - Investigador Auxiliar - Instituto de Geografia e Ordenamento do Território da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j105712.html 
 2023-02-16 - Professor Catedratico - Faculdade de Direito da Universidade Nova de Lisboa - NOVA School of Law - Lisboa: https://empregopublico.github.io/empregos/j105711.html 
 2023-02-16 - Assistente Operacional - Junta de Freguesia de Casal de Cambra - Sintra: https://empregopublico.github.io/empregos/j105710.html 
@@ -985,19 +1001,3 @@ https://empregopublico.github.io/empregos/
 2023-01-05 - Investigador - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j104476.html 
 2023-01-05 - Técnico Superior - Instituto da Vinha e do Vinho, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104475.html 
 2023-01-05 - Técnico Superior - Turismo de Portugal, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104474.html 
-2023-01-05 - Assistente Técnico - Escola Superior de Saúde de Setúbal - Setúbal: https://empregopublico.github.io/empregos/j104473.html 
-2023-01-05 - Assistente Técnico - Junta de Freguesia de Azeitão (São Lourenço e São Simão) - Setúbal: https://empregopublico.github.io/empregos/j104472.html 
-2023-01-05 - Técnico Superior - Instituto de Gestão Financeira da Segurança Social, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104470.html 
-2023-01-05 - Assistente Operacional - Câmara Municipal de São João da Madeira - São João da Madeira: https://empregopublico.github.io/empregos/j104469.html 
-2023-01-05 - Assistente Operacional - Câmara Municipal de São João da Madeira - São João da Madeira: https://empregopublico.github.io/empregos/j104468.html 
-2023-01-05 - Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j104467.html 
-2023-01-05 - Técnico Superior - Laboratório Nacional de Engenharia Civil, I.P. - Lisboa: https://empregopublico.github.io/empregos/j104466.html 
-2023-01-05 - Assistente Operacional - Câmara Municipal de São João da Madeira - São João da Madeira: https://empregopublico.github.io/empregos/j104465.html 
-2023-01-05 - Assistente Técnico - Superintendência do Pessoal - Lisboa: https://empregopublico.github.io/empregos/j104462.html 
-2023-01-04 - Técnico Superior - Administração Regional de Saúde do Norte, I.P. - Porto: https://empregopublico.github.io/empregos/j104461.html 
-2023-01-04 - Técnico Superior - Administração Regional de Saúde do Norte, I.P. - Porto: https://empregopublico.github.io/empregos/j104460.html 
-2023-01-05 - Assistente Técnico - Comissão Nacional de Proteção de Dados - Lisboa: https://empregopublico.github.io/empregos/j104459.html 
-2023-01-05 - Assistente Técnico - Comissão Nacional de Proteção de Dados - Lisboa: https://empregopublico.github.io/empregos/j104458.html 
-2023-01-04 - Professor adjunto - Instituto Politécnico de Castelo Branco - Castelo Branco: https://empregopublico.github.io/empregos/j104457.html 
-2023-01-04 - Assistente Operacional - Junta de Freguesia de São João de Ver - Santa Maria da Feira: https://empregopublico.github.io/empregos/j104456.html 
-2023-01-04 - Assistente Técnico - Comunidade Intermunicipal da Região de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j104455.html 
