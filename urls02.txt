@@ -1,5 +1,35 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-03-10 - Assistente Operacional - Junta de Freguesia de Castro Verde e Casével - Castro Verde: https://empregopublico.github.io/empregos/j106464.html 
+2023-03-10 - Assistente Operacional - Junta de Freguesia de Castro Verde e Casével - Castro Verde: https://empregopublico.github.io/empregos/j106463.html 
+2023-03-10 - Técnico Superior - Autoridade de Supervisão de Seguros e Fundos de Pensões - Lisboa: https://empregopublico.github.io/empregos/j106462.html 
+2023-03-10 - Assistente Operacional - Câmara Municipal de Alvito - Alvito: https://empregopublico.github.io/empregos/j106459.html 
+2023-03-10 - Assistente Operacional - Junta de Freguesia de Queluz e Belas - Sintra: https://empregopublico.github.io/empregos/j106458.html 
+2023-03-10 - Assistente Técnico - Laboratório Nacional de Engenharia Civil, I.P. - Lisboa: https://empregopublico.github.io/empregos/j106455.html 
+2023-03-10 - Técnico Superior - Laboratório Nacional de Engenharia Civil, I.P. - Lisboa: https://empregopublico.github.io/empregos/j106454.html 
+2023-03-10 - Assistente Operacional - Instituto Português do Mar e da Atmosfera, I.P. - Lisboa: https://empregopublico.github.io/empregos/j106453.html 
+2023-03-10 - Professor-Coordenador - Escola Superior de Educação de Bragança - Bragança: https://empregopublico.github.io/empregos/j106452.html 
+2023-03-10 - Professor auxiliar - Universidade Nova de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j106450.html 
+2023-03-10 - Professor adjunto - Escola Superior Agrária de Bragança - Bragança: https://empregopublico.github.io/empregos/j106449.html 
+2023-03-10 - Assistente de Investigação - Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j106448.html 
+2023-03-10 - Doutorado equiparado a investigador auxiliar - Faculdade de Medicina da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j106446.html 
+2023-03-10 - Professor coordenador - Escola Superior de Educação e Ciências Sociais de Leiria - Leiria: https://empregopublico.github.io/empregos/j106444.html 
+2023-03-10 - Técnico Superior - Junta de Freguesia de Amora - Seixal: https://empregopublico.github.io/empregos/j106443.html 
+2023-03-10 - Assistente Operacional - Câmara Municipal de Sines - Sines: https://empregopublico.github.io/empregos/j106442.html 
+2023-03-10 - Professor adjunto - Instituto Politécnico de Viana do Castelo - Viana do Castelo: https://empregopublico.github.io/empregos/j106441.html 
+2023-03-10 - Assistente Operacional - Câmara Municipal de Torres Novas - Torres Novas: https://empregopublico.github.io/empregos/j106440.html 
+2023-03-10 - Técnico Superior - Câmara Municipal da Batalha - Batalha: https://empregopublico.github.io/empregos/j106439.html 
+2023-03-10 - Assistente Técnico - Junta de Freguesia de Vreia de Jales - Vila Pouca de Aguiar: https://empregopublico.github.io/empregos/j106438.html 
+2023-03-10 - Assistente Operacional - Câmara Municipal de Torres Novas - Torres Novas: https://empregopublico.github.io/empregos/j106437.html 
+2023-03-10 - Técnico Superior - Instituto de Higiene e Medicina Tropical da Universidade Nova de Lisboa - NOVA Institute of Hygiene  - Lisboa: https://empregopublico.github.io/empregos/j106436.html 
+2023-03-09 - Assistente Operacional - Junta de Freguesia de Marinha das Ondas - Figueira da Foz: https://empregopublico.github.io/empregos/j106434.html 
+2023-03-09 - Tecnico de Informática Grau 1 Nível 1 - Direção Regional de Cultura do Norte - Vila Real: https://empregopublico.github.io/empregos/j106433.html 
+2023-03-09 - Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j106432.html 
+2023-03-09 - Assistente Operacional - Centro Local da Leziria e Médio Tejo - Santarém: https://empregopublico.github.io/empregos/j106431.html 
+2023-03-09 - Técnico Superior - Secretaria-Geral do Ministério da Defesa Nacional - Lisboa: https://empregopublico.github.io/empregos/j106430.html 
+2023-03-09 - Técnico Superior - Secretaria-Geral do Ministério das Finanças  - Lisboa: https://empregopublico.github.io/empregos/j106429.html 
+2023-03-09 - Assistente Operacional - Secretaria-Geral do Ministério das Finanças  - Lisboa: https://empregopublico.github.io/empregos/j106427.html 
+2023-03-09 - Encarregado Operacional - Exército - Lisboa: https://empregopublico.github.io/empregos/j106426.html 
 2023-03-09 - Doutorado Equiparado a Investigador Auxiliar - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j106424.html 
 2023-03-09 - Técnico Superior - Alto Comissariado para as Migrações, I.P. - Lisboa: https://empregopublico.github.io/empregos/j106423.html 
 2023-03-09 - Assistente Técnico - Câmara Municipal de Palmela - Palmela: https://empregopublico.github.io/empregos/j106422.html 
@@ -971,33 +1001,3 @@ https://empregopublico.github.io/empregos/
 2023-02-02 - Assistente Técnico - Secretaria-Geral da Presidência de Conselho de Ministros - Lisboa: https://empregopublico.github.io/empregos/j105240.html 
 2023-02-02 - Técnico Superior - Secretaria-Geral da Presidência de Conselho de Ministros - Lisboa: https://empregopublico.github.io/empregos/j105239.html 
 2023-02-02 - Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional do Algarve - Faro: https://empregopublico.github.io/empregos/j105238.html 
-2023-02-01 - Professor adjunto - Instituto Superior de Contabilidade e Administração do Porto - Matosinhos: https://empregopublico.github.io/empregos/j105237.html 
-2023-02-01 - Professor adjunto - Instituto Superior de Contabilidade e Administração do Porto - Matosinhos: https://empregopublico.github.io/empregos/j105236.html 
-2023-02-01 - Técnico Superior - Agrupamento de Escolas Coelho e Castro, Fiães (Escola Básica e Secundária Coelho e Castro - Sede) - Santa Maria da Feira: https://empregopublico.github.io/empregos/j105235.html 
-2023-02-01 - Assistente Operacional - Junta de Freguesia de Sobral da Adiça - Moura: https://empregopublico.github.io/empregos/j105234.html 
-2023-02-02 - Estagiário de Investigação - Faculdade de Engenharia da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j105233.html 
-2023-02-01 - Assistente Técnico - Câmara Municipal de Póvoa de Varzim - Póvoa de Varzim: https://empregopublico.github.io/empregos/j105232.html 
-2023-02-01 - Investigador Principal - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j105231.html 
-2023-02-01 - Técnico Superior - Câmara Municipal de Póvoa de Varzim - Póvoa de Varzim: https://empregopublico.github.io/empregos/j105230.html 
-2023-02-01 - Assistente Operacional - Câmara Municipal de Alpiarça - Alpiarça: https://empregopublico.github.io/empregos/j105229.html 
-2023-02-01 - Técnico Superior - Câmara Municipal de Póvoa de Varzim - Póvoa de Varzim: https://empregopublico.github.io/empregos/j105228.html 
-2023-02-01 - Técnico Superior - Câmara Municipal de Póvoa de Varzim - Póvoa de Varzim: https://empregopublico.github.io/empregos/j105227.html 
-2023-02-01 - Professor associado - Universidade Nova de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j105226.html 
-2023-02-01 - Técnico Superior - Secretaria-Geral da Presidência de Conselho de Ministros - Lisboa: https://empregopublico.github.io/empregos/j105225.html 
-2023-02-01 - Professor associado - Universidade Nova de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j105224.html 
-2023-02-01 - Técnico Superior - Centro Local do Nordeste Transmontano - Bragança: https://empregopublico.github.io/empregos/j105220.html 
-2023-02-01 - Investigador - Faculdade de Ciências da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j105218.html 
-2023-02-01 - Assistente Operacional - Junta de Freguesia de Durrães e Tregosa - Barcelos: https://empregopublico.github.io/empregos/j105216.html 
-2023-02-01 - Professor Coordenador S/ Agregacao - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j105215.html 
-2023-02-01 - Assistente Técnico - Fundação para a Ciência e a Tecnologia, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105214.html 
-2023-02-01 - Assistente Operacional - Junta de Freguesia de Pombal - Pombal: https://empregopublico.github.io/empregos/j105213.html 
-2023-02-01 - Assistente Operacional - Junta de Freguesia do Ameixial (Santa Vitória e São Bento) - Estremoz: https://empregopublico.github.io/empregos/j105211.html 
-2023-02-01 - Assistente Operacional - Junta de Freguesia de Pombal - Pombal: https://empregopublico.github.io/empregos/j105210.html 
-2023-02-01 - Técnico Superior - Junta de Freguesia de Canedo, Vale e Vila Maior - Santa Maria da Feira: https://empregopublico.github.io/empregos/j105207.html 
-2023-02-01 - Tecnico de Informática Grau 1 Nível 1 - Agência para a Modernização Administrativa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105206.html 
-2023-02-01 - Técnico Superior - Comunidade Intermunicipal do Ave - Guimarães: https://empregopublico.github.io/empregos/j105205.html 
-2023-02-01 - Técnico Superior - Agrupamento de Escolas de Albufeira (Escola Básica e Secundária de Albufeira - Sede) - Albufeira: https://empregopublico.github.io/empregos/j105204.html 
-2023-02-01 - Técnico Superior - Agrupamento de Escolas D. Dinis, Loulé (Escola Básica D. Dinis, Quarteira, Loulé - Sede) - Loulé: https://empregopublico.github.io/empregos/j105203.html 
-2023-02-01 - Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional do Norte - Porto: https://empregopublico.github.io/empregos/j105202.html 
-2023-02-01 - Assistente Operacional - Câmara Municipal de Portalegre - Portalegre: https://empregopublico.github.io/empregos/j105200.html 
-2023-02-01 - Técnico superior das áreas de diagnóstico e terapêutica - Instituto Nacional de Saúde Doutor Ricardo Jorge, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105199.html 
