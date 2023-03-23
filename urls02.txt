@@ -1,5 +1,33 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-03-23 - Investigador - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j106947.html 
+2023-03-23 - Técnico Superior - Instituto Português do Mar e da Atmosfera, I.P. - Lisboa: https://empregopublico.github.io/empregos/j106946.html 
+2023-03-23 - Técnico Superior - Gabinete de Planeamento, Políticas e Administração Geral - Lisboa: https://empregopublico.github.io/empregos/j106945.html 
+2023-03-23 - Assistente Técnico - Gabinete de Planeamento, Políticas e Administração Geral - Lisboa: https://empregopublico.github.io/empregos/j106943.html 
+2023-03-23 - Assistente Operacional - Câmara Municipal da Batalha - Batalha: https://empregopublico.github.io/empregos/j106942.html 
+2023-03-23 - Assistente Técnico - Secretaria-Geral do Ministério dos Negócios Estrangeiros - Lisboa: https://empregopublico.github.io/empregos/j106941.html 
+2023-03-23 - Encarregado Operacional - Exército - Portugal Continental - Lisboa: https://empregopublico.github.io/empregos/j106938.html 
+2023-03-23 - Encarregado Operacional - Junta de Freguesia da Misericórdia - Lisboa: https://empregopublico.github.io/empregos/j106931.html 
+2023-03-23 - Bombeiros Sapadores Comandos - Câmara Municipal da Lousã - Lousã: https://empregopublico.github.io/empregos/j106930.html 
+2023-03-23 - Assistente Operacional - Câmara Municipal da Azambuja - Azambuja: https://empregopublico.github.io/empregos/j106929.html 
+2023-03-23 - Assistente Operacional - Câmara Municipal da Azambuja - Azambuja: https://empregopublico.github.io/empregos/j106928.html 
+2023-03-23 - Técnico Superior - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j106927.html 
+2023-03-23 - Assistente Operacional - Junta de Freguesia de Alvalade - Lisboa: https://empregopublico.github.io/empregos/j106926.html 
+2023-03-23 - Assistente Operacional - Junta de Freguesia de Alvalade - Lisboa: https://empregopublico.github.io/empregos/j106925.html 
+2023-03-23 - Técnico Superior - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j106924.html 
+2023-03-23 - Técnico Superior - Câmara Municipal de Sines - Sines: https://empregopublico.github.io/empregos/j106923.html 
+2023-03-23 - Técnico Superior - Inspeção-Geral das Atividades Culturais - Lisboa: https://empregopublico.github.io/empregos/j106922.html 
+2023-03-23 - Assistente Técnico - Serviço de Estrangeiros e Fronteiras - Oeiras: https://empregopublico.github.io/empregos/j106921.html 
+2023-03-23 - Técnico Superior - Centro de Estudos Judiciários - Lisboa: https://empregopublico.github.io/empregos/j106920.html 
+2023-03-23 - Técnico Superior - Junta de Freguesia de Alvalade - Lisboa: https://empregopublico.github.io/empregos/j106919.html 
+2023-03-23 - Técnico Superior - Câmara Municipal de Cadaval - Cadaval: https://empregopublico.github.io/empregos/j106918.html 
+2023-03-23 - Investigador Júnior - Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa -  NOVA School of Science and Tech - Almada: https://empregopublico.github.io/empregos/j106917.html 
+2023-03-23 - Assistente de Investigação - Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa -  NOVA School of Science and Tech - Almada: https://empregopublico.github.io/empregos/j106916.html 
+2023-03-23 - Professor auxiliar - Universidade Nova de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j106915.html 
+2023-03-23 - Assistente Operacional - Câmara Municipal de Oliveira de Frades - Oliveira de Frades: https://empregopublico.github.io/empregos/j106914.html 
+2023-03-23 - Assistente Operacional - Câmara Municipal de Oliveira de Frades - Oliveira de Frades: https://empregopublico.github.io/empregos/j106913.html 
+2023-03-23 - Técnico Superior - Instituto Nacional de Saúde Doutor Ricardo Jorge, I.P. - Lisboa: https://empregopublico.github.io/empregos/j106911.html 
+2023-03-22 - Técnico Superior - Secretaria-Geral do Ministério dos Negócios Estrangeiros - Lisboa: https://empregopublico.github.io/empregos/j106909.html 
 2023-03-22 - Professor auxiliar - Faculdade de Engenharia da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j106908.html 
 2023-03-22 - Professor auxiliar - Faculdade de Engenharia da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j106907.html 
 2023-03-22 - Professor catedrático - Faculdade de Engenharia da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j106906.html 
@@ -973,31 +1001,3 @@ https://empregopublico.github.io/empregos/
 2023-02-16 - Investigador Doutorado de nível inicial - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j105708.html 
 2023-02-16 - Investigador Doutorado de nível inicial - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j105707.html 
 2023-02-16 - Investigador Doutorado de nível inicial - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j105706.html 
-2023-02-16 - Assistente Técnico - Câmara Municipal de Almada - Almada: https://empregopublico.github.io/empregos/j105703.html 
-2023-02-16 - Professor auxiliar - Universidade Nova de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j105702.html 
-2023-02-16 - Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j105701.html 
-2023-02-16 - Investigador Doutorado de nível inicial - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j105700.html 
-2023-02-16 - Investigador Doutorado de nível inicial - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j105699.html 
-2023-02-16 - Técnico Superior - Camões - Instituto da Cooperação e da Língua, I.P. - Lisboa: https://empregopublico.github.io/empregos/j105697.html 
-2023-02-16 - Assistente Técnico - Câmara Municipal de São João da Pesqueira - São João da Pesqueira: https://empregopublico.github.io/empregos/j105696.html 
-2023-02-16 - Técnico Superior - Câmara Municipal de São João da Pesqueira - São João da Pesqueira: https://empregopublico.github.io/empregos/j105695.html 
-2023-02-16 - Técnico Superior - Câmara Municipal de São João da Pesqueira - São João da Pesqueira: https://empregopublico.github.io/empregos/j105693.html 
-2023-02-16 - Assistente Operacional - Junta de Freguesia de Santa Luzia (Tavira) - Tavira: https://empregopublico.github.io/empregos/j105691.html 
-2023-02-16 - Técnico Superior - Câmara Municipal de São João da Pesqueira - São João da Pesqueira: https://empregopublico.github.io/empregos/j105689.html 
-2023-02-16 - Técnico Superior - Câmara Municipal de Almada - Almada: https://empregopublico.github.io/empregos/j105687.html 
-2023-02-16 - Técnico Superior - Câmara Municipal de São João da Pesqueira - São João da Pesqueira: https://empregopublico.github.io/empregos/j105686.html 
-2023-02-16 - Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j105685.html 
-2023-02-16 - Técnico Superior - Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j105684.html 
-2023-02-16 - Técnico Superior - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j105682.html 
-2023-02-16 - Assistente Técnico - Secretaria-Geral do Ministério do Trabalho, Solidariedade e Segurança Social - Lisboa: https://empregopublico.github.io/empregos/j105681.html 
-2023-02-16 - Assistente Operacional - Câmara Municipal de Vieira do Minho - Vieira do Minho: https://empregopublico.github.io/empregos/j105680.html 
-2023-02-16 - Assistente Técnico - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j105679.html 
-2023-02-16 - Assistente Operacional - Junta de Freguesia de São Miguel do Pinheiro, São Pedro de Solis e São Sebastião dos Carros - Mértola: https://empregopublico.github.io/empregos/j105678.html 
-2023-02-16 - Encarregado Geral Operacional - Câmara Municipal de Arronches - Arronches: https://empregopublico.github.io/empregos/j105677.html 
-2023-02-16 - Técnico Superior - Câmara Municipal de Sines - Sines: https://empregopublico.github.io/empregos/j105676.html 
-2023-02-16 - Técnico Superior - Câmara Municipal de Vieira do Minho - Vieira do Minho: https://empregopublico.github.io/empregos/j105675.html 
-2023-02-16 - Técnico Superior - Câmara Municipal de Sines - Sines: https://empregopublico.github.io/empregos/j105674.html 
-2023-02-16 - Especialista Informática Grau 1 Nível 2 - Universidade de Évora - Évora: https://empregopublico.github.io/empregos/j105673.html 
-2023-02-16 - Técnico Superior - Direção-Geral da Saúde - Lisboa: https://empregopublico.github.io/empregos/j105672.html 
-2023-02-15 - Professor adjunto - Instituto Politécnico de Viana do Castelo - Viana do Castelo: https://empregopublico.github.io/empregos/j105671.html 
-2023-02-15 - Técnico superior - Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j105670.html 
