@@ -1,5 +1,31 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-04-10 - Assistente Técnico - Câmara Municipal de Óbidos - Óbidos: https://empregopublico.github.io/empregos/j107480.html 
+2023-04-10 - Assistente Operacional - Centro de Sangue e Transplantação do Porto - Área Funcional do Sangue  - Porto: https://empregopublico.github.io/empregos/j107479.html 
+2023-04-10 - Assistente Técnico - Centro de Sangue e Transplantação de Lisboa - Área Funcional da Transplantação - Lisboa: https://empregopublico.github.io/empregos/j107478.html 
+2023-04-10 - Assistente Técnico - Centro de Sangue e Transplantação de Lisboa - Área Funcional do Sangue  - Lisboa: https://empregopublico.github.io/empregos/j107477.html 
+2023-04-10 - Técnico Superior - Câmara Municipal de Óbidos - Óbidos: https://empregopublico.github.io/empregos/j107476.html 
+2023-04-10 - Assistente Operacional - Câmara Municipal da Lourinhã - Lourinhã: https://empregopublico.github.io/empregos/j107475.html 
+2023-04-10 - Assistente Operacional - Centro Local do Mondego - Coimbra: https://empregopublico.github.io/empregos/j107474.html 
+2023-04-10 - Técnico Superior - Camões - Instituto da Cooperação e da Língua, I.P. - Lisboa: https://empregopublico.github.io/empregos/j107472.html 
+2023-04-10 - Professor auxiliar - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j107471.html 
+2023-04-10 - Técnico Superior - Direção-Geral do Território - Lisboa: https://empregopublico.github.io/empregos/j107470.html 
+2023-04-10 - Professor Catedratico - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j107469.html 
+2023-04-10 - Professor Catedratico - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j107468.html 
+2023-04-10 - Técnico Superior - Direção Regional de Agricultura e Pescas do Centro - Castelo Branco: https://empregopublico.github.io/empregos/j107467.html 
+2023-04-10 - Bombeiro Sapador - Câmara Municipal de Torres Vedras - Torres Vedras: https://empregopublico.github.io/empregos/j107466.html 
+2023-04-10 - Técnico Superior - Secretaria-Geral da Presidência de Conselho de Ministros - Lisboa: https://empregopublico.github.io/empregos/j107465.html 
+2023-04-10 - Assistente Técnico - Secretaria-Geral do Ministério das Finanças  - Lisboa: https://empregopublico.github.io/empregos/j107464.html 
+2023-04-10 - Técnico Superior - Secretaria-Geral do Ministério das Finanças  - Lisboa: https://empregopublico.github.io/empregos/j107463.html 
+2023-04-10 - Assistente Técnico - Paço dos Duques - Guimarães: https://empregopublico.github.io/empregos/j107462.html 
+2023-04-10 - Professor coordenador - Escola Superior de Educação e Ciências Sociais de Leiria - Leiria: https://empregopublico.github.io/empregos/j107461.html 
+2023-04-10 - Técnico Superior - Câmara Municipal de Alcoutim - Alcoutim: https://empregopublico.github.io/empregos/j107460.html 
+2023-04-10 - Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j107459.html 
+2023-04-10 - Assistente Técnico - Câmara Municipal de Alcoutim - Alcoutim: https://empregopublico.github.io/empregos/j107458.html 
+2023-04-10 - Coordenador Técnico - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j107457.html 
+2023-04-06 - Técnico Superior - Agência para a Modernização Administrativa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j107456.html 
+2023-04-06 - Técnico Superior - Agência para a Competitividade e Inovação, I.P. - Lisboa: https://empregopublico.github.io/empregos/j107455.html 
+2023-04-06 - Técnico Superior - Agência para a Modernização Administrativa, I.P. - Lisboa: https://empregopublico.github.io/empregos/j107454.html 
 2023-04-06 - Técnico Superior - Câmara Municipal de Carregal do Sal - Carregal do Sal: https://empregopublico.github.io/empregos/j107453.html 
 2023-04-06 - Técnico Superior - Câmara Municipal de Carregal do Sal - Carregal do Sal: https://empregopublico.github.io/empregos/j107452.html 
 2023-04-06 - Técnico Superior - Câmara Municipal de Carregal do Sal - Carregal do Sal: https://empregopublico.github.io/empregos/j107451.html 
@@ -975,29 +1001,3 @@ https://empregopublico.github.io/empregos/
 2023-03-06 - Assistente Operacional - Câmara Municipal de Tábua - Tábua: https://empregopublico.github.io/empregos/j106247.html 
 2023-03-06 - Assistente Técnico - Junta de Freguesia de Baixa da Banheira e Vale da Amoreira - Moita: https://empregopublico.github.io/empregos/j106246.html 
 2023-03-06 - Investigador Auxiliar - Universidade da Madeira - Funchal: https://empregopublico.github.io/empregos/j106245.html 
-2023-03-06 - Assistente Operacional - Junta de Freguesia de Baixa da Banheira e Vale da Amoreira - Moita: https://empregopublico.github.io/empregos/j106244.html 
-2023-03-06 - Investigador Auxiliar - Universidade da Madeira - Funchal: https://empregopublico.github.io/empregos/j106243.html 
-2023-03-06 - Assistente Operacional - Câmara Municipal de Alter do Chão - Alter do Chão: https://empregopublico.github.io/empregos/j106242.html 
-2023-03-06 - Técnico Superior - Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j106241.html 
-2023-03-06 - Assistente Operacional - Câmara Municipal de Torres Novas - Torres Novas: https://empregopublico.github.io/empregos/j106239.html 
-2023-03-06 - Assistente Operacional - Câmara Municipal de Torres Novas - Torres Novas: https://empregopublico.github.io/empregos/j106238.html 
-2023-03-06 - Fiscal - Câmara Municipal de Setúbal - Setúbal: https://empregopublico.github.io/empregos/j106236.html 
-2023-03-06 - Assistente Operacional - Câmara Municipal da Covilhã - Covilhã: https://empregopublico.github.io/empregos/j106235.html 
-2023-03-06 - Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j106234.html 
-2023-03-06 - Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j106233.html 
-2023-03-06 - Assistente Investigacao - Instituto Nacional de Saúde Doutor Ricardo Jorge, I.P. - Lisboa: https://empregopublico.github.io/empregos/j106232.html 
-2023-03-03 - Assistente Técnico - Câmara Municipal de Moura - Moura: https://empregopublico.github.io/empregos/j106231.html 
-2023-03-03 - Técnico Superior - Agrupamento de Escolas Dr. Azevedo Neves, Amadora (Escola Básica e Secundária Dr. Azevedo Neves, Damaia, Amadora - Sede) - Amadora: https://empregopublico.github.io/empregos/j106230.html 
-2023-03-03 - Técnico Superior - Agrupamento de Escolas de Argoncilhe, Santa Maria da Feira (Escola Básica de Argoncilhe, Santa Maria da Feira - Sede) - Santa Maria da Feira: https://empregopublico.github.io/empregos/j106229.html 
-2023-03-03 - Técnico Superior - Escola Superior de Hotelaria e Turismo do Estoril - Cascais: https://empregopublico.github.io/empregos/j106228.html 
-2023-03-03 - Técnico Superior - Agrupamento de Escolas de Carnaxide - Portela, Oeiras (Escola Básica Sophia de Mello Breyner, Portela, Oeiras - Sede) - Oeiras: https://empregopublico.github.io/empregos/j106223.html 
-2023-03-03 - Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j106222.html 
-2023-03-03 - Assistente Técnico - Escola Profissional de Agricultura e Desenvolvimento Rural de Cister - Alcobaça: https://empregopublico.github.io/empregos/j106221.html 
-2023-03-03 - Assistente Técnico - Junta de Freguesia de Sines - Sines: https://empregopublico.github.io/empregos/j106220.html 
-2023-03-03 - Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j106219.html 
-2023-03-03 - Técnico Superior - Instituto Nacional da Propriedade Industrial, I.P. - Lisboa: https://empregopublico.github.io/empregos/j106218.html 
-2023-03-03 - Técnico Superior - Agrupamento de Escolas Júlio Dantas, Lagos (Escola Secundária Júlio Dantas, Lagos - Sede) - Lagos: https://empregopublico.github.io/empregos/j106217.html 
-2023-03-03 - Técnico Superior - Agrupamento de Escolas de Caneças (Escola Secundária de Caneças - Sede) - Odivelas: https://empregopublico.github.io/empregos/j106216.html 
-2023-03-03 - Professor associado - Universidade dos Açores - Angra do Heroísmo - Angra do Heroísmo: https://empregopublico.github.io/empregos/j106215.html 
-2023-03-03 - Técnico de Informática - Centro de Sangue e Transplantação de Lisboa - Área Funcional do Sangue  - Lisboa: https://empregopublico.github.io/empregos/j106214.html 
-2023-03-03 - Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j106213.html 
