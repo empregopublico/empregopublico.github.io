@@ -1,5 +1,31 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-05-15 - Assistente Operacional - Junta de Freguesia de Borbela e Lamas de Olo - Vila Real: https://empregopublico.github.io/empregos/j108740.html 
+2023-05-15 - Técnico Superior - Turismo de Portugal, I.P. - Lisboa: https://empregopublico.github.io/empregos/j108739.html 
+2023-05-15 - Técnico Superior - Câmara Municipal da Amadora - Amadora: https://empregopublico.github.io/empregos/j108738.html 
+2023-05-15 - Especialista de Informática - Instituto Politécnico de Castelo Branco - Castelo Branco: https://empregopublico.github.io/empregos/j108737.html 
+2023-05-15 - Técnico Superior - Serviços Municipalizados de Alcobaça - Alcobaça: https://empregopublico.github.io/empregos/j108736.html 
+2023-05-15 - Técnico Superior - Autoridade para as Condições do Trabalho - Lisboa: https://empregopublico.github.io/empregos/j108735.html 
+2023-05-15 - Fiscal - Câmara Municipal de Alcobaça - Alcobaça: https://empregopublico.github.io/empregos/j108734.html 
+2023-05-15 - Técnico Superior - Câmara Municipal de Matosinhos - Matosinhos: https://empregopublico.github.io/empregos/j108732.html 
+2023-05-15 - Técnico Superior - Direção-Geral das Artes - Lisboa: https://empregopublico.github.io/empregos/j108731.html 
+2023-05-15 - Técnico Superior - Direção-Geral das Artes - Lisboa: https://empregopublico.github.io/empregos/j108729.html 
+2023-05-15 - Assistente Técnico - Câmara Municipal de Matosinhos - Matosinhos: https://empregopublico.github.io/empregos/j108728.html 
+2023-05-15 - Técnico Superior - Direção-Geral das Artes - Lisboa: https://empregopublico.github.io/empregos/j108727.html 
+2023-05-15 - Assistente Técnico - Câmara Municipal de Matosinhos - Matosinhos: https://empregopublico.github.io/empregos/j108726.html 
+2023-05-15 - Técnico Superior - Secretaria-Geral do Ministério da Defesa Nacional - Lisboa: https://empregopublico.github.io/empregos/j108725.html 
+2023-05-15 - Assistente Operacional - Câmara Municipal da Amadora - Amadora: https://empregopublico.github.io/empregos/j108724.html 
+2023-05-15 - Técnico Superior - Câmara Municipal de Montemor-o-Novo - Montemor-o-Novo: https://empregopublico.github.io/empregos/j108723.html 
+2023-05-15 - Técnico Superior - Instituto Superior de Contabilidade e Administração do Porto - Matosinhos: https://empregopublico.github.io/empregos/j108721.html 
+2023-05-15 - Assistente Operacional - Câmara Municipal do Funchal - Funchal: https://empregopublico.github.io/empregos/j108720.html 
+2023-05-15 - Técnico Superior - Administração Regional de Saúde do Norte, I.P. - Porto: https://empregopublico.github.io/empregos/j108719.html 
+2023-05-12 - Professor associado - Faculdade de Motricidade Humana da Universidade de Lisboa - Oeiras: https://empregopublico.github.io/empregos/j108718.html 
+2023-05-12 - Professor associado - Faculdade de Motricidade Humana da Universidade de Lisboa - Oeiras: https://empregopublico.github.io/empregos/j108717.html 
+2023-05-12 - Professor associado - Faculdade de Motricidade Humana da Universidade de Lisboa - Oeiras: https://empregopublico.github.io/empregos/j108716.html 
+2023-05-12 - Professor associado - Faculdade de Motricidade Humana da Universidade de Lisboa - Oeiras: https://empregopublico.github.io/empregos/j108715.html 
+2023-05-12 - Professor auxiliar - Faculdade de Engenharia da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j108714.html 
+2023-05-12 - Professor catedrático - Faculdade de Motricidade Humana da Universidade de Lisboa - Oeiras: https://empregopublico.github.io/empregos/j108713.html 
+2023-05-12 - Técnico de Informática - Direção-Geral do Património Cultural - Lisboa: https://empregopublico.github.io/empregos/j108712.html 
 2023-05-12 - Técnico Superior - Universidade da Beira Interior - Covilhã: https://empregopublico.github.io/empregos/j108711.html 
 2023-05-12 - Assistente Operacional - Santarém - Quinta das Oliveiras - Santarém: https://empregopublico.github.io/empregos/j108710.html 
 2023-05-12 - Especialista de Informática - Direção-Geral do Património Cultural - Lisboa: https://empregopublico.github.io/empregos/j108709.html 
@@ -975,29 +1001,3 @@ https://empregopublico.github.io/empregos/
 2023-04-11 - Assistente Técnico - Junta de Freguesia da União das freguesias de Santo António dos Cavaleiros e Frielas - Loures: https://empregopublico.github.io/empregos/j107517.html 
 2023-04-11 - Assistente Técnico - Junta de Freguesia da União das freguesias de Santo António dos Cavaleiros e Frielas - Loures: https://empregopublico.github.io/empregos/j107516.html 
 2023-04-11 - Técnico Superior - Instituto Superior de Agronomia da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j107515.html 
-2023-04-11 - Assistente Técnico - Junta de Freguesia da União das freguesias de Santo António dos Cavaleiros e Frielas - Loures: https://empregopublico.github.io/empregos/j107514.html 
-2023-04-11 - Assistente Operacional - Junta de Freguesia da União das freguesias de Santo António dos Cavaleiros e Frielas - Loures: https://empregopublico.github.io/empregos/j107513.html 
-2023-04-11 - Técnico Superior - Autoridade para as Condições do Trabalho - Lisboa: https://empregopublico.github.io/empregos/j107512.html 
-2023-04-11 - Assistente Operacional - Junta de Freguesia da União das freguesias de Santo António dos Cavaleiros e Frielas - Loures: https://empregopublico.github.io/empregos/j107511.html 
-2023-04-11 - Técnico Superior - Junta de Freguesia de Queluz e Belas - Sintra: https://empregopublico.github.io/empregos/j107510.html 
-2023-04-11 - Assistente Operacional - Junta de Freguesia de Arcos(Estremoz) - Estremoz: https://empregopublico.github.io/empregos/j107509.html 
-2023-04-11 - Assistente Técnico - Junta de Freguesia de Funchal (Santa Maria Maior) - Funchal: https://empregopublico.github.io/empregos/j107508.html 
-2023-04-11 - Assistente Técnico - Instituto dos Mercados Públicos, do Imobiliário e da Construção, I.P. - Lisboa: https://empregopublico.github.io/empregos/j107507.html 
-2023-04-11 - Professor Associado - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j107506.html 
-2023-04-11 - Investigador Auxiliar - Universidade do Minho - Braga: https://empregopublico.github.io/empregos/j107505.html 
-2023-04-11 - Assistente Técnico - DSAG - Serviços Centrais da ACT - Lisboa: https://empregopublico.github.io/empregos/j107504.html 
-2023-04-11 - Professor Associado - Universidade do Minho - Braga: https://empregopublico.github.io/empregos/j107503.html 
-2023-04-11 - Técnico Superior - Direção-Geral de Recursos da Defesa Nacional - Lisboa: https://empregopublico.github.io/empregos/j107502.html 
-2023-04-11 - Técnico Superior - Direção-Geral de Recursos da Defesa Nacional - Lisboa: https://empregopublico.github.io/empregos/j107501.html 
-2023-04-11 - Doutorado equiparado a Investigador Auxiliar – 2º escalão  - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j107500.html 
-2023-04-11 - Professor associado - Universidade Nova de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j107499.html 
-2023-04-11 - Assistente Operacional - Câmara Municipal de Vendas Novas - Vendas Novas: https://empregopublico.github.io/empregos/j107498.html 
-2023-04-11 - Assistente Operacional - Câmara Municipal de Vendas Novas - Vendas Novas: https://empregopublico.github.io/empregos/j107497.html 
-2023-04-11 - Investigador Doutorado de Nível Inicial  - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j107496.html 
-2023-04-11 - Técnico Superior - Instituto Politécnico de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j107495.html 
-2023-04-11 - Técnico Superior - Comissão Nacional de Promoção dos Direitos e Proteção das Crianças e Jovens - Lisboa: https://empregopublico.github.io/empregos/j107494.html 
-2023-04-11 - Estagiário de Investigação - Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j107493.html 
-2023-04-11 - Assistente Operacional - Câmara Municipal de Castelo de Paiva - Castelo de Paiva: https://empregopublico.github.io/empregos/j107491.html 
-2023-04-11 - Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional do Centro - Coimbra: https://empregopublico.github.io/empregos/j107490.html 
-2023-04-11 - Assistente Técnico - Direção-Geral de Alimentação e Veterinária - Lisboa: https://empregopublico.github.io/empregos/j107489.html 
-2023-04-11 - Professor coordenador principal - Escola Superior de Turismo e Tecnologia do Mar de Peniche - Peniche: https://empregopublico.github.io/empregos/j107488.html 
