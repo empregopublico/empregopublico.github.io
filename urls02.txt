@@ -1,5 +1,30 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-05-24 - Assistente Operacional - Câmara Municipal de Tavira - Tavira: https://empregopublico.github.io/empregos/j109107.html 
+2023-05-24 - Assistente Operacional - Junta de Freguesia de Asseiceira - Rio Maior: https://empregopublico.github.io/empregos/j109106.html 
+2023-05-24 - Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j109105.html 
+2023-05-24 - Assistente Operacional - Câmara Municipal de Tavira - Tavira: https://empregopublico.github.io/empregos/j109104.html 
+2023-05-24 - Investigador Doutorado de nível inicial - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j109102.html 
+2023-05-24 - Doutorado Equiparado a Investigador Auxiliar - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j109100.html 
+2023-05-24 - Assistente Operacional - Câmara Municipal da Golegã - Golegã: https://empregopublico.github.io/empregos/j109099.html 
+2023-05-24 - Investigador Doutorado de nível inicial - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j109098.html 
+2023-05-24 - Professor catedrático - Instituto de Ciências Biomédicas de Abel Salazar da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j109097.html 
+2023-05-24 - Assistente Operacional - Câmara Municipal da Golegã - Golegã: https://empregopublico.github.io/empregos/j109096.html 
+2023-05-24 - Assistente Técnico - Gabinete de Planeamento, Políticas e Administração Geral - Lisboa: https://empregopublico.github.io/empregos/j109094.html 
+2023-05-24 - Técnico Superior - Comissão de Coordenação e Desenvolvimento Regional do Alentejo - Évora: https://empregopublico.github.io/empregos/j109093.html 
+2023-05-24 - Assistente Operacional - Câmara Municipal da Golegã - Golegã: https://empregopublico.github.io/empregos/j109092.html 
+2023-05-24 - Professor Coordenador C/ Agregacao - Escola Superior de Enfermagem de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j109090.html 
+2023-05-24 - Técnico Superior - Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa -  NOVA School of Science and Tech - Almada: https://empregopublico.github.io/empregos/j109089.html 
+2023-05-24 - Técnico Superior - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j109086.html 
+2023-05-24 - Investigador - Instituto Politécnico de Bragança - Bragança: https://empregopublico.github.io/empregos/j109081.html 
+2023-05-24 - Assistente Operacional - Câmara Municipal da Golegã - Golegã: https://empregopublico.github.io/empregos/j109080.html 
+2023-05-24 - Assistente - Centro Hospitalar Tondela-Viseu, E.P.E. - Viseu: https://empregopublico.github.io/empregos/j109079.html 
+2023-05-24 - Professor auxiliar - Universidade da Beira Interior - Covilhã: https://empregopublico.github.io/empregos/j109078.html 
+2023-05-24 - Técnico Superior - Câmara Municipal de Tarouca - Tarouca: https://empregopublico.github.io/empregos/j109077.html 
+2023-05-24 - Assistente Técnico - Câmara Municipal da Amadora - Amadora: https://empregopublico.github.io/empregos/j109076.html 
+2023-05-24 - Assistente Técnico - Direção-Geral da Política de Justiça - Lisboa: https://empregopublico.github.io/empregos/j109075.html 
+2023-05-23 - Assistente Técnico - Agência Portuguesa do Ambiente, I.P. - Amadora: https://empregopublico.github.io/empregos/j109074.html 
+2023-05-23 - Assistente Operacional - Inspeção-Geral dos Serviços de Justiça - Lisboa: https://empregopublico.github.io/empregos/j109073.html 
 2023-05-23 - Assistente Técnico - Câmara Municipal de Póvoa de Varzim - Póvoa de Varzim: https://empregopublico.github.io/empregos/j109072.html 
 2023-05-23 - Professor Catedratico - Instituto de Educação da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j109071.html 
 2023-05-23 - Técnico Superior - Instituto do Cinema e do Audiovisual, I.P. - Lisboa: https://empregopublico.github.io/empregos/j109067.html 
@@ -976,28 +1001,3 @@ https://empregopublico.github.io/empregos/
 2023-04-19 - Professor adjunto - Escola Superior de Enfermagem do Porto - Porto: https://empregopublico.github.io/empregos/j107873.html 
 2023-04-19 - Técnico Superior - Câmara Municipal de Peso da Régua - Peso da Régua: https://empregopublico.github.io/empregos/j107871.html 
 2023-04-19 - Assistente Técnico - Câmara Municipal de Amarante - Amarante: https://empregopublico.github.io/empregos/j107870.html 
-2023-04-19 - Técnico Superior - Junta de Freguesia de Alto do Seixalinho, Santo André e Verderena - Barreiro: https://empregopublico.github.io/empregos/j107869.html 
-2023-04-19 - Doutorado - Faculdade de Ciências Médicas da Universidade Nova de Lisboa - NOVA Medical School - Lisboa: https://empregopublico.github.io/empregos/j107868.html 
-2023-04-19 - Técnico Superior - Polo de Santarém - Santarém: https://empregopublico.github.io/empregos/j107867.html 
-2023-04-19 - Técnico Superior - Agência para a Competitividade e Inovação, I.P. - Lisboa: https://empregopublico.github.io/empregos/j107866.html 
-2023-04-19 - Doutorado - Faculdade de Ciências Médicas da Universidade Nova de Lisboa - NOVA Medical School - Lisboa: https://empregopublico.github.io/empregos/j107865.html 
-2023-04-19 - Professor Associado - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j107864.html 
-2023-04-19 - Assistente Técnico - Administração Central do Sistema de Saúde, I.P. - Lisboa: https://empregopublico.github.io/empregos/j107863.html 
-2023-04-19 - Assistente Técnico - Junta de Freguesia de Figueira de Lorvão - Penacova: https://empregopublico.github.io/empregos/j107862.html 
-2023-04-19 - Professor Catedratico - Universidade do Minho - Braga: https://empregopublico.github.io/empregos/j107860.html 
-2023-04-19 - Técnico Superior - Agência para a Competitividade e Inovação, I.P. - Lisboa: https://empregopublico.github.io/empregos/j107857.html 
-2023-04-19 - Professor Associado - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j107856.html 
-2023-04-19 - Enfermeiro - Hospital de Loures, E.P.E. - Saúde: https://empregopublico.github.io/empregos/j107854.html 
-2023-04-19 - Assistente Técnico - Conservatória do Registo Civil de Vila Nova de Gaia - Vila Nova de Gaia: https://empregopublico.github.io/empregos/j107852.html 
-2023-04-19 - Técnico Superior - Câmara Municipal de Loures - Loures: https://empregopublico.github.io/empregos/j107851.html 
-2023-04-19 - Assistente Técnico - Conservatória do Registo Civil - Viseu - Viseu: https://empregopublico.github.io/empregos/j107849.html 
-2023-04-19 - Técnico Superior - Câmara Municipal de Alter do Chão - Alter do Chão: https://empregopublico.github.io/empregos/j107848.html 
-2023-04-19 - Assistente Técnico - Conservatória do Registo Civil - Vila do Conde - Vila do Conde: https://empregopublico.github.io/empregos/j107847.html 
-2023-04-19 - Investigador - Instituto Português do Mar e da Atmosfera, I.P. - Lisboa: https://empregopublico.github.io/empregos/j107846.html 
-2023-04-19 - Técnico Superior - União das Freguesias de Algés, Linda-a-Velha e Cruz Quebrada/Dafundo - Oeiras: https://empregopublico.github.io/empregos/j107845.html 
-2023-04-19 - Assistente Técnico - Conservatória do Registo Civil - Santarém - Santarém: https://empregopublico.github.io/empregos/j107844.html 
-2023-04-19 - Assistente Técnico - Administração Central do Sistema de Saúde, I.P. - Lisboa: https://empregopublico.github.io/empregos/j107843.html 
-2023-04-19 - Técnico Superior - Administração Central do Sistema de Saúde, I.P. - Lisboa: https://empregopublico.github.io/empregos/j107842.html 
-2023-04-19 - Assistente Técnico - Conservatória do Registo Civil - Pombal - Pombal: https://empregopublico.github.io/empregos/j107841.html 
-2023-04-19 - Assistente Técnico - União das Freguesias de Algés, Linda-a-Velha e Cruz Quebrada/Dafundo - Oeiras: https://empregopublico.github.io/empregos/j107840.html 
-2023-04-19 - Assistente Técnico - Conservatória do Registo Civil-Predial-Comercial  - Oliveira de Azeméis - Oliveira de Azeméis: https://empregopublico.github.io/empregos/j107839.html 
