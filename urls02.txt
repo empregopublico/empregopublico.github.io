@@ -1,5 +1,27 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-05-30 - Técnico Superior - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j109341.html 
+2023-05-30 - Assistente Técnico - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j109340.html 
+2023-05-30 - Técnico Superior - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j109339.html 
+2023-05-30 - Técnico Superior - Junta de Freguesia de Almancil - Loulé: https://empregopublico.github.io/empregos/j109338.html 
+2023-05-30 - Assistente Operacional - Junta de Freguesia de Lavos - Figueira da Foz: https://empregopublico.github.io/empregos/j109337.html 
+2023-05-30 - Investigador Doutorado de Nível 3 - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j109336.html 
+2023-05-30 - Técnico Superior - Câmara Municipal de Angra do Heroísmo - Angra do Heroísmo: https://empregopublico.github.io/empregos/j109335.html 
+2023-05-30 - Técnico Superior - Junta de Freguesia de Lavos - Figueira da Foz: https://empregopublico.github.io/empregos/j109334.html 
+2023-05-30 - Técnico Superior - Câmara Municipal da Figueira da Foz - Figueira da Foz: https://empregopublico.github.io/empregos/j109333.html 
+2023-05-30 - Técnico Superior - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j109332.html 
+2023-05-30 - Fiscal - Câmara Municipal de Oliveira de Frades - Oliveira de Frades: https://empregopublico.github.io/empregos/j109331.html 
+2023-05-30 - Técnico Superior - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j109328.html 
+2023-05-30 - Técnico Superior - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j109326.html 
+2023-05-30 - Assistente Operacional - Câmara Municipal do Montijo - Montijo: https://empregopublico.github.io/empregos/j109325.html 
+2023-05-30 - Professor Coordenador S/ Agregacao - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j109324.html 
+2023-05-30 - Assistente Operacional - Câmara Municipal de Portimão - Portimão: https://empregopublico.github.io/empregos/j109323.html 
+2023-05-30 - Assistente Operacional - Câmara Municipal do Montijo - Montijo: https://empregopublico.github.io/empregos/j109322.html 
+2023-05-30 - Assistente Operacional - Câmara Municipal de Portimão - Portimão: https://empregopublico.github.io/empregos/j109321.html 
+2023-05-30 - Técnico Superior - Hospital de Loures, E.P.E. - Saúde: https://empregopublico.github.io/empregos/j109319.html 
+2023-05-29 - Professor auxiliar - Faculdade de Engenharia da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j109318.html 
+2023-05-29 - Técnico Superior - Escola Superior de Hotelaria e Turismo do Estoril - Cascais: https://empregopublico.github.io/empregos/j109317.html 
+2023-05-29 - Assistente de Investigação - Faculdade de Economia da Universidade Nova de Lisboa - Nova School of Business and Economics - Lisboa: https://empregopublico.github.io/empregos/j109316.html 
 2023-05-29 - Técnico Superior Júnior - Autoridade de Supervisão de Seguros e Fundos de Pensões - Lisboa: https://empregopublico.github.io/empregos/j109315.html 
 2023-05-29 - Investigador Auxiliar - Instituto Politécnico do Cávado e do Ave - Barcelos: https://empregopublico.github.io/empregos/j109314.html 
 2023-05-29 - Técnico Superior Júnior - Autoridade de Supervisão de Seguros e Fundos de Pensões - Lisboa: https://empregopublico.github.io/empregos/j109313.html 
@@ -979,25 +1001,3 @@ https://empregopublico.github.io/empregos/
 2023-04-26 - Professor auxiliar - Faculdade de Letras da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j108094.html 
 2023-04-26 - Professor auxiliar - Faculdade de Letras da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j108093.html 
 2023-04-26 - Técnico Superior - Instituto Português da Qualidade, I.P.  - Almada: https://empregopublico.github.io/empregos/j108092.html 
-2023-04-26 - Assistente Operacional - Câmara Municipal de Lousada - Lousada: https://empregopublico.github.io/empregos/j108091.html 
-2023-04-26 - Assistente Técnico - Câmara Municipal de Caldas da Rainha - Caldas da Rainha: https://empregopublico.github.io/empregos/j108090.html 
-2023-04-26 - Assistente Técnico - Câmara Municipal de Aljezur - Aljezur: https://empregopublico.github.io/empregos/j108089.html 
-2023-04-26 - Assistente Técnico - Câmara Municipal de Campo Maior - Campo Maior: https://empregopublico.github.io/empregos/j108088.html 
-2023-04-26 - Assistente Operacional - Câmara Municipal da Mealhada - Mealhada: https://empregopublico.github.io/empregos/j108087.html 
-2023-04-26 - Técnico Superior - Direção Geral do Tribunal de Contas - Lisboa: https://empregopublico.github.io/empregos/j108086.html 
-2023-04-26 - Assistente Operacional - Câmara Municipal de Lamego - Lamego: https://empregopublico.github.io/empregos/j108085.html 
-2023-04-26 - Assistente Técnico - Câmara Municipal de Aljezur - Aljezur: https://empregopublico.github.io/empregos/j108084.html 
-2023-04-26 - Especialista Informática Grau 1 Nível 2 - Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos  - Lisboa: https://empregopublico.github.io/empregos/j108083.html 
-2023-04-26 - Fiscal - Câmara Municipal de Aljezur - Aljezur: https://empregopublico.github.io/empregos/j108082.html 
-2023-04-26 - Técnico Superior - Junta de Freguesia da União das freguesias de Santo António dos Cavaleiros e Frielas - Loures: https://empregopublico.github.io/empregos/j108080.html 
-2023-04-26 - Técnico Superior - Câmara Municipal de Aljezur - Aljezur: https://empregopublico.github.io/empregos/j108077.html 
-2023-04-26 - Assistente Operacional - Câmara Municipal de São João da Madeira - São João da Madeira: https://empregopublico.github.io/empregos/j108076.html 
-2023-04-26 - Técnico Superior - Câmara Municipal de Aljezur - Aljezur: https://empregopublico.github.io/empregos/j108073.html 
-2023-04-26 - Assistente Operacional - Câmara Municipal de São João da Madeira - São João da Madeira: https://empregopublico.github.io/empregos/j108072.html 
-2023-04-26 - Assistente Técnico - Divisão de Alimentação e Veterinária do Porto - Matosinhos: https://empregopublico.github.io/empregos/j108071.html 
-2023-04-26 - Técnico Superior - Câmara Municipal de Aljezur - Aljezur: https://empregopublico.github.io/empregos/j108069.html 
-2023-04-26 - Técnico Superior - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j108068.html 
-2023-04-26 - Assistente Técnico - Estrutura de Missão Portugal Inovação Social - Coimbra: https://empregopublico.github.io/empregos/j108067.html 
-2023-04-26 - Assistente Operacional - Câmara Municipal de Paços de Ferreira - Paços de Ferreira: https://empregopublico.github.io/empregos/j108066.html 
-2023-04-26 - Assistente Técnico - Infarmed - Autoridade Nacional do Medicamento e Produtos de Saúde, I.P. - Lisboa: https://empregopublico.github.io/empregos/j108065.html 
-2023-04-26 - Técnico Superior - Turismo de Portugal, I.P. - Lisboa: https://empregopublico.github.io/empregos/j108064.html 
