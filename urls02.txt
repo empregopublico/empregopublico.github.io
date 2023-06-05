@@ -1,5 +1,37 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-06-05 - Doutorado/a de Nível Inicial - Instituto de Ciências Biomédicas de Abel Salazar da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j109574.html 
+2023-06-05 - Professor associado - Faculdade de Belas-Artes da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j109573.html 
+2023-06-05 - Assistente Operacional - Câmara Municipal de Vendas Novas - Vendas Novas: https://empregopublico.github.io/empregos/j109572.html 
+2023-06-05 - Especialista Informática Grau 1 Nível 1 - Instituto de Proteção e Assistência na Doença, I.P. - Lisboa: https://empregopublico.github.io/empregos/j109571.html 
+2023-06-05 - Assistente Técnico - Instituto de Proteção e Assistência na Doença, I.P. - Lisboa: https://empregopublico.github.io/empregos/j109569.html 
+2023-06-05 - Técnico Superior - Câmara Municipal de Loulé - Loulé: https://empregopublico.github.io/empregos/j109568.html 
+2023-06-05 - Professor Catedratico - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j109567.html 
+2023-06-05 - Assistente Técnico - Instituto de Proteção e Assistência na Doença, I.P. - Lisboa: https://empregopublico.github.io/empregos/j109565.html 
+2023-06-05 - Professor Catedratico - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j109561.html 
+2023-06-05 - Técnico Superior - Câmara Municipal de Lousada - Lousada: https://empregopublico.github.io/empregos/j109560.html 
+2023-06-05 - Técnico Superior - Câmara Municipal de Vila Franca de Xira - Vila Franca de Xira: https://empregopublico.github.io/empregos/j109558.html 
+2023-06-05 - Professor Associado - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j109556.html 
+2023-06-05 - Técnico Superior - Câmara Municipal de Monchique - Monchique: https://empregopublico.github.io/empregos/j109555.html 
+2023-06-05 - Especialista Informática Grau 1 Nível 1 - Junta de Freguesia das Avenidas Novas - Lisboa: https://empregopublico.github.io/empregos/j109553.html 
+2023-06-05 - Assistente Técnico - Junta de Freguesia das Avenidas Novas - Lisboa: https://empregopublico.github.io/empregos/j109550.html 
+2023-06-05 - Assistente Técnico - Junta de Freguesia das Avenidas Novas - Lisboa: https://empregopublico.github.io/empregos/j109549.html 
+2023-06-05 - Assistente Técnico - Junta de Freguesia das Avenidas Novas - Lisboa: https://empregopublico.github.io/empregos/j109547.html 
+2023-06-05 - Técnico Superior - Junta de Freguesia das Avenidas Novas - Lisboa: https://empregopublico.github.io/empregos/j109546.html 
+2023-06-05 - Assistente Técnico - Junta de Freguesia das Avenidas Novas - Lisboa: https://empregopublico.github.io/empregos/j109544.html 
+2023-06-05 - Assistente Técnico - Junta de Freguesia das Avenidas Novas - Lisboa: https://empregopublico.github.io/empregos/j109543.html 
+2023-06-05 - Assistente Técnico - Junta de Freguesia das Avenidas Novas - Lisboa: https://empregopublico.github.io/empregos/j109542.html 
+2023-06-05 - Fiscal - Junta de Freguesia das Avenidas Novas - Lisboa: https://empregopublico.github.io/empregos/j109541.html 
+2023-06-05 - Técnico Superior - Comunidade Intermunicipal do Alto Alentejo - Portalegre: https://empregopublico.github.io/empregos/j109537.html 
+2023-06-05 - Assistente Operacional - Câmara Municipal de Soure - Soure: https://empregopublico.github.io/empregos/j109536.html 
+2023-06-05 - Assistente Operacional - Câmara Municipal de Soure - Soure: https://empregopublico.github.io/empregos/j109535.html 
+2023-06-05 - Técnico Superior - Comunidade Intermunicipal do Alto Alentejo - Portalegre: https://empregopublico.github.io/empregos/j109533.html 
+2023-06-05 - Técnico Superior - Câmara Municipal de Cascais - Cascais: https://empregopublico.github.io/empregos/j109532.html 
+2023-06-05 - Técnico Superior - Instituto Politécnico de Santarém - Santarém: https://empregopublico.github.io/empregos/j109529.html 
+2023-06-05 - Doutorado de nível inicial - Faculdade de Medicina da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j109528.html 
+2023-06-05 - Técnico Superior - Direção Geral do Tribunal de Contas - Lisboa: https://empregopublico.github.io/empregos/j109526.html 
+2023-06-05 - Técnico Superior - Secretaria-Geral do Ministério da Economia  - Lisboa: https://empregopublico.github.io/empregos/j109523.html 
+2023-06-05 - Professor coordenador - Instituto Superior de Engenharia de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j109521.html 
 2023-06-05 - Técnico Superior - Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa -  NOVA School of Science and Tech - Almada: https://empregopublico.github.io/empregos/j109519.html 
 2023-06-05 - Assistente Operacional - Câmara Municipal da Pampilhosa da Serra - Pampilhosa da Serra: https://empregopublico.github.io/empregos/j109518.html 
 2023-06-05 - Investigador - Instituto Politécnico de Bragança - Bragança: https://empregopublico.github.io/empregos/j109516.html 
@@ -969,35 +1001,3 @@ https://empregopublico.github.io/empregos/
 2023-05-03 - técnico superior das áreas de diagnóstico e terapêutica, profissão de Terapia da Fala - Unidade Local de Saúde do Baixo Alentejo, E.P.E. - Beja: https://empregopublico.github.io/empregos/j108296.html 
 2023-05-03 - Técnico Superior - Câmara Municipal da Maia - Maia: https://empregopublico.github.io/empregos/j108295.html 
 2023-05-03 - Assistente Técnico - Inspeção-Geral das Atividades Culturais - Lisboa: https://empregopublico.github.io/empregos/j108294.html 
-2023-05-03 - Assistente Técnico - Autoridade de Segurança Alimentar e Económica - Lisboa: https://empregopublico.github.io/empregos/j108293.html 
-2023-05-03 - Técnico Superior - Inspeção-Geral das Atividades Culturais - Lisboa: https://empregopublico.github.io/empregos/j108292.html 
-2023-05-03 - Técnico Superior - Infarmed - Autoridade Nacional do Medicamento e Produtos de Saúde, I.P. - Lisboa: https://empregopublico.github.io/empregos/j108290.html 
-2023-05-03 - Especialista Informática Grau 1 Nível 2 - Câmara Municipal de Torres Vedras - Torres Vedras: https://empregopublico.github.io/empregos/j108289.html 
-2023-05-03 - Técnico Superior - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j108288.html 
-2023-05-03 - Assistente Técnico - Secretaria-Geral do Ministério do Ambiente  - Lisboa: https://empregopublico.github.io/empregos/j108287.html 
-2023-05-03 - Professor Adjunto - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j108286.html 
-2023-05-03 - Assistente Operacional - Serviços Municipalizados de Águas e Saneamento de Torres Vedras - Torres Vedras: https://empregopublico.github.io/empregos/j108284.html 
-2023-05-03 - Especialista Informática Grau 1 Nível 2 - Direção-Geral da Educação - Lisboa: https://empregopublico.github.io/empregos/j108283.html 
-2023-05-03 - Professor Auxiliar - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j108282.html 
-2023-05-03 - Assistente Operacional - Serviços Municipalizados de Águas e Saneamento de Torres Vedras - Torres Vedras: https://empregopublico.github.io/empregos/j108281.html 
-2023-05-03 - Professor Auxiliar - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j108280.html 
-2023-05-03 - Assistente Operacional - Serviços Municipalizados de Águas e Saneamento de Torres Vedras - Torres Vedras: https://empregopublico.github.io/empregos/j108279.html 
-2023-05-03 - Técnico Superior - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j108278.html 
-2023-05-03 - Assistente Operacional - Serviços Municipalizados de Águas e Saneamento de Torres Vedras - Torres Vedras: https://empregopublico.github.io/empregos/j108277.html 
-2023-05-03 - Assistente Operacional - Serviços Municipalizados de Águas e Saneamento de Torres Vedras - Torres Vedras: https://empregopublico.github.io/empregos/j108275.html 
-2023-05-03 - Técnico Superior - Câmara Municipal de Paredes - Paredes: https://empregopublico.github.io/empregos/j108274.html 
-2023-05-03 - Assistente Operacional - Câmara Municipal de Torres Novas - Torres Novas: https://empregopublico.github.io/empregos/j108273.html 
-2023-05-03 - Assistente Operacional - Câmara Municipal de Oliveira do Hospital - Oliveira do Hospital: https://empregopublico.github.io/empregos/j108272.html 
-2023-05-03 - Investigador - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j108271.html 
-2023-05-03 - Professor auxiliar - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j108270.html 
-2023-05-03 - Professor auxiliar - Universidade da Beira Interior - Covilhã: https://empregopublico.github.io/empregos/j108269.html 
-2023-05-03 - Técnico Superior - Câmara Municipal de Castro Marim - Castro Marim: https://empregopublico.github.io/empregos/j108268.html 
-2023-05-03 - Professor auxiliar - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j108267.html 
-2023-05-03 - Professor auxiliar - Universidade de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j108266.html 
-2023-05-03 - Técnico Superior - Câmara Municipal de Palmela - Palmela: https://empregopublico.github.io/empregos/j108265.html 
-2023-05-02 - Técnico Superior - Universidade de Trás-os-Montes e Alto Douro - Vila Real: https://empregopublico.github.io/empregos/j108264.html 
-2023-05-02 - Assistente Operacional - Serviços Municipalizados de Castelo Branco - Água, Saneamento e Resíduos Urbanos - Castelo Branco: https://empregopublico.github.io/empregos/j108263.html 
-2023-05-02 - Assistente Técnico - Unidade Local do Litoral e Baixo Alentejo - Beja: https://empregopublico.github.io/empregos/j108261.html 
-2023-05-02 - Técnico Superior - Escola de Hotelaria e Turismo-Algarve - Faro: https://empregopublico.github.io/empregos/j108260.html 
-2023-05-02 - Técnico Superior - Câmara Municipal de Braga - Braga: https://empregopublico.github.io/empregos/j108259.html 
-2023-05-02 - Assistente Técnico - Escola de Hotelaria e Turismo - Estoril - Cascais: https://empregopublico.github.io/empregos/j108258.html 
