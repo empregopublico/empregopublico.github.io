@@ -1,5 +1,24 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-06-09 - Doutorado de nível inicial - Faculdade de Medicina da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j109692.html 
+2023-06-09 - Investigador Auxiliar - Laboratório Nacional de Engenharia Civil, I.P. - Lisboa: https://empregopublico.github.io/empregos/j109691.html 
+2023-06-09 - Investigador Auxiliar - Laboratório Nacional de Engenharia Civil, I.P. - Lisboa: https://empregopublico.github.io/empregos/j109689.html 
+2023-06-09 - Assistente Operacional - Câmara Municipal de Sernancelhe - Sernancelhe: https://empregopublico.github.io/empregos/j109688.html 
+2023-06-09 - Técnico Superior - Câmara Municipal do Montijo - Montijo: https://empregopublico.github.io/empregos/j109687.html 
+2023-06-09 - Assistente Operacional - Junta de Freguesia de Vila Fria e Vizela (São Jorge) - Felgueiras: https://empregopublico.github.io/empregos/j109686.html 
+2023-06-09 - Técnico Superior - Laboratório Nacional de Engenharia Civil, I.P. - Lisboa: https://empregopublico.github.io/empregos/j109681.html 
+2023-06-09 - Assistente Técnico - Centro Distrital Évora  - Évora: https://empregopublico.github.io/empregos/j109678.html 
+2023-06-09 - Técnico Superior - Secretaria-Geral do Ministério do Trabalho, Solidariedade e Segurança Social - Lisboa: https://empregopublico.github.io/empregos/j109677.html 
+2023-06-09 - Coordenador Técnico - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j109676.html 
+2023-06-09 - Técnico Superior - Laboratório Nacional de Engenharia Civil, I.P. - Lisboa: https://empregopublico.github.io/empregos/j109675.html 
+2023-06-09 - Professor Coordenador S/ Agregacao - Instituto Superior de Engenharia do Porto - Porto: https://empregopublico.github.io/empregos/j109674.html 
+2023-06-09 - Técnico Superior - Junta de Freguesia de Lordelo do Ouro e Massarelos - Porto: https://empregopublico.github.io/empregos/j109673.html 
+2023-06-09 - Assistente Técnico - Laboratório Nacional de Engenharia Civil, I.P. - Lisboa: https://empregopublico.github.io/empregos/j109672.html 
+2023-06-09 - Professor Coordenador S/ Agregacao - Instituto Superior de Engenharia do Porto - Porto: https://empregopublico.github.io/empregos/j109671.html 
+2023-06-09 - Técnico Superior - Autoridade para as Condições do Trabalho - Lisboa: https://empregopublico.github.io/empregos/j109670.html 
+2023-06-08 - Assistente Operacional - Junta de Freguesia de São Miguel do Souto e Mosteirô - Santa Maria da Feira: https://empregopublico.github.io/empregos/j109669.html 
+2023-06-08 - Assistente Operacional - Câmara Municipal de Moura - Moura: https://empregopublico.github.io/empregos/j109668.html 
+2023-06-07 - Assistente Técnico - Camões - Instituto da Cooperação e da Língua, I.P. - Lisboa: https://empregopublico.github.io/empregos/j109666.html 
 2023-06-07 - Doutorado de nível inicial - Faculdade de Psicologia e de Ciências da Educação da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j109665.html 
 2023-06-07 - Técnico superior das áreas de diagnóstico e terapêutica - Unidade Local de Saúde de Castelo Branco, E.P.E. - Saúde: https://empregopublico.github.io/empregos/j109663.html 
 2023-06-07 - Técnico Superior - Camões - Instituto da Cooperação e da Língua, I.P. - Lisboa: https://empregopublico.github.io/empregos/j109662.html 
@@ -182,22 +201,3 @@ https://empregopublico.github.io/empregos/
 2023-06-01 - Assistente Operacional - Câmara Municipal de Santiago do Cacém - Santiago do Cacém: https://empregopublico.github.io/empregos/j109418.html 
 2023-06-01 - Técnico Superior - Junta de Freguesia de Aldoar, Foz do Douro e Nevogilde - Porto: https://empregopublico.github.io/empregos/j109417.html 
 2023-06-01 - Professor Associado - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j109416.html 
-2023-06-01 - Professor Coordenador S/ Agregacao - Instituto Superior de Engenharia do Porto - Porto: https://empregopublico.github.io/empregos/j109415.html 
-2023-06-01 - Assistente Técnico - Instituto Superior de Agronomia da Universidade de Lisboa  - Lisboa: https://empregopublico.github.io/empregos/j109414.html 
-2023-06-01 - Professor Associado - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j109413.html 
-2023-06-01 - Técnico Superior - Secretaria-Geral do Ministério do Trabalho, Solidariedade e Segurança Social - Lisboa: https://empregopublico.github.io/empregos/j109412.html 
-2023-06-01 - Técnico Superior - Agência para o Investimento e Comércio Externo de Portugal, E.P.E. - Porto: https://empregopublico.github.io/empregos/j109411.html 
-2023-06-01 - Assistente Operacional - Junta de Freguesia de Ventosa - Alenquer: https://empregopublico.github.io/empregos/j109410.html 
-2023-06-01 - Assistente Técnico - Mecanismo Nacional Anticorrupção  - Lisboa: https://empregopublico.github.io/empregos/j109409.html 
-2023-06-01 - Professor Associado - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j109407.html 
-2023-06-01 - Assistente Técnico - Junta de Freguesia de Quinta do Anjo - Palmela: https://empregopublico.github.io/empregos/j109406.html 
-2023-06-01 - Assistente Operacional - Junta de Freguesia de Quinta do Anjo - Palmela: https://empregopublico.github.io/empregos/j109405.html 
-2023-06-01 - Técnico Superior - Câmara Municipal de Ovar - Ovar: https://empregopublico.github.io/empregos/j109404.html 
-2023-06-01 - Técnico Superior - Câmara Municipal de Setúbal - Setúbal: https://empregopublico.github.io/empregos/j109402.html 
-2023-06-01 - Técnico - Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E.P.E. - Lisboa: https://empregopublico.github.io/empregos/j109401.html 
-2023-05-31 - Assistente Operacional - Câmara Municipal de Santo Tirso - Santo Tirso: https://empregopublico.github.io/empregos/j109399.html 
-2023-05-31 - Assistente Operacional - Câmara Municipal de Santo Tirso - Santo Tirso: https://empregopublico.github.io/empregos/j109398.html 
-2023-05-31 - Técnico Superior - Div Licenc.Apoio Laboratorial - Anadia: https://empregopublico.github.io/empregos/j109395.html 
-2023-05-31 - Professor auxiliar - Faculdade de Engenharia da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j109394.html 
-2023-06-01 - Técnico superior das áreas de diagnóstico e terapêutica - Instituto Nacional de Saúde Doutor Ricardo Jorge, I.P. - Lisboa: https://empregopublico.github.io/empregos/j109393.html 
-2023-06-01 - Técnico Superior - Instituto Nacional de Saúde Doutor Ricardo Jorge, I.P. - Lisboa: https://empregopublico.github.io/empregos/j109392.html 
