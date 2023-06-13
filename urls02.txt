@@ -1,5 +1,32 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-06-13 - Investigador doutorado de nível inicial em regime de direito privado - Universidade do Minho - Braga: https://empregopublico.github.io/empregos/j109780.html 
+2023-06-13 - Professor associado - Universidade dos Açores - Ponta Delgada: https://empregopublico.github.io/empregos/j109779.html 
+2023-06-13 - Professor Associado - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j109778.html 
+2023-06-13 - Assistente Operacional - Câmara Municipal de Sines - Sines: https://empregopublico.github.io/empregos/j109777.html 
+2023-06-13 - Professor Associado - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j109776.html 
+2023-06-13 - Especialista de Informática  - Faculdade de Farmácia da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j109775.html 
+2023-06-13 - Técnico superior das áreas de diagnóstico e terapêutica - Administração Regional de Saúde do Norte, I.P. - Porto: https://empregopublico.github.io/empregos/j109774.html 
+2023-06-13 - Professor Coordenador S/ Agregacao - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j109773.html 
+2023-06-13 - Técnico Superior - Administração Regional de Saúde do Norte, I.P. - Porto: https://empregopublico.github.io/empregos/j109771.html 
+2023-06-13 - Técnico Superior - Administração Regional de Saúde do Norte, I.P. - Porto: https://empregopublico.github.io/empregos/j109770.html 
+2023-06-13 - Professor Catedratico - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j109769.html 
+2023-06-13 - Professor Coordenador S/ Agregacao - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j109768.html 
+2023-06-13 - Técnico Superior - Câmara Municipal de Oeiras - Oeiras: https://empregopublico.github.io/empregos/j109767.html 
+2023-06-13 - Técnico Superior - Câmara Municipal de Miranda do Corvo - Miranda do Corvo: https://empregopublico.github.io/empregos/j109766.html 
+2023-06-13 - Investigador - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j109765.html 
+2023-06-13 - Assistente Técnico - Câmara Municipal de Vieira do Minho - Vieira do Minho: https://empregopublico.github.io/empregos/j109763.html 
+2023-06-13 - Assistente Operacional - Câmara Municipal de Castanheira de Pera - Castanheira de Pêra: https://empregopublico.github.io/empregos/j109762.html 
+2023-06-13 - Técnico Superior - Câmara Municipal de Cadaval - Cadaval: https://empregopublico.github.io/empregos/j109761.html 
+2023-06-13 - Assistente Operacional - Junta de Freguesia de Paranhos - Porto: https://empregopublico.github.io/empregos/j109760.html 
+2023-06-13 - Assistente Operacional - Câmara Municipal de Condeixa-a-Nova - Condeixa-a-Nova: https://empregopublico.github.io/empregos/j109756.html 
+2023-06-13 - Assistente Operacional - Junta de Freguesia de Pampilhosa - Mealhada: https://empregopublico.github.io/empregos/j109754.html 
+2023-06-12 - Assistente Técnico - Instituto de Educação da Universidade de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j109753.html 
+2023-06-12 - Assistente Operacional - Junta de Freguesia de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim) - Sintra: https://empregopublico.github.io/empregos/j109752.html 
+2023-06-12 - Professor Auxiliar - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j109751.html 
+2023-06-12 - Professor Coordenador S/ Agregacao - Escola Superior de Saúde  - Porto: https://empregopublico.github.io/empregos/j109749.html 
+2023-06-12 - Professor Coordenador S/ Agregacao - Escola Superior de Saúde  - Porto: https://empregopublico.github.io/empregos/j109748.html 
+2023-06-12 - Professor Coordenador S/ Agregacao - Escola Superior de Saúde  - Porto: https://empregopublico.github.io/empregos/j109747.html 
 2023-06-12 - Investigador Doutorado de nível inicial - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j109746.html 
 2023-06-12 - Técnico Superior - Câmara Municipal de Sabrosa - Sabrosa: https://empregopublico.github.io/empregos/j109745.html 
 2023-06-12 - Estagiário de Investigação - Faculdade de Ciências da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j109744.html 
@@ -174,30 +201,3 @@ https://empregopublico.github.io/empregos/
 2023-06-05 - Técnico Superior - Câmara Municipal da Figueira da Foz - Figueira da Foz: https://empregopublico.github.io/empregos/j109514.html 
 2023-06-05 - Investigador - Instituto Politécnico de Bragança - Bragança: https://empregopublico.github.io/empregos/j109513.html 
 2023-06-05 - Assistente Técnico - Câmara Municipal de Loulé - Loulé: https://empregopublico.github.io/empregos/j109512.html 
-2023-06-05 - Técnico Superior - Camões - Instituto da Cooperação e da Língua, I.P. - Lisboa: https://empregopublico.github.io/empregos/j109511.html 
-2023-06-02 - Especialista de Informática - Centro de Estudos Judiciários - Lisboa: https://empregopublico.github.io/empregos/j109509.html 
-2023-06-02 - Técnicos Juristas - Comissão do Mercado de Valores Mobiliários - Lisboa: https://empregopublico.github.io/empregos/j109508.html 
-2023-06-02 - Assistente Operacional - Câmara Municipal de Mortágua - Mortágua: https://empregopublico.github.io/empregos/j109507.html 
-2023-06-02 - Técnico Superior - Universidade do Algarve - Faro: https://empregopublico.github.io/empregos/j109506.html 
-2023-06-02 - Assistente Operacional - Câmara Municipal de Mortágua - Mortágua: https://empregopublico.github.io/empregos/j109505.html 
-2023-06-02 - Assistente Operacional - Câmara Municipal de Mortágua - Mortágua: https://empregopublico.github.io/empregos/j109504.html 
-2023-06-02 - Assistente Operacional - Câmara Municipal de Mortágua - Mortágua: https://empregopublico.github.io/empregos/j109503.html 
-2023-06-02 - Assistente Técnico - Secretaria-Geral do Ministério da Economia  - Lisboa: https://empregopublico.github.io/empregos/j109502.html 
-2023-06-02 - Assistente Operacional - Câmara Municipal de Mortágua - Mortágua: https://empregopublico.github.io/empregos/j109501.html 
-2023-06-02 - Técnico Superior - Instituto de Ação Social das Forças Armadas, I.P. - Lisboa: https://empregopublico.github.io/empregos/j109500.html 
-2023-06-02 - Assistente Técnico - Junta de Freguesia de Beja (Salvador e Santa Maria da Feira) - Beja: https://empregopublico.github.io/empregos/j109499.html 
-2023-06-02 - Assistente Operacional - Câmara Municipal de Mortágua - Mortágua: https://empregopublico.github.io/empregos/j109498.html 
-2023-06-02 - Assistente Operacional - Câmara Municipal de Mortágua - Mortágua: https://empregopublico.github.io/empregos/j109497.html 
-2023-06-05 - Doutorado,Nível 33 da tabela retributiva única,de acordo com o Dec-Reg. n.º 11-A/2017,de 29/12 - Instituto de Tecnologia Química e Biológica António Xavier - ITQB NOVA - Institute of Chemical and B - Oeiras: https://empregopublico.github.io/empregos/j109496.html 
-2023-06-02 - Assistente Operacional - Câmara Municipal de Mortágua - Mortágua: https://empregopublico.github.io/empregos/j109495.html 
-2023-06-02 - Assistente Operacional - Câmara Municipal de Mortágua - Mortágua: https://empregopublico.github.io/empregos/j109494.html 
-2023-06-02 - Assistente Operacional - Câmara Municipal de Mortágua - Mortágua: https://empregopublico.github.io/empregos/j109493.html 
-2023-06-02 - Assistente Operacional - Junta de Freguesia de Carnide - Lisboa: https://empregopublico.github.io/empregos/j109492.html 
-2023-06-02 - Técnico Superior - Câmara Municipal do Porto - Porto: https://empregopublico.github.io/empregos/j109491.html 
-2023-06-02 - Técnico Superior - Agência Portuguesa do Ambiente, I.P. - Amadora: https://empregopublico.github.io/empregos/j109490.html 
-2023-06-02 - Assistente Técnico - Comunidade Intermunicipal da Região de Coimbra - Coimbra: https://empregopublico.github.io/empregos/j109489.html 
-2023-06-02 - Técnico Superior - Agência Portuguesa do Ambiente Centro - Coimbra - Coimbra: https://empregopublico.github.io/empregos/j109488.html 
-2023-06-02 - Assistente Operacional - Câmara Municipal de Fronteira - Fronteira: https://empregopublico.github.io/empregos/j109487.html 
-2023-06-02 - Técnico Superior - Agência Portuguesa do Ambiente, I.P. - Amadora: https://empregopublico.github.io/empregos/j109486.html 
-2023-06-02 - Técnico Superior - Câmara Municipal de Mangualde - Mangualde: https://empregopublico.github.io/empregos/j109485.html 
-2023-06-02 - Técnico Superior - Câmara Municipal de Mira - Mira: https://empregopublico.github.io/empregos/j109484.html 
