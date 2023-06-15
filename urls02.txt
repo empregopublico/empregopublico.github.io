@@ -1,5 +1,22 @@
 https://empregopublico.github.io/ 
 https://empregopublico.github.io/empregos/ 
+2023-06-15 - Professor coordenador - Instituto Politécnico de Castelo Branco - Castelo Branco: https://empregopublico.github.io/empregos/j109905.html 
+2023-06-15 - Técnico Superior - Inspeção-Geral da Educação e Ciência - Lisboa: https://empregopublico.github.io/empregos/j109904.html 
+2023-06-15 - Doutorado de nível inicial - Faculdade de Medicina da Universidade do Porto - Porto: https://empregopublico.github.io/empregos/j109903.html 
+2023-06-15 - Assistente Operacional - Câmara Municipal de Cadaval - Cadaval: https://empregopublico.github.io/empregos/j109902.html 
+2023-06-15 - Fiscal - Câmara Municipal de Viana do Castelo - Viana do Castelo: https://empregopublico.github.io/empregos/j109900.html 
+2023-06-15 - Técnico de Informática - Secretaria-Geral do Ministério das Finanças  - Lisboa: https://empregopublico.github.io/empregos/j109899.html 
+2023-06-15 - Assistente Operacional - Força Aérea - Amadora: https://empregopublico.github.io/empregos/j109898.html 
+2023-06-15 - Fiscal - Câmara Municipal de Viana do Castelo - Viana do Castelo: https://empregopublico.github.io/empregos/j109897.html 
+2023-06-15 - Farmacêutico  - Centro Hospitalar Tâmega e Sousa, E.P.E. - Penafiel: https://empregopublico.github.io/empregos/j109894.html 
+2023-06-15 - Fiscal - Câmara Municipal de Castro Daire - Castro Daire: https://empregopublico.github.io/empregos/j109892.html 
+2023-06-15 - Assistente Operacional - Câmara Municipal de Tavira - Tavira: https://empregopublico.github.io/empregos/j109891.html 
+2023-06-15 - Assistente Técnico - Secretaria-Geral do Ministério da Justiça - Lisboa: https://empregopublico.github.io/empregos/j109887.html 
+2023-06-15 - Investigador Doutorado de Nível Inicial - Universidade de Aveiro - Aveiro: https://empregopublico.github.io/empregos/j109886.html 
+2023-06-15 - Assistente Operacional - Junta de Freguesia de Alverca do Ribatejo e Sobralinho - Vila Franca de Xira: https://empregopublico.github.io/empregos/j109885.html 
+2023-06-14 - Assistente Operacional - Junta de Freguesia de Maceda - Ovar: https://empregopublico.github.io/empregos/j109884.html 
+2023-06-14 - Professor Associado - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j109883.html 
+2023-06-14 - Professor Catedratico - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j109881.html 
 2023-06-14 - Assistente Operacional - Junta de Freguesia de Moreira do Rei e Várzea Cova - Fafe: https://empregopublico.github.io/empregos/j109880.html 
 2023-06-14 - Professor Catedratico - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j109878.html 
 2023-06-14 - Assistente Operacional - Junta de Freguesia de Moreira do Rei e Várzea Cova - Fafe: https://empregopublico.github.io/empregos/j109875.html 
@@ -184,20 +201,3 @@ https://empregopublico.github.io/empregos/
 2023-06-07 - Professor Coordenador S/ Agregacao - Escola Superior de Saúde  - Porto: https://empregopublico.github.io/empregos/j109658.html 
 2023-06-07 - Professor Coordenador S/ Agregacao - Escola Superior de Saúde  - Porto: https://empregopublico.github.io/empregos/j109657.html 
 2023-06-07 - Professor Coordenador S/ Agregacao - Escola Superior de Saúde  - Porto: https://empregopublico.github.io/empregos/j109656.html 
-2023-06-07 - Técnico Superior - Direção Regional de Cultura do Norte - Vila Real: https://empregopublico.github.io/empregos/j109655.html 
-2023-06-07 - Técnico Superior - Câmara Municipal de Beja - Beja: https://empregopublico.github.io/empregos/j109654.html 
-2023-06-07 - Técnico Superior - Câmara Municipal da Lourinhã - Lourinhã: https://empregopublico.github.io/empregos/j109653.html 
-2023-06-07 - Técnico Superior - Câmara Municipal da Lourinhã - Lourinhã: https://empregopublico.github.io/empregos/j109651.html 
-2023-06-07 - Técnico Superior - Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais  - Lisboa: https://empregopublico.github.io/empregos/j109650.html 
-2023-06-07 - Professor Associado - ISCTE - Instituto Universitário de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j109649.html 
-2023-06-07 - Técnico Superior - Instituto Politécnico de Lisboa - Lisboa: https://empregopublico.github.io/empregos/j109648.html 
-2023-06-07 - Assistente Técnico - Câmara Municipal da Mealhada - Mealhada: https://empregopublico.github.io/empregos/j109647.html 
-2023-06-07 - Técnico Superior - Instituto da Mobilidade e dos Transportes, I.P. - Lisboa: https://empregopublico.github.io/empregos/j109646.html 
-2023-06-07 - Assistente Operacional - Câmara Municipal da Mealhada - Mealhada: https://empregopublico.github.io/empregos/j109645.html 
-2023-06-07 - Professor associado - Universidade dos Açores - Angra do Heroísmo - Angra do Heroísmo: https://empregopublico.github.io/empregos/j109644.html 
-2023-06-07 - Assistente Operacional - Câmara Municipal da Lourinhã - Lourinhã: https://empregopublico.github.io/empregos/j109643.html 
-2023-06-07 - Investigador - Universidade da Beira Interior - Covilhã: https://empregopublico.github.io/empregos/j109642.html 
-2023-06-07 - Professor associado - Universidade dos Açores - Angra do Heroísmo - Angra do Heroísmo: https://empregopublico.github.io/empregos/j109641.html 
-2023-06-07 - Técnico Superior - Escola Profissional Agrícola D. Dinis - Paiã - Odivelas: https://empregopublico.github.io/empregos/j109640.html 
-2023-06-07 - Técnico Superior - Câmara Municipal da Lousã - Lousã: https://empregopublico.github.io/empregos/j109639.html 
-2023-06-07 - Técnico Superior - Centro Distrital de Beja - Beja: https://empregopublico.github.io/empregos/j109638.html 
