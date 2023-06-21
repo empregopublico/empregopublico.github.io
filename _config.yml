@@ -57,4 +57,3 @@ minima:
 
 
 paginate: 50
-paginate_path: "/blog/page:num/"
