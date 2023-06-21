@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+##Objectivos:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- Tornar as ofertas de emprego público disponibilizadas em https://www.bep.gov.pt/ indexáveis pelos motores de busca (Google, Bing, etc) através da utilização de dados estruturados (exemplo).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- Fazer com que essas ofertas de emprego público cheguem a mais pessoas que procuram emprego através de pesquisas em motores de busca.
 
-
-[jekyll-organization]: https://github.com/jekyll
+- Trata-se de um projecto exploratório/auto-didacta. (Contactos de Ricardo Martins.).
