@@ -1,63 +1,14 @@
 <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
 
-<meta charset="UTF-8">
-<meta name="HandheldFriendly" content="true" />
-<meta name="description" content=" {{ page.Concelho }} , {{ page.Trabalho}}  , {{ page.Empregador}} , oferta, emprego, trabalho, dados abertos, open-data">
-<meta name="author" content="Emprego público dados abertos">
-<meta name="robots" content="follow, index" />
-<link rel="icon" href="/icon.png">
-<link rel="canonical" href="https://empregopublico.github.io/empregos/j{{ page.Id }}.html" />
-<link rel="alternate" type="application/rss+xml"  title="RSS Feed"   href="/rss.xml" />
-<meta property="og:image" content="/logo.png" />
-<meta name="thumbnail" content="/logo.png" /> 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="geo.region" content="PT" />
-<meta name="geo.placename" content="{{ page.Concelho }}" />
-
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@publicoemprego" />  
-<meta name="twitter:title" content="Emprego {{ page.Concelho }}" />
-<meta name="twitter:description" content="Oferta de emprego: {{ page.Trabalho}}, {{ page.Empregador}}, {{ page.Concelho }}" />
-<meta name="twitter:image" content="/logo.png" />
-<meta name="twitter:image:alt" content="Oferta de emprego: {{ page.Trabalho}}, {{ page.Empregador}}, {{ page.Concelho }}" />
-
-
-<title>{{ page.Concelho }} | {{ page.Trabalho }} | {{ page.Empregador}} | Emprego Público</title>
-
-<script type="application/ld+json"> 
-{ 
-"@context" : "https://schema.org/", 
-"@type" : "JobPosting",
-"title" : "{{ page.Trabalho }}", 
-"description" : "<p>{{ page.Descricao }}</p>", 
-"datePosted" : "{{ page.DataAbertura }}", 
-"validThrough" : "{{ page.DataFecho }}", 
-"employmentType" : "full_time", 
-"hiringOrganization" : { 
-"@type" : "Organization", 
-"name" : "{{ page.Empregador }}" 
-},
-"baseSalary": {
-"@type": "MonetaryAmount",
-"currency": "EUR",
-"value": {
-"@type": "QuantitativeValue",
-"value": 0,
-"unitText": "MONTH"
-}
-}, 
-"jobLocation": { 
-"@type": "Place", 
-"address": {    
-"@type": "PostalAddress",    
-"streetAddress": "{{ page.Empregador }}",    
-"addressLocality": "{{ page.Concelho }}",    
-"addressRegion": "{{ page.Distrito }}",    
-"postalCode": "{{ page.CodigoPostal }}",    
-"addressCountry": "PT"    
-}    
-} 
-} 
-</script>
-      
+  {%- include custom-head.html -%}
+  
 </head>
