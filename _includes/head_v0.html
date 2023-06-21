@@ -1,0 +1,54 @@
+<head>
+
+<meta charset="UTF-8">
+<meta name="HandheldFriendly" content="true" />
+<meta name="description" content=" {{ page.Concelho }} , {{ page.Trabalho}}  , {{ page.Empregador}} , oferta, emprego, trabalho, job offer, job post">
+<meta name="author" content="Emprego público dados abertos">
+<meta name="robots" content="follow, index" />
+<link rel="icon" href="/icon.png">
+<link rel="canonical" href="https://empregopublico.github.io/empregos/j{{ page.Id }}.html" />
+<link rel="alternate" type="application/rss+xml"  title="RSS Feed"   href="/rss.xml" />
+<meta property="og:image" content="/logo.png" />
+<meta name="thumbnail" content="/logo.png" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="geo.region" content="PT" />
+<meta name="geo.placename" content="{{ page.Concelho }}" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@publicoemprego" />  
+<meta name="twitter:title" content="Emprego {{ page.Concelho }}" />
+<meta name="twitter:description" content="Oferta de emprego: {{ page.Trabalho}}, {{ page.Empregador}}, {{ page.Concelho }}" />
+<meta name="twitter:image" content="/logo.png" />
+<meta name="twitter:image:alt" content="Oferta de emprego: {{ page.Trabalho}}, {{ page.Empregador}}, {{ page.Concelho }}" />
+
+
+<title>Emprego {{ page.Concelho }} | {{ page.Trabalho }} | {{ page.Empregador}} | Emprego Público</title>
+
+<script type="application/ld+json"> 
+{ 
+"@context" : "https://schema.org/", 
+"@type" : "JobPosting",
+"title" : "{{ page.Trabalho }}", 
+"description" : "<p>{{ page.Descricao }}</p>", 
+"datePosted" : "{{ page.DataAbertura }}", 
+"validThrough" : "{{ page.DataFecho }}", 
+"employmentType" : "full_time", 
+"hiringOrganization" : { 
+"@type" : "Organization", 
+"name" : "{{ page.Empregador }}" 
+},
+"jobLocation": { 
+"@type": "Place", 
+"address": {    
+"@type": "PostalAddress",    
+"streetAddress": "{{ page.Empregador }}",    
+"addressLocality": "{{ page.Concelho }}",    
+"addressRegion": "{{ page.Distrito }}",    
+"postalCode": "{{ page.CodigoPostal }}",    
+"addressCountry": "PT"    
+}    
+} 
+} 
+</script>
+      
+</head>
