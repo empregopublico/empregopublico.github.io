@@ -36,7 +36,7 @@
 		<p><br/></p>
 		<p><br/></p>		
 
-
+		{% assign posts = site.posts %}
 		<ul class="post-list">
 		  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 		  {%- for post in posts -%}
