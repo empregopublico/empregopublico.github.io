@@ -35,9 +35,11 @@
 		<ul class="post-list">
 		  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 		  {%- for post in posts -%}
-		  <li>
-			<p><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></p>
-		  </li>
+			  {% if forloop.index <= 50 %}
+			  <li>
+				<p><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></p>
+			  </li>
+			  {% endif %}
 		  {%- endfor -%}
 		</ul>
 
