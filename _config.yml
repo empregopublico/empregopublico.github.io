@@ -23,6 +23,10 @@ plugins:
 feed:
   posts_limit: 1000
 
+
+locale: pt-PT
+
+
 # Theme-specific settings
 minima:
   # Minima date format.
