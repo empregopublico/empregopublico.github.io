@@ -1,0 +1,7 @@
+plugins:
+  - jekyll-feed
+  
+
+feed:
+  posts_limit: 1000
+  
