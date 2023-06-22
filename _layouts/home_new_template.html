@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-PT"> 
+	{% include head_home_new_template.html %}
+	
+<body>
+    
+<div class="container py-3">
+  <header>
+    <div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+      <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
+        <span class="fs-4">Emprego Público - Dados Abertos</span>
+      </a>
+
+      <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+        <a class="me-3 py-2 text-dark text-decoration-none" href="/">Home</a>
+        <a class="me-3 py-2 text-dark text-decoration-none" href="/empregos/">Lista Empregos</a>
+        <a class="me-3 py-2 text-dark text-decoration-none" href="https://twitter.com/PublicoEmprego/" target="_blank">Twitter</a>
+        <a class="py-2 text-dark text-decoration-none" href="/rss.xml" target="_blank">RSS</a>
+      </nav>
+    </div>
+
+  </header>
+
+  <main>
+	<div>
+		<h1><strong>Emprego Público - Dados Abertos</strong></h1>
+		<h2>Projecto de dados abertos (open-data)</h2>
+		<p><br/></p>
+		<h3>Objectivos:</h3>
+		<p>Tornar as ofertas de emprego público disponibilizadas em <a target="_blank" href="https://www.bep.gov.pt/">https://www.bep.gov.pt/</a> indexáveis pelos motores de busca (Google, Bing, etc) através da utilização de dados estruturados (<a target="_blank" href="https://developers.google.com/search/docs/data-types/job-posting">exemplo</a>).</p>
+		<p>Fazer com que essas ofertas de emprego público cheguem a mais pessoas que procuram emprego através de pesquisas em motores de busca.</p>
+		<p>Trata-se de um projecto exploratório/auto-didacta. (<a target="_blank" href="https://ricardomar.github.io/">Contactos de Ricardo Martins.</a>).</p>
+		<p><br/></p>
+		<h3>Lista:</h3>
+		<p>Ver (<a href="/empregos">lista de ofertas de emprego público indexados</a>).</p>		
+		<p><br/></p>
+		<p><br/></p>		
+		<p><br/></p>		
+		<p><br/></p>		
+		<p><br/></p>		
+		<p><br/></p>
+		<nav aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item active" aria-current="page">Home</li></ol></nav>	
+		<p><br/></p>		
+	</div>
+	
+
+
+
+	<div>
+		<script type="application/ld+json">
+		{
+		  "@context": "https://schema.org",
+		  "@type": "BreadcrumbList",
+		  "itemListElement": [{
+			"@type": "ListItem",
+			"position": 1,
+			"name": "Home",
+			"item": "https://empregopublico.github.io/"
+		  }]
+		}
+		</script>
+	</div>	
+	
+	<div>
+		<!-- Global site tag (gtag.js) - Google Analytics -->   
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-LVKN1ZRD4E"></script> 
+		<script>  
+		window.dataLayer = window.dataLayer || [];  
+		function gtag(){dataLayer.push(arguments);}  
+		gtag('js', new Date());   
+		gtag('config', 'G-LVKN1ZRD4E');  
+		</script>
+	</div>
+	
+  </main>
+
+  <footer class="pt-4 my-md-5 pt-md-5 border-top">
+		<p><a href="https://empregopublico.github.io/">Projecto/iniciativa</a> experimental de dados abertos (open-data). Projecto auto-didacta de <a href="https://ricardomar.github.io/" target="_blank">Ricardo Martins</a>.</p>
+		<p>Segue este projecto no <a href="https://twitter.com/publicoemprego" target="_blank" >Twitter</a> ou via <a href="/rss.xml">RSS feed</a>.</p>
+  </footer>
+</div>
+    
+</body>
+</html>
