@@ -23,8 +23,6 @@ plugins:
 feed:
   posts_limit: 1000
 
-paginate: 10
-
 # Theme-specific settings
 minima:
   # Minima date format.
