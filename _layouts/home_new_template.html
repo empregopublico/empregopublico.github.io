@@ -37,7 +37,7 @@
 		  {%- for post in posts -%}
 			  {% if forloop.index <= 200 %}
 			  <li>
-				<p><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></p>
+				<p><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></p>
 			  </li>
 			  {% endif %}
 		  {%- endfor -%}
