@@ -18,6 +18,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
+  
+
+feed:
+  posts_limit: 200
 
 # Theme-specific settings
 minima:
