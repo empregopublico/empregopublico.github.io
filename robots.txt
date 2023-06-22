@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://empregopublico.github.io/feed.xml
