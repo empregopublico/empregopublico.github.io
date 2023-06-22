@@ -1,38 +1,27 @@
-<main class="page-content" aria-label="Content">
-	<div class="wrapper">
+<!DOCTYPE html>
+<html lang="pt-PT"> 
+	{% include head_emprego_new_template.html %}
 	
-		<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+<body>
+    
+<div class="container py-3">
+  <header>
+    <div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
+      <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
+        <span class="fs-4">Emprego Público - Dados Abertos</span>
+      </a>
 
-		  <header class="post-header">
-			<h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-			<p class="post-meta">
-			  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-			  <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-				{{ page.date | date: date_format }}
-			  </time>
-			  {%- if page.modified_date -%}
-				~ 
-				{%- assign mdate = page.modified_date | date_to_xmlschema -%}
-				<time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-				  {{ mdate | date: date_format }}
-				</time>
-			  {%- endif -%}
-			  {%- if page.author -%}
-				• {% for author in page.author %}
-				  <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-					<span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-					{%- if forloop.last == false %}, {% endif -%}
-				{% endfor %}
-			  {%- endif -%}</p>
-		  </header>
+      <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+        <a class="me-3 py-2 text-dark text-decoration-none" href="/">Home</a>
+        <a class="me-3 py-2 text-dark text-decoration-none" href="/empregos/">Lista Empregos</a>
+        <a class="me-3 py-2 text-dark text-decoration-none" href="https://twitter.com/PublicoEmprego/" target="_blank">Twitter</a>
+        <a class="py-2 text-dark text-decoration-none" href="/rss.xml" target="_blank">RSS</a>
+      </nav>
+    </div>
 
-		  <div class="post-content e-content" itemprop="articleBody">
+  </header>
 
-
-
-
-
-
+  <main>
 	<div>
 		<h1><strong>Emprego {{ page.Concelho }} - {{ page.Trabalho }} </strong></h1>
 		<h2>{{ page.Empregador }}</h2>
@@ -139,23 +128,14 @@
 		gtag('config', 'G-LVKN1ZRD4E');  
 		</script>
 	</div>
+	
+  </main>
 
-
-
-
-
-
-
-
-
-
-		  </div>
-
-
-		  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-		</article>
-
-	</div>
-</main>
-
-
+  <footer class="pt-4 my-md-5 pt-md-5 border-top">
+		<p><a href="https://empregopublico.github.io/">Projecto/iniciativa</a> experimental de dados abertos (open-data). Projecto auto-didacta de <a href="https://ricardomar.github.io/" target="_blank">Ricardo Martins</a>.</p>
+		<p>Segue este projecto no <a href="https://twitter.com/publicoemprego" target="_blank" >Twitter</a> ou via <a href="/rss.xml">RSS feed</a>.</p>
+  </footer>
+</div>
+    
+</body>
+</html>

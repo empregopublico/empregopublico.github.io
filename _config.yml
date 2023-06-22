@@ -1,3 +1,9 @@
+title: Emprego Público - Dados Abertos
+author:
+  name: Emprego Público
+#  email: your-email@domain.com
+
+
 plugins:
   - jekyll-feed
   
