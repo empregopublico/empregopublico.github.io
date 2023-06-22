@@ -10,4 +10,5 @@ plugins:
 
 feed:
   posts_limit: 1000
+  path: /rss.xml
   
