@@ -21,7 +21,7 @@ plugins:
   
 
 feed:
-  posts_limit: 200
+  posts_limit: 1000
 
 # Theme-specific settings
 minima:
