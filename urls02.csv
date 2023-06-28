@@ -1,7 +1,0 @@
----
-layout: null
----
-myURLS,myTittle
-{% for post in site.posts %}
-{% if forloop.index <= 2000 %}{{ site.url }}{{ post.url }}{% endif %},{{post.Concelho}} - {{post.Trabalho}} - {{post.Empregador}}
-{% endfor %}
