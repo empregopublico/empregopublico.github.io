@@ -1,0 +1,9 @@
+---
+layout: null
+---
+idBEP,refBEP,Job,Employer,Description,PostalCode,County,District,DateOpen,DateClose
+{% for post in site.posts %}
+{{post.Id}},{{post.Ref}},{{post.Trabalho}},{{post.Empregador}},{{post.Descricao}},{{post.CodigoPostal}},{{post.Concelho}},{{post.Distrito}},{{post.DataAbertura}},{{post.DataFecho}}
+{% endfor %}
+{{ site.url }}{{ post.url }}
+
