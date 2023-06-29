@@ -3,6 +3,5 @@ layout: null
 ---
 myURLS
 https://empregopublico.github.io/
-{% for post in site.posts %}
-{% if forloop.index <= 2000 %}{{ site.url }}{{ post.url }}{% endif %}
-{% endfor %}
+{% for post in site.posts %}{% if forloop.index <= 2000 %}
+{{ site.url }}{{ post.url }}{% endif %}{% endfor %}
