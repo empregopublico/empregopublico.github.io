@@ -59,9 +59,10 @@
 		<p><a target="_blank" href="https://www.bep.gov.pt/pages/oferta/Oferta_Detalhes.aspx?CodOferta={{ page.Id }}">https://www.bep.gov.pt/pages/oferta/Oferta_Detalhes.aspx?CodOferta={{ page.Id }}</a></p>
 		<p><br/></p>		
 		<h3>Mapa:</h3>
-		<iframe width="400" height="400" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q={{ page.Empregador }} {{ page.Concelho }}&language=pt-PT&key=AIzaSyDhY_DeivuFCPgnnH3lqMITRrdSIPRxL1w"></iframe> 
+		<iframe width="400" height="400" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q={{ page.Empregador | url_encode }}+{{ page.Concelho | url_encode}}&language=pt-PT&key=AIzaSyDhY_DeivuFCPgnnH3lqMITRrdSIPRxL1w"></iframe> 
 		
 		
+
 		<nav aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="/">Home</a></li><li class="breadcrumb-item active" aria-current="page">Emprego Ref: {{ page.Id }}</li></ol></nav>
 		</div>
 				
