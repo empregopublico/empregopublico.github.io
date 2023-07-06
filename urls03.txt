@@ -2,5 +2,5 @@
 layout: null
 ---
 {% for post in site.posts %}
-{% if forloop.index <= 2000 and post.Distrito == "Coimbra" %}{{ site.url }}{{ post.url }}
+{% if forloop.index <= 2000 and post.Distrito contains "Coimbra" %}{{ site.url }}{{ post.url }}
 Emprego {{post.Concelho | escape }} - {{post.Trabalho | escape }} - {{post.Empregador | escape }} - {{post.DataAbertura | escape }}{% endif %}{% endfor %}
