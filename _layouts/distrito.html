@@ -33,6 +33,10 @@
 		{% endif %}{% endfor %}
 		</ul>
 		
+		<h3>Mapa:</h3>
+		<iframe width="400" height="400" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q={{ page.Distrito | url_encode }}+Portugal&language=pt-PT&key=AIzaSyDhY_DeivuFCPgnnH3lqMITRrdSIPRxL1w"></iframe> 
+		
+		
 		
 		<nav aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="/">Home</a></li><li class="breadcrumb-item active" aria-current="page">Emprego Distrito {{ page.Distrito }}</li></ol></nav>
 		</div>
