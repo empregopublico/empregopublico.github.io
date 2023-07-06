@@ -6,8 +6,59 @@ layout: null
     <url>
       <loc>https://empregopublico.github.io/</loc>
       <changefreq>daily</changefreq>
-    </url>  
-  
+    </url>
+    <url>
+      <loc>https://empregopublico.github.io/emprego-aveiro.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 
+    <url>
+      <loc>https://empregopublico.github.io/emprego-beja.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 	
+    <url>
+      <loc>https://empregopublico.github.io/emprego-braga.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 
+    <url>
+      <loc>https://empregopublico.github.io/emprego-braganca.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 
+    <url>
+      <loc>https://empregopublico.github.io/emprego-castelo-branco.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 
+    <url>
+      <loc>https://empregopublico.github.io/emprego-coimbra.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 
+    <url>
+      <loc>https://empregopublico.github.io/emprego-evora.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 
+    <url>
+      <loc>https://empregopublico.github.io/emprego-faro.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 
+    <url>
+      <loc>https://empregopublico.github.io/emprego-guarda.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 
+    <url>
+      <loc>https://empregopublico.github.io/emprego-leiria.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 
+    <url>
+      <loc>https://empregopublico.github.io/emprego-lisboa.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 
+    <url>
+      <loc>https://empregopublico.github.io/emprego-portalegre.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 
+    <url>
+      <loc>https://empregopublico.github.io/emprego-porto.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 	
   {% for post in site.posts %}
   {% if forloop.index <= 2000 %}
     <url>
