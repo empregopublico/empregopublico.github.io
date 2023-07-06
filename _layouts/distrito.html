@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-PT"> 
-	{% include head_emprego_new_template.html %}
+	{% include head_distrito.html %}
 	
 <body>
     
@@ -66,51 +66,7 @@
 				
 	</div>
 	</article>
-	
-    <div>	  
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [{
-        "@type": "Question",
-        "name": "Onde e qual é a oferta de emprego ?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": " Emprego {{ page.Concelho }} - {{ page.Trabalho }}  "
-        }
-      }, {
-        "@type": "Question",
-        "name": "Qual é o empregador ?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": " {{ page.Empregador }} "
-        }
-      }, {
-        "@type": "Question",
-        "name": "Funções do emprego?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": " {{ page.Descricao }} "
-        }
-      }, {
-        "@type": "Question",
-        "name": "Como poderá candidatar-se a esta oferta de emprego?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "No website https://www.bep.gov.pt/pages/oferta/Oferta_Detalhes.aspx?CodOferta={{ page.Id }}"
-        }
-      }, {
-        "@type": "Question",
-        "name": "Data de fecho do concurso de emprego ?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text":" {{ page.DataFecho}} "}
-        }]
-    }
-    </script> 
-    </div>	
-    
+	    
 
 	<div>
 		<script type="application/ld+json">
@@ -125,13 +81,8 @@
 		  },{
 			"@type": "ListItem",
 			"position": 2,
-			"name": "Empregos",
-			"item": "https://empregopublico.github.io/empregos/"
-		  },{
-			"@type": "ListItem",
-			"position": 3,
-			"name": "Emprego Ref: {{ page.Id }}",
-			"item": "https://empregopublico.github.io/empregos/j{{ page.Id }}.html"
+			"name": "Emprego Distrito {{ page.Distrito }}",
+			"item": "https://empregopublico.github.io{{ page.url }}"
 		  }]
 		}
 		</script>
