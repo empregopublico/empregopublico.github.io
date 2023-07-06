@@ -22,39 +22,26 @@
   </header>
 
   <main>
-    <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 	<div>
 
-		<h1 class="post-title p-name" itemprop="name headline"><strong>{{ page.title | escape }}</strong></h1>
-		<p class="post-meta">
-		  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-		  <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-			{{ page.date | date: date_format }}
-		  </time>
-		  {%- if page.modified_date -%}
-			~ 
-			{%- assign mdate = page.modified_date | date_to_xmlschema -%}
-			<time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-			  {{ mdate | date: date_format }}
-			</time>,
-		  {%- endif -%}
-			<span itemprop="author" itemscope itemtype="http://schema.org/Person">
-			<span class="p-author h-card" itemprop="name">{{ site.author.name }}</span></span>
-		</p>	
+		<h1><strong>{{ page.title | escape }}</strong></h1>
 	
-		<div class="post-content e-content" itemprop="articleBody">
+		<div>
 
 
-		{% for post in site.posts limit:2000 %}{% if post.Distrito contains "{{ page.Distrito }}" %}<p>{{ site.url }}{{ post.url }}</p>
+		{% for post in site.posts limit:2000 %}
+		{% if post.Distrito contains "{{ page.Distrito }}" %}
+		<p>{{ site.url }}{{ post.url }}</p>
 		<p>Emprego {{post.Concelho | escape }} - {{post.Trabalho | escape }} - {{post.Empregador | escape }} - {{post.DataAbertura | escape }} </p>
-		{% else %}{% continue %}{% endif %}{% endfor %}
+		{% endif %}
+		{% endfor %}
 		
 		
 		<nav aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="/">Home</a></li><li class="breadcrumb-item active" aria-current="page">Emprego Distrito {{ page.Distrito }}</li></ol></nav>
 		</div>
 				
 	</div>
-	</article>
+
 	    
 
 	<div>
