@@ -28,15 +28,14 @@
 	
 		<div>
 
-
+		<ul>
 		{% for post in site.posts limit:2000 %}
 		{% if post.Distrito contains {{page.Distrito}} %}
 		<p>{{ site.url }}{{ post.url }}</p>
-		<p>{{post.Distrito}}</p>
-		<p>{{page.Distrito}}</p>
-		<p>Emprego {{post.Concelho | escape }} - {{post.Trabalho | escape }} - {{post.Empregador | escape }} - {{post.DataAbertura | escape }} </p>
+		<li><p><a href="{{ site.url }}{{ post.url }}">Emprego {{post.Concelho | escape }} - {{post.Trabalho | escape }} - {{post.Empregador | escape }} - {{post.DataAbertura | escape }} </a></p></li>
 		{% endif %}
 		{% endfor %}
+		<ul>
 		
 		
 		<nav aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="/">Home</a></li><li class="breadcrumb-item active" aria-current="page">Emprego Distrito {{ page.Distrito }}</li></ol></nav>
@@ -60,7 +59,7 @@
 			"@type": "ListItem",
 			"position": 2,
 			"name": "Emprego Distrito {{ page.Distrito }}",
-			"item": "https://empregopublico.github.io{{ page.url }}"
+			"item": "{{ site.url }}{{ post.url }}"
 		  }]
 		}
 		</script>
