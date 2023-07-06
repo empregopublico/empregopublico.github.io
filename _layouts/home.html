@@ -32,7 +32,7 @@
 		<p><br/></p>
 		<h3>Lista últimas 200 ofertas:</h3>
 		{% assign posts = site.posts %}
-		<ul class="post-list">
+		<ul>
 		  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 		  {%- for post in posts -%}
 			  {% if forloop.index <= 200 %}
