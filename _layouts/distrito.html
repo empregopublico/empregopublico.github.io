@@ -31,6 +31,8 @@
 
 		{% for post in site.posts limit:2000 %}
 		<p>{{ site.url }}{{ post.url }}</p>
+		<p>{{post.Distrito}}</p>
+		<p>{{page.Distrito}}</p>
 		<p>Emprego {{post.Concelho | escape }} - {{post.Trabalho | escape }} - {{post.Empregador | escape }} - {{post.DataAbertura | escape }} </p>
 		{% endfor %}
 		
