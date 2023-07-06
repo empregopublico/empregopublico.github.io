@@ -2,4 +2,5 @@
 layout: null
 ---
 {% for post in site.posts limit:2000 %}{% if post.Distrito contains "Coimbra" %}<p>{{ site.url }}{{ post.url }}</p>
-<p>Emprego {{post.Concelho | escape }} - {{post.Trabalho | escape }} - {{post.Empregador | escape }} - {{post.DataAbertura | escape }} </p>{% else %}{% continue %}{% endif %}{% endfor %}
+<p>Emprego {{post.Concelho | escape }} - {{post.Trabalho | escape }} - {{post.Empregador | escape }} - {{post.DataAbertura | escape }} </p>
+{% else %}{% continue %}{% endif %}{% endfor %}
