@@ -30,7 +30,7 @@
 
 
 		{% for post in site.posts limit:2000 %}
-		{% if post.Distrito contains {{post.Distrito}} %}
+		{% if post.Distrito contains {{page.Distrito}} %}
 		<p>{{ site.url }}{{ post.url }}</p>
 		<p>{{post.Distrito}}</p>
 		<p>{{page.Distrito}}</p>
