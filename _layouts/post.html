@@ -98,8 +98,9 @@
 		{% elsif page.Distrito contains "Porto" %}
 		<p><a href="/emprego-porto.html">Lista de últimas ofertas de emprego no distrito de {{page.Distrito}}</a>.</p>
 	
-		{% endif %}		
+		{% endif %}	
 		
+        <p><br/></p>
 		<h3>Mapa:</h3>
 		<iframe width="350" height="350" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q={{ page.Empregador | url_encode }}+{{ page.Concelho | url_encode}}&language=pt-PT&key=AIzaSyDhY_DeivuFCPgnnH3lqMITRrdSIPRxL1w"></iframe> 
 		
