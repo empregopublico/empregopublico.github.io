@@ -57,7 +57,70 @@
 		<h3>Como poderá candidatar-se a esta oferta de emprego?</h3>
 		<p>Informação completa disponível no site oficial da oferta de emprego:</p>
 		<p><a target="_blank" href="https://www.bep.gov.pt/pages/oferta/Oferta_Detalhes.aspx?CodOferta={{ page.Id }}">www.bep.gov.pt/pages/oferta/Oferta_Detalhes.aspx?CodOferta={{ page.Id }}</a></p>
-		<p><br/></p>		
+		<p><br/></p>
+		<h3>Mais ofertas de emprego no distrito de {{page.Distrito}}?</h3>
+		{% if page.Distrito contains "Aveiro" %}
+		<p><a href="/emprego-aveiro.html">Lista de últimas ofertas de emprego no distrito de {{page.Distrito}}</a>.</p>
+		
+		{% elsif page.Distrito contains "Beja" %}
+		<p><a href="/emprego-beja.html">Lista de últimas ofertas de emprego no distrito de {{page.Distrito}}</a>.</p>
+		
+		{% elsif page.Distrito contains "Braga" %}		
+		<p><a href="/emprego-braga.html">Lista de últimas ofertas de emprego no distrito de {{page.Distrito}}</a>.</p>
+		
+		{% elsif page.Distrito contains "Bragança" %}
+		<p><a href="/emprego-braganca.html">Lista de últimas ofertas de emprego no distrito de {{page.Distrito}}</a>.</p>		
+		
+		{% elsif page.Distrito contains "Castelo Branco" %}
+		<p><a href="/emprego-castelo-branco.html">Lista de últimas ofertas de emprego no distrito de {{page.Distrito}}</a>.</p>
+		
+		{% elsif page.Distrito contains "Coimbra" %}
+		<p><a href="/emprego-coimbra.html">Lista de últimas ofertas de emprego no distrito de {{page.Distrito}}</a>.</p>
+		
+		{% elsif page.Distrito contains "Évora" %}
+		<p><a href="/emprego-evora.html">Lista de últimas ofertas de emprego no distrito de {{page.Distrito}}</a>.</p>
+		
+		{% elsif page.Distrito contains "Faro" %}
+		<p><a href="/emprego-faro.html">Lista de últimas ofertas de emprego no distrito de {{page.Distrito}}</a>.</p>
+		
+		{% elsif page.Distrito contains "Guarda" %}
+		<p><a href="/emprego-guarda.html">Lista de últimas ofertas de emprego no distrito de {{page.Distrito}}</a>.</p>
+		
+		{% elsif page.Distrito contains "Leiria" %}
+		<p><a href="/emprego-leiria.html">Lista de últimas ofertas de emprego no distrito de {{page.Distrito}}</a>.</p>
+		
+		{% elsif page.Distrito contains "Lisboa" %}
+		<p><a href="/emprego-lisboa.html">Lista de últimas ofertas de emprego no distrito de {{page.Distrito}}</a>.</p>
+		
+		{% elsif page.Distrito contains "Portalegre" %}
+		<p><a href="/emprego-portalegre.html">Lista de últimas ofertas de emprego no distrito de {{page.Distrito}}</a>.</p>
+		
+		{% elsif page.Distrito contains "Porto" %}
+		<p><a href="/emprego-porto.html">Lista de últimas ofertas de emprego no distrito de {{page.Distrito}}</a>.</p>
+	
+		{% endif %}		
+		
+
+    <url>
+      <loc>https://empregopublico.github.io/emprego-leiria.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 
+    <url>
+      <loc>https://empregopublico.github.io/emprego-lisboa.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 
+    <url>
+      <loc>https://empregopublico.github.io/emprego-portalegre.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 
+    <url>
+      <loc>https://empregopublico.github.io/emprego-porto.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 		
+		
+		
+		
+		
 		<h3>Mapa:</h3>
 		<iframe width="350" height="350" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q={{ page.Empregador | url_encode }}+{{ page.Concelho | url_encode}}&language=pt-PT&key=AIzaSyDhY_DeivuFCPgnnH3lqMITRrdSIPRxL1w"></iframe> 
 		
