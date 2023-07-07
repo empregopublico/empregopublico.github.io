@@ -59,6 +59,27 @@ layout: null
       <loc>https://empregopublico.github.io/emprego-porto.html</loc>
       <changefreq>daily</changefreq>
     </url> 	
+    <url>
+      <loc>https://empregopublico.github.io/emprego-santarem.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 
+    <url>
+      <loc>https://empregopublico.github.io/emprego-setubal.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 
+    <url>
+      <loc>https://empregopublico.github.io/emprego-viana-castelo.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 
+    <url>
+      <loc>https://empregopublico.github.io/emprego-vila-real.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 
+    <url>
+      <loc>https://empregopublico.github.io/emprego-viseu.html</loc>
+      <changefreq>daily</changefreq>
+    </url> 	
+	
   {% for post in site.posts %}
   {% if forloop.index <= 2000 %}
     <url>
