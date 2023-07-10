@@ -22,27 +22,27 @@
   </header>
 
   <main>
-    <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+    <article itemscope itemtype="http://schema.org/BlogPosting">
 	<div>
 
-		<h1 class="post-title p-name" itemprop="name headline"><strong>{{ page.title | escape }}</strong></h1>
-		<p class="post-meta">
+		<h1 itemprop="name headline"><strong>{{ page.title | escape }}</strong></h1>
+		<p>
 		  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-		  <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+		  <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
 			{{ page.date | date: date_format }}
 		  </time>
 		  {%- if page.modified_date -%}
 			~ 
 			{%- assign mdate = page.modified_date | date_to_xmlschema -%}
-			<time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+			<time datetime="{{ mdate }}" itemprop="dateModified">
 			  {{ mdate | date: date_format }}
 			</time>,
 		  {%- endif -%}
 			<span itemprop="author" itemscope itemtype="http://schema.org/Person">
-			<span class="p-author h-card" itemprop="name">{{ site.author.name }}</span></span>
+			<span itemprop="name">{{ site.author.name }}</span></span>
 		</p>	
 	
-		<div class="post-content e-content" itemprop="articleBody">
+		<div  itemprop="articleBody">
 		<h2>{{ page.Empregador }}</h2>
 		<p><br/></p>
 		<h3>Funções do emprego:</h3>
