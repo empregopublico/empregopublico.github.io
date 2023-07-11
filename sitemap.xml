@@ -81,7 +81,9 @@ layout: null
     </url> 	
 	
   {% for post in site.posts %}
-  {% if forloop.index <= 2000 %}
+  {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+  {% capture posttime %}{{post.DataFecho | date: '%s'}}{% endcapture %}
+  {% if posttime >= nowunix %}
     <url>
       <loc>{{ site.url }}{{ post.url }}</loc>
       {% if post.lastmod == null %}
