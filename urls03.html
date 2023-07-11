@@ -3,5 +3,5 @@ layout: null
 ---
 {% for post in site.posts %}
 {% if forloop.index <= 2000 %}
-<p><a href="https://twitter.com/intent/tweet?text=Oferta de Emprego {{post.Concelho | escape }}: {{post.Trabalho | escape }} - {{post.Empregador | escape }}&url={{ site.url }}{{ post.url }}">Emprego {{post.Concelho | escape }} - {{post.Trabalho | escape }} - {{post.Empregador | escape }}</a></p>
+<p><a href="https://twitter.com/intent/tweet?text=Oferta de Emprego {{post.Concelho | escape }}: {{post.Trabalho | escape }} - {{post.Empregador | escape }}&url={{ site.url }}{{ post.url }}">Emprego {{post.Concelho | escape }} - {{post.Trabalho | escape }} - {{post.Empregador | escape }} - {{post.DataAbertura | escape }}</a></p>
 {% endif %}{% endfor %}
