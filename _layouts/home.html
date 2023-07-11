@@ -33,9 +33,10 @@
 		<h3>Lista últimas 200 ofertas:</h3>
 		{% assign posts = site.posts %}
 		<ul>
-		  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 		  {%- for post in posts -%}
-			  {% if forloop.index <= 200 %}
+		  	{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+			{% capture posttime %}{{post.DataFecho | date: '%s'}}{% endcapture %}
+			{% if posttime >= nowunix %}
 			  <li>
 				<p><a href="{{ post.url | relative_url }}">{{ post.DataAbertura | escape }} - {{ post.Concelho | escape }} - {{ post.Trabalho | escape }} -  {{ post.Empregador | escape }}</a></p>
 			  </li>
