@@ -33,13 +33,13 @@
 		<h3>Ofertas activas:</h3>
 		{% assign posts = site.posts %}
 		<table class="table table-hover">
-		<thead><tr><th scope="col">Data Abertura</th><th scope="col">Emprego</th><th scope="col">Concelho</th><th scope="col">Data Limite</th></tr></thead>
+		<thead><tr><th scope="col">Data Abertura</th><th scope="col">Emprego</th><th scope="col">Concelho</th></tr></thead>
 		<tbody>
 		  {%- for post in posts -%}
 		  	{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 			{% capture posttime %}{{post.DataFecho | date: '%s'}}{% endcapture %}
 			{% if posttime >= nowunix %}
-			 <tr><th scope="row">{{ post.DataAbertura | escape }}</th><td><a href="{{ post.url | relative_url }}">{{ post.Trabalho | escape }} -  {{ post.Empregador | escape }}</a></td><td>{{ post.Concelho | escape }}</td><td>{{ post.DataFecho | escape }}</td></tr>
+			 <tr><th scope="row">{{ post.DataAbertura | escape }}</th><td><a href="{{ post.url | relative_url }}">{{ post.Trabalho | escape }} -  {{ post.Empregador | escape }}</a></td><td>{{ post.Concelho | escape }}</td></tr>
 			  {% endif %}
 		  {%- endfor -%}
 		</tbody>
