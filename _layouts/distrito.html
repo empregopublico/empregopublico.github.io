@@ -27,11 +27,19 @@
 	
 		<div>
 
-		<ul>
-		{% for post in site.posts limit:2000 %}{% if post.Distrito contains {{page.Distrito}} %}
-		<li><p><a href="{{ post.url | relative_url }}">Emprego {{post.Concelho | escape }} - {{post.Trabalho | escape }} - {{post.Empregador | escape }} - {{post.DataAbertura | escape }} </a></p></li>
-		{% endif %}{% endfor %}
-		</ul>
+		{% assign posts = site.posts %}
+		<table class="table table-hover">
+		<thead><tr><th scope="col">Data Abertura</th><th scope="col">Emprego</th><th scope="col">Concelho</th></tr></thead>
+		<tbody>
+		  {%- for post in posts -%}
+		  	{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+			{% capture posttime %}{{post.DataFecho | date: '%s'}}{% endcapture %}
+			{% if posttime >= nowunix  and post.Distrito contains {{page.Distrito}}%}
+			 <tr><th scope="row">{{ post.DataAbertura | escape }}</th><td><a href="{{ post.url | relative_url }}">{{ post.Trabalho | escape }} -  {{ post.Empregador | escape }}</a></td><td>{{ post.Concelho | escape }}</td></tr>
+			  {% endif %}
+		  {%- endfor -%}
+		</tbody>
+		</table>		
 		
 		<h3>Mapa:</h3>
 		<iframe title="mapa distrito {{ page.Distrito }}" width="350" height="350" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=distrito+de+{{ page.Distrito | url_encode }}+Portugal&language=pt-PT&key=AIzaSyDhY_DeivuFCPgnnH3lqMITRrdSIPRxL1w"></iframe> 
