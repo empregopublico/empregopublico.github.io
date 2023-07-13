@@ -3,5 +3,5 @@ layout: null
 ---
 {% for post in site.posts %}
 {% if forloop.index <= 2000 %}{{ site.url }}{{ post.url }}
-Emprego {{post.Concelho | escape }} - {{post.Trabalho | escape }} - {{post.Empregador | escape }} - {{post.DataAbertura | escape }}
+Emprego {{post.Concelho | escape }} - {{post.Trabalho | escape }} - {{post.Empregador | escape }}
 {{post.Descricao | escape }}{% endif %}{% endfor %}
