@@ -1,0 +1,7 @@
+---
+layout: null
+---
+{% for post in site.posts %}
+{% if forloop.index <= 2000 %}
+<p><a href="https://search.google.com/test/rich-results?url={{ site.url }}{{ post.url }}">Emprego {{post.Concelho | escape }} - {{post.Trabalho | escape }} - {{post.Empregador | escape }} - {{post.DataAbertura | escape }}</a></p>
+{% endif %}{% endfor %}
