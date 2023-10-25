@@ -1,0 +1,28 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="https://jekyllrb.com/" version="{{ jekyll.version }}">Jekyll</generator>
+<link href="https://empregopublico.github.io/rss.xml" rel="self" type="application/atom+xml"/>
+<link href="https://empregopublico.github.io/" rel="alternate" type="text/html"/>
+<updated>{{ site.time | date_to_xmlschema }}</updated>
+<id>https://empregopublico.github.io/myRSS.xml</id>
+<title>Emprego Público - Dados Abertos</title>
+<author><name>Emprego Público</name></author>
+{% for post in site.posts %}
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% capture posttime %}{{post.DataFecho | date: '%s'}}{% endcapture %}
+{% if posttime >= nowunix %}
+<entry>
+<title>{{ post.title | xml_escape }} - {{ post.Empregador | xml_escape }}</title>
+<link href="{{ site.url }}{{ post.url }}"/>
+<published>{{ post.date | date_to_xmlschema }}</published>
+<updated>{{ post.lastmod | date_to_xmlschema }}</updated>
+<id>{{ post.Id }}</id>
+<content type="html">{{post.Descricao | xml_escape }}</content>
+<author><name>Emprego Público</name></author>
+</entry>
+{% endif %}
+{% endfor %}
+</feed>
