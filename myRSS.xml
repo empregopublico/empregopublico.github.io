@@ -18,8 +18,12 @@ layout: null
 <title>{{ post.title | xml_escape }} - {{ post.Empregador | xml_escape }}</title>
 <link href="{{ site.url }}{{ post.url }}"/>
 <published>{{ post.date | date_to_xmlschema }}</published>
+{% if post.lastmod == null %}
+<updated>{{ post.date | date_to_xmlschema }}</updated>
+{% else %}
 <updated>{{ post.lastmod | date_to_xmlschema }}</updated>
-<id>{{ post.Id }}</id>
+{% endif %}
+<id>{{ site.url }}{{ post.url }}</id>
 <content type="html">{{post.Descricao | xml_escape }}</content>
 <author><name>Emprego Público</name></author>
 </entry>
