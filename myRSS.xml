@@ -24,7 +24,7 @@ layout: null
 <updated>{{ post.lastmod | date_to_xmlschema }}</updated>
 {% endif %}
 <id>{{ site.url }}{{ post.url }}</id>
-<content type="html"><p>{{post.Descricao | xml_escape }}</p></content>
+<content type="html">{{post.Descricao | xml_escape }}</content>
 <author><name>Emprego Público</name></author>
 </entry>
 {% endif %}
