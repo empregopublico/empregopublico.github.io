@@ -6,5 +6,5 @@ layout: null
 {{ site.url }}{{ post.url }}
 Emprego {{post.Concelho | escape }} - {{post.Trabalho | escape }} - {{post.Empregador | escape }}
 {{post.Descricao | escape }}
-{%- endif -%}
+{% endif %}
 {% endfor %}
