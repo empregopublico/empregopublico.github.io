@@ -80,18 +80,18 @@ layout: null
       <changefreq>daily</changefreq>
     </url> 	
 	
-  {% for post in site.posts %}
-  {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
-  {% capture posttime %}{{post.DataFecho | date: '%s'}}{% endcapture %}
-  {% if posttime >= nowunix %}
+  {%- for post in site.posts -%}
+  {%- capture nowunix -%}{{'now' | date: '%s'}}{%- endcapture -%}
+  {%- capture posttime -%}{{post.DataFecho | date: '%s'}}{%- endcapture -%}
+  {%- if posttime >= nowunix -%}
     <url>
       <loc>{{ site.url }}{{ post.url }}</loc>
-      {% if post.lastmod == null %}
+      {%- if post.lastmod == null -%}
         <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-      {% else %}
+      {%- else -%}
         <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
-      {% endif %}
+      {%- endif -%}
     </url>
-  {% endif %}
-  {% endfor %}
+  {%- endif -%}
+  {%- endfor -%}
 </urlset>
