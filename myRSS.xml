@@ -10,23 +10,29 @@ layout: null
 <id>https://empregopublico.github.io/myRSS.xml</id>
 <title>Emprego Público - Dados Abertos</title>
 <author><name>Emprego Público</name></author>
+
 {%- for post in site.posts -%}
 {%- capture nowunix -%}{{'now' | date: '%s'}}{%- endcapture -%}
 {%- capture posttime -%}{{post.DataFecho | date: '%s'}}{%- endcapture -%}
 {%- if posttime >= nowunix -%}
+
 <entry>
 <title>{{ post.title | xml_escape }} - {{ post.Empregador | xml_escape }}</title>
 <link href="{{ site.url }}{{ post.url }}"/>
 <published>{{ post.date | date_to_xmlschema }}</published>
+
 {%- if post.lastmod == null -%}
 <updated>{{ post.date | date_to_xmlschema }}</updated>
 {%- else -%}
 <updated>{{ post.lastmod | date_to_xmlschema }}</updated>
 {%- endif -%}
+
 <id>{{ site.url }}{{ post.url }}</id>
 <content type="text">{{post.Descricao | xml_escape }}</content>
 <author><name>Emprego Público</name></author>
 </entry>
+
 {%- endif -%}
 {%- endfor -%}
+
 </feed>
