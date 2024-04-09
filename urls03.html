@@ -1,7 +1,15 @@
 ---
 layout: null
 ---
-{% for post in site.posts %}
-{% if forloop.index <= 2000 %}
-<p><a href="https://twitter.com/intent/tweet?text=Oferta de Emprego {{post.Concelho | escape }}: {{post.Trabalho | escape }} - {{post.Empregador | escape }}&url={{ site.url }}{{ post.url }}">Emprego {{post.Concelho | escape }} - {{post.Trabalho | escape }} - {{post.Empregador | escape }} - {{post.DataAbertura | escape }}</a></p>
-{% endif %}{% endfor %}
+<table>
+<thead><tr><th scope="col">Data Abertura</th><th scope="col">Emprego</th><th scope="col">Concelho</th></tr></thead>
+<tbody>
+  {%- for post in posts -%}
+	{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+	{% capture posttime %}{{post.DataFecho | date: '%s'}}{% endcapture %}
+	{% if posttime >= nowunix %}
+	 <tr><th scope="row">{{ post.DataAbertura | escape }}</th><td><a href="{{ post.url | relative_url }}">{{ post.Trabalho | escape }} -  {{ post.Empregador | escape }} </br> {{ post.Descricao | escape }}</a></td><td>{{ post.Concelho | escape }}</td></tr>
+	  {% endif %}
+  {%- endfor -%}
+</tbody>
+</table>
