@@ -71,17 +71,7 @@
 		</script>
 	</div>	
 	
-	<div>
-		<!-- Global site tag (gtag.js) - Google Analytics -->   
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-LVKN1ZRD4E"></script> 
-		<script>  
-		window.dataLayer = window.dataLayer || [];  
-		function gtag(){dataLayer.push(arguments);}  
-		gtag('js', new Date());   
-		gtag('config', 'G-LVKN1ZRD4E');  
-		</script>
-	</div>
-	
+
   </main>
 
   <footer class="pt-4 my-md-5 pt-md-5 border-top">
@@ -90,68 +80,6 @@
   </footer>
 </div>
     
-	
-<div id="consent-banner">
-	<div class="banner-content">
-		<p>Utilizamos cookies e partilhamos dados com a Google para gerar estatísticas do número de visitas e perfil de visitantes. O seu consentimento ajuda-nos a melhorar a sua experiência. Pode aceitar tudo ou gerir as suas preferências.</p>
-		<div class="banner-buttons">
-			<button class="accept-btn" onclick="acceptConsent()">Aceitar Tudo</button>
-			<button class="manage-btn" onclick="openPreferences()">Gerir Preferências</button>
-		</div>
-	</div>
-</div>
 
-<div id="preferences-modal">
-	<h2>Gerir Preferências <button class="close-modal" onclick="closePreferences()">×</button></h2>
-	<p><input type="checkbox" id="personalizedAds" checked> Permitir Anúncios Personalizados</p>
-	<p><input type="checkbox" id="adMeasurement" checked> Permitir Medição do Desempenho dos Anúncios</p>
-	<button class="accept-btn" onclick="savePreferences()">Guardar Preferências</button>
-</div>
-
-<script>
-    function updateConsent(ad_storage, analytics_storage) {
-        window.dataLayer = window.dataLayer || [];
-        window.dataLayer.push({
-            event: "default_consent",
-            "consent": {
-                "ad_storage": ad_storage,
-                "analytics_storage": analytics_storage
-            }
-        });
-    }
-
-    function acceptConsent() {
-        localStorage.setItem("userConsent", JSON.stringify({ personalizedAds: true, adMeasurement: true }));
-
-        updateConsent("granted", "granted"); // Enables Ads & Analytics
-        document.getElementById("consent-banner").style.display = "none";
-    }
-
-    function savePreferences() {
-        const personalizedAds = document.getElementById("personalizedAds").checked;
-        const adMeasurement = document.getElementById("adMeasurement").checked;
-
-        localStorage.setItem("userConsent", JSON.stringify({ personalizedAds, adMeasurement }));
-
-        updateConsent(personalizedAds ? "granted" : "denied", adMeasurement ? "granted" : "denied");
-
-        closePreferences();
-        document.getElementById("consent-banner").style.display = "none";
-    }
-
-    window.onload = function () {
-        let consentData = JSON.parse(localStorage.getItem("userConsent"));
-        if (consentData) {
-            updateConsent(
-                consentData.personalizedAds ? "granted" : "denied",
-                consentData.adMeasurement ? "granted" : "denied"
-            );
-            document.getElementById("consent-banner").style.display = "none";
-        }
-    };
-</script>
-
-
-	
 </body>
 </html>
