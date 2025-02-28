@@ -117,8 +117,8 @@
 		
         <p><br/></p>
 		<h3>Mapa:</h3>
-		<p>{{ page.Empregador }}, {{ page.CodigoPostal }}</p>
-		<iframe title="mapa {{ page.Empregador }}, {{ page.Concelho }}" width="350" height="350" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q={{ page.Empregador | url_encode }}+{{ page.Concelho | url_encode}}&language=pt-PT&key=AIzaSyDhY_DeivuFCPgnnH3lqMITRrdSIPRxL1w"></iframe> 
+		<p><a href="https://www.google.com/maps/place?q={{ page.Empregador | url_encode }}+{{ page.Concelho | url_encode}}&language=pt-PT" target="_blank">{{ page.Empregador }}, {{ page.CodigoPostal }}</a></p>
+		<!--<iframe title="mapa {{ page.Empregador }}, {{ page.Concelho }}" width="350" height="350" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q={{ page.Empregador | url_encode }}+{{ page.Concelho | url_encode}}&language=pt-PT&key=AIzaSyDhY_DeivuFCPgnnH3lqMITRrdSIPRxL1w"></iframe> -->
 
 		
 
